@@ -10,13 +10,13 @@ As a warmup to this discussion, I cover two analogies to the decoupling we are e
 
 ## General Purpose Computing
 
-<img src="../images/differentialanalyzer.jpeg" width=200>
+<img src="https://rjt1990.github.io/images/differentialanalyzer.jpeg" width=200>
 
-Many groups experimented with early forms of computer in the 1930s. Some examples of early computers included Bush’s Differential Analyzer, Stibitz and Williams’ Complex Computer, the Atansoff-Berry computer and Aiken’s Mark I. These innovations offered marked speedups over slide rules and calculators, but they severely lacked flexibility. A new application required a new machine or a costly reconfiguration. There was no general sense of computing. Hardware and software were coupled.
+Many groups experimented with early forms of computer in the 1930s. Some examples of early computers included Bush’s [Differential Analyzer](https://en.wikipedia.org/wiki/Differential_analyser), Stibitz and Williams’ [Complex Computer](https://en.wikipedia.org/wiki/George_Stibitz#Computer), the [Atansoff-Berry computer](https://en.wikipedia.org/wiki/Atanasoff%E2%80%93Berry_computer) and Aiken’s [Mark I](https://en.wikipedia.org/wiki/Harvard_Mark_I). These innovations offered marked speedups over slide rules and calculators, but they severely lacked flexibility. A new application required a new machine or a costly reconfiguration. There was no general sense of computing. Hardware and software were coupled.
 
-Until recently, lack of generality was a criticism of deep learning models. A model may be state-of-the-art on a benchmark, but its utility may be limited outside a single task or domain. An early exception was ImageNet pre-training where image classification models could be reused for tasks like object detection. But then NLP had its ImageNet moment, and now as transformers move to other ML tasks, model generality (as well as multi-task benchmarks) is becoming more common.
+Until recently, lack of generality was a criticism of deep learning models. A model may be state-of-the-art on a benchmark, but its utility may be limited outside a single task or domain. An early exception was [ImageNet pre-training](https://arxiv.org/abs/1310.1531) where image classification models could be reused for tasks like object detection, semantic segmentation and other tasks. But then [NLP had its ImageNet moment](https://ruder.io/nlp-imagenet/), and now as transformers move to other ML tasks, model generality (as well as multi-task benchmarks) is becoming more common.
 
-Can we find an analogy for general-purpose models in general-purpose computing? General-purpose computing emerged from a theoretical and a practical source. Theoretically it came from Turing machines and practically through stored-program computers. The enabling insight was a decoupling between hardware and software.
+Can we find an analogy for general-purpose models in general-purpose computing? General-purpose computing emerged from a theoretical and a practical source. Theoretically it came from [Turing machines](https://en.wikipedia.org/wiki/Universal_Turing_machine) and practically through [stored-program computers](https://en.wikipedia.org/wiki/Stored-program_computer). The enabling insight was a decoupling between hardware and software.
 
 Turing showed computation is universal under certain conditions: all machines are fundamentally the same. Additionally the actual instructions could be on the tape itself, that is in-memory, rather than encoded elsewhere. This would enable a direct separation between computation and that which is to be computed.
 
@@ -30,7 +30,7 @@ Informally, if we take a trained model, remove its task head (e.g. a fully conne
 
 More formally, a pre-trained model provides side information for prediction. Specifically, for image classification, if we are predicting a class $P\left(X=k\right)$ then the value of the pre-trained weights is the mutual information relative to the class of the image, that is:
 
-$$ I\left(X, Yright) = \mathbb{E}\_{\theta^{*}}\left[D\_{\text{KL}}\left(P\left(X\mid\theta^{*}}\right)P\left(X\mid\theta_{0}\right)\right)\right] $$
+$$ I\left(X, Y\right) = \mathbb{E}\_{\theta^{*}}\left[D\_{\text{KL}}\left(P\left(X\mid\theta^{*}}\right)P\left(X\mid\theta_{0}\right)\right)\right] $$
 
 Why should there be information gain?
 
