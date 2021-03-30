@@ -1,5 +1,5 @@
 # About
-<p>
+<p align="left">
 <img src="images/me.jpeg" width="150"> 
 </p>
 <br/>
