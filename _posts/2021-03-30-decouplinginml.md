@@ -32,6 +32,8 @@ More formally, a pre-trained model provides side information for prediction. Spe
 
 $$ I\left(X; \theta^{*}\right) = \mathbb{E}_{\theta^{*}}\left[D_{KL}\left(P\left(X\mid\theta^{*}\right)\mid\mid{P\left(X\mid\theta^{0}\right)}\right)\right] $$
 
+where $\theta^{*}$ is the weights for the pre-trained model, $theta^{0}$ are randomly initialized weights, and $X$ is the outcome class of the image.
+
 Why should there be information gain?
 
 ...
