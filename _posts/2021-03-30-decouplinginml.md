@@ -2,11 +2,11 @@
 
 Deep Learning is undergoing a decoupling where models are trained in two distinct phases. The first phase involves learning general representations through pre-training. The second phase involves learning or exciting task-specific representations through fine-tuning or prompting. Different companies specialize at each stage. Pretraining is capital-intensive and dominated by AI research labs. Fine-tuning is carried out by companies looking to solve domain-specific problems. In other words, there is a decoupling of agents as well as a decoupling of training.
 
-This is not news to anyone involved in machine learning. The big questions are whether fine-tuning is here to stay and what the implications of large pretrained models might be. In this post I extrapolate existing trends to get a sense of where we might be headed. In particular, I focus on the idea of “models as platforms” where a model can be reused for many purposes in different domains. 
+This is not news to anyone involved in machine learning. The big questions are whether transfer learning is here to stay and what the implications of large pretrained models might be. In this post I extrapolate existing trends to get a sense of where we might be headed. In particular, I focus on the idea of “models as platforms” where a model can be reused for many purposes in different domains. 
 
 Models as platforms means the fine-tuning stage is where the bulk of economic value is created. The models themselves are provided by large companies, either released openly or licensed. In the latter case, the agent that provides the pretrained model takes a cut of the downstream value created (the platform fee). Can this approach win out against an open source model? I consider that question in this post, and other implications from models becoming more general-purpose.
 
-As a warmup to this discussion, I cover two analogies to the decoupling we are experiencing. The first is from the history of computing, the decoupling between hardware and software, and the second from neuroscience, the decoupling between memory and coordination. 
+As a warmup to this discussion, I cover two analogies to the decoupling we are experiencing. The first is from the history of computing, the decoupling between hardware and software, and the second from neuroscience, the decoupling between memory and co-ordination. 
 
 ## General Purpose Computing
 
@@ -34,6 +34,7 @@ $$ I\left(X; \theta^{*}\right) = \mathbb{E}_{\theta^{*}}\left[D_{KL}\left(P\left
 
 where $\theta^{*}$ is the weights for the pre-trained model, $theta^{0}$ are randomly initialized weights, and $X$ is the outcome class of the image.
 
-Why should there be information gain?
+Transfer learning, and information gain, is possible because of knowledge that is implicit in learned features. In the case of an image classifier, we can reuse features like edges abd corners in a new task like object detection or a new domain. In the case of a language model, learning about the structure of language can help with downstream tasks like question answering.
 
-...
+The ML decoupling is therefore between capturing knowledge (memory) and accessing that knowledge to solve a task (co-ordination). In pretraining we want to capture as much information as we can about the world and compress it into a model. In fine-tuning or prompting we want to excite the model into revealing parts of its knowledge that are useful for the task of interest. For example, if we want a good question answering system on legal texts, we need to excite the model to obtain its legal knowledge and configure it for the QA task.
+
