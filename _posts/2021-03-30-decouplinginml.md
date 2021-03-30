@@ -22,7 +22,7 @@ Turing showed computation is universal under certain conditions: all machines ar
 
 In practice, the solution to flexibility and creating a general-purpose computer came from the concept of a stored-program. Instead of instructions being on a punch card, or even worse in the physical construction of the machine itself, instructions could be stored in memory then fetched, executed and returned. To change the application, you need only change the instructions rather than physical construction of the machine.
 
-The synthesis of theory and practice occurred with the vNM architecture: Turing machines for computation (hardware) and stored-programs for instructions (software). Computing could then be general-purpose. The same hardware could support many different types of application. And just as one could play Bach (music) on a piano or a pipe-organ (instruments), you could use the same software on different hardware.
+The synthesis of theory and practice occurred with the [vNM architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture): Turing machines for computation (hardware) and stored-programs for instructions (software). Computing could then be general-purpose. The same hardware could support many different types of application. And just as one could play Bach (music) on a piano or a pipe-organ (instruments), you could use the same software on different hardware.
 
 By general-purpose model, we similarly mean: a machine learning model that can solve multiple tasks in different domains. But what enables a model to be general-purpose? 
 
@@ -30,7 +30,7 @@ Informally, if we take a trained model, remove its task head (e.g. a fully conne
 
 More formally, a pre-trained model provides side information for prediction. Specifically, for image classification, if we are predicting a class $P\left(X=k\right)$ then the value of the pre-trained weights is the mutual information relative to the class of the image, that is:
 
-$$ I\left(X, Y\right) = \mathbb{E}\_{\theta^{*}}\left[D\_{\text{KL}}\left(P\left(X\mid\theta^{*}}\right)P\left(X\mid\theta_{0}\right)\right)\right] $$
+$$ I\left(X, Y\right) = \mathbb{E}\_{\theta^{*}}\left[D\_{KL}\right] $$
 
 Why should there be information gain?
 
