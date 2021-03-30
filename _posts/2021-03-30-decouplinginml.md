@@ -30,7 +30,7 @@ Informally, if we take a trained model, remove its task head (e.g. a fully conne
 
 More formally, a pre-trained model provides side information for prediction. Specifically, for image classification, if we are predicting a class $P\left(X=k\right)$ then the value of the pre-trained weights is the mutual information relative to the class of the image, that is:
 
-$$ I\left(X, Y\right) = \mathbb{E}\_{\theta^{*}}\left[D\_{KL}\right] $$
+$$ I\left(X, Y\right) = \mathbb{E}_{\theta^{*}}\left[D_{KL}\right] $$
 
 Why should there be information gain?
 
