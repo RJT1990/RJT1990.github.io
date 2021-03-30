@@ -10,7 +10,7 @@ As a warmup to this discussion, I cover two analogies to the decoupling we are e
 
 ## General Purpose Computing
 
-<img src="images/differentialanalyzer.jpeg">
+<img src="../images/differentialanalyzer.jpeg" width=200>
 
 Many groups experimented with early forms of computer in the 1930s. Some examples of early computers included Bush’s Differential Analyzer, Stibitz and Williams’ Complex Computer, the Atansoff-Berry computer and Aiken’s Mark I. These innovations offered marked speedups over slide rules and calculators, but they severely lacked flexibility. A new application required a new machine or a costly reconfiguration. There was no general sense of computing. Hardware and software were coupled.
 
@@ -30,7 +30,7 @@ Informally, if we take a trained model, remove its task head (e.g. a fully conne
 
 More formally, a pre-trained model provides side information for prediction. Specifically, for image classification, if we are predicting a class $P\left(X=k\right)$ then the value of the pre-trained weights is the mutual information relative to the class of the image, that is:
 
-$$ I\left(X, Y]right) = \mathbb{E}\_{\theta^{*}}\left[D\_{\text{KL}}\left(P\left(X\mid\theta^{*}}\right)P\left(X\mid\theta_{0}\right)\right)\right] $$
+$$ I\left(X, Yright) = \mathbb{E}\_{\theta^{*}}\left[D\_{\text{KL}}\left(P\left(X\mid\theta^{*}}\right)P\left(X\mid\theta_{0}\right)\right)\right] $$
 
 Why should there be information gain?
 
