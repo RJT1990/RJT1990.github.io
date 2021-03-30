@@ -1,6 +1,6 @@
 # About
 <p>
-<img src=images/me.jpeg width=150> 
+<img src="images/me.jpeg" width="150"> 
 </p>
 
 <p>
