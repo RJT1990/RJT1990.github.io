@@ -32,11 +32,11 @@ Informally, if we take a pretrained model, replace its task head and then finetu
 
 More formally, a pre-trained model provides side information for prediction. Specifically, for image classification, if we are predicting a class $P\left(X=k\right)$ then the value of the pre-trained weights is the mutual information relative to the class of the image, that is:
 
-$$ I\left(X; \theta^{*}\right) = \mathbb{E}_{\theta^{*}}\left[D_{KL}\left(P\left(X\mid\theta^{*}\right)\mid\mid{P\left(X\mid\theta^{0}\right)}\right)\right] $$
+$$ I\left(X; \theta^{*}\right) = \mathbb{E}_{\theta^{*}}\left[D_{KL}\left(P\left(X\mid\h\left(theta^{*}\right)\right)\mid\mid{P\left(X\mid{h}\left(\theta^{0}\right)\right)}\right)\right] $$
 
 where $\theta^{*}$ is the weights for the pre-trained model, $\theta^{0}$ are randomly initialized weights, and $X$ is the outcome class of the image.
 
-Transfer learning, and information gain, is possible because of knowledge that is implicit in learned features. In the case of an image classifier, we can reuse features like edges abd corners in a new task like object detection or a new domain. In the case of a language model, learning about the structure of language can help with downstream tasks like question answering.
+Transfer learning, and information gain, is possible because of knowledge that is implicit in learned features. In the case of an image classifier, we can reuse features like edges and corners in a new task like object detection or a new domain. In the case of a language model, learning about the structure of language can help with downstream tasks like question answering.
 
 The ML decoupling is therefore between capturing knowledge (memory) and accessing that knowledge to solve a task (co-ordination). In pretraining we want to capture as much information as we can about the world and compress it into a model. In fine-tuning or prompting we want to excite the model into revealing parts of its knowledge that are useful for the task of interest. For example, if we want a good question answering system on legal texts, we need to excite the model to obtain its legal knowledge and configure it for the QA task.
 
