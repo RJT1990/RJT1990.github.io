@@ -33,7 +33,7 @@ Informally, if we take a pretrained model, replace its head (randomly initialize
 
 More formally, a pre-trained model provides side information for prediction. Specifically, for image classification, if we are predicting a class $P\left(X=k\right)$ then the value of the pre-trained weights is the mutual information relative to the class of the image, that is:
 
-$$ I\left(X; \theta^{*}\right) = \mathbb{E}_{\theta^{*}}\left[D_{KL}\left(P\left(X\mid{h}\left(theta^{*}\right)\right)\mid\mid{P\left(X\mid{h}\left(\theta^{0}\right)\right)}\right)\right] $$
+$$ I\left(X; \theta^{*}\right) = \mathbb{E}_{\theta^{*}}\left[D_{KL}\left(P\left(X\mid{h}\left(\theta^{*}\right)\right)\mid\mid{P\left(X\mid{h}\left(\theta^{0}\right)\right)}\right)\right] $$
 
 where $\theta^{*}$ is the weights for the pre-trained model, $\theta^{0}$ are randomly initialized weights, and $X$ is the outcome class of the image.
 
