@@ -31,13 +31,14 @@ By general-purpose model, we similarly mean: a machine learning model that can s
 
 Informally, if we take a pretrained model, replace its head (randomly initialized) and then finetune, then the preceding layers should be useful for prediction. For example, fine-tuning an ImageNet classifier on a new image dataset can potentially get us to a higher accuracy than a fresh, randomly initialized model. The value-add comes from quicker training (over random initialization) but also useful information in the weights that we couldn't obtain from training on the new dataset alone. 
 
-More formally, a pre-trained model provides side information for prediction. Specifically, for image classification, if we are predicting a class $P\left(X=k\right)$ then the value of the pre-trained weights is the mutual information relative to the class of the image, that is:
+Formally, a pre-trained model provides side information for prediction. Let's say we have two competing models, one that initializes with random weights $\theta^{0}$ and the other with pre-trained weights $\theta^{*}$. We obtain likelihoods $l\left(y; \theta^{0}\right)$ and $l\left(y; \theta^{*}\right)$. Then we can measure information gain from using the pre-trained model as $D_{KL}\left(l\left(y; \theta^{0}\right) \mid\mid  l\left(y; \theta^{*}\right)\right)$. 
 
-$$ I\left(X; \theta^{*}\right) = \mathbb{E}_{\theta^{*}}\left[D_{KL}\left(P\left(X\mid{h}\left(\theta^{*}\right)\right)\mid\mid{P\left(X\mid{h}\left(\theta^{0}\right)\right)}\right)\right] $$
+Transfer learning, and information gain, is possible because of knowledge that is implicit in learned features. In the case of an image classifier, we can reuse features like edges and corners in a new task like object detection or a new domain. In the case of a language model, learning about the structure of language can help with downstream tasks like question answering. In turn, this information stems from the pretraining dataset, which is usually chosen to be broad so it can build a general base of representations.
 
-where $\theta^{*}$ is the weights for the pre-trained model, $\theta^{0}$ are randomly initialized weights, and $X$ is the outcome class of the image.
+<img src="images/visualization.png">
+*Visualizing features in GoogLeNet from distill.pub*[^3]
 
-Transfer learning, and information gain, is possible because of knowledge that is implicit in learned features. In the case of an image classifier, we can reuse features like edges and corners in a new task like object detection or a new domain. In the case of a language model, learning about the structure of language can help with downstream tasks like question answering.
+[^3]: [Feature Visualization - distill.pub](https://distill.pub/2017/feature-visualization/)
 
 The ML decoupling is therefore between capturing knowledge (memory) and accessing that knowledge to solve a task (co-ordination). In pretraining we want to capture as much information as we can about the world and compress it into a model. In fine-tuning or prompting we want to excite the model into revealing parts of its knowledge that are useful for the task of interest. For example, if we want a good question answering system on legal texts, we need to excite the model to obtain its legal knowledge and configure it for the QA task.
 
