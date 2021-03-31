@@ -1,4 +1,4 @@
-# The Great Decoupling
+# Deep Learning: The Great Decoupling
 
 Deep Learning is undergoing a decoupling where models are trained in two distinct phases. The first phase involves learning general representations through pre-training. The second phase involves learning or exciting task-specific representations through fine-tuning or prompting. Different companies specialize at each stage. Pretraining is capital-intensive and dominated by AI research labs. Fine-tuning is carried out by companies looking to solve domain-specific problems. {% fn 1 %}
 
