@@ -8,24 +8,58 @@ Models as platforms means the fine-tuning stage is where the bulk of economic va
 
 As a warmup to this discussion, I cover two analogies to the decoupling we are experiencing. The first is from the history of computing, the decoupling between hardware and software, and the second from neuroscience, the decoupling between memory and co-ordination. 
 
-## General Purpose Computing
+## General Purpose Computers
+
+<br />
 
 <img src="https://rjt1990.github.io/images/differentialanalyzer.jpeg" width=200>
+*Vannevar Bush with the Differential Analyzer*
+
+<br />
 
 Many groups experimented with early forms of computer in the 1930s. Some examples of early computers included Bush’s [Differential Analyzer](https://en.wikipedia.org/wiki/Differential_analyser), Stibitz and Williams’ [Complex Computer](https://en.wikipedia.org/wiki/George_Stibitz#Computer), the [Atansoff-Berry computer](https://en.wikipedia.org/wiki/Atanasoff%E2%80%93Berry_computer) and Aiken’s [Mark I](https://en.wikipedia.org/wiki/Harvard_Mark_I). These innovations offered marked speedups over slide rules and calculators, but they severely lacked flexibility. A new application required a new machine or a costly reconfiguration. There was no general sense of computing. Hardware and software were coupled.
 
-Until recently, lack of generality was a criticism of deep learning models. A model may be state-of-the-art on a benchmark, but its utility may be limited outside a single task or domain. The big exception was [ImageNet pre-training](https://arxiv.org/abs/1310.1531)[^1] where pre-trained image classification models enabled deep learning to work in tasks such as object detection. But then [NLP had its ImageNet moment](https://ruder.io/nlp-imagenet/)[^2], and now as [transformers move to other ML tasks](https://paperswithcode.com/newsletter/3/), model generality and transfer learning is becoming more common.
-
-[^1]: [DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition - Donahue et al](https://arxiv.org/abs/1310.1531)
-[^2]: [NLP's ImageNet moment has arrived - Sebastian Ruder](https://ruder.io/nlp-imagenet/)
-
-Can we find an analogy for general-purpose models in general-purpose computing? General-purpose computing emerged from a theoretical and a practical source. Theoretically it came from [Turing machines](https://en.wikipedia.org/wiki/Universal_Turing_machine) and practically through [stored-program computers](https://en.wikipedia.org/wiki/Stored-program_computer). The enabling insight was a decoupling between hardware and software.
+General-purpose computing emerged from a theoretical and a practical source. Theoretically it came from [Turing machines](https://en.wikipedia.org/wiki/Universal_Turing_machine) and practically through [stored-program computers](https://en.wikipedia.org/wiki/Stored-program_computer). The enabling insight was a decoupling between hardware and software.
 
 Turing showed computation is universal under certain conditions: all machines are fundamentally the same. Additionally the actual instructions could be on the tape itself, that is in-memory, rather than encoded elsewhere. This would enable a direct separation between computation and that which is to be computed.
 
 In practice, the solution to flexibility and creating a general-purpose computer came from the concept of a stored-program. Instead of instructions being on a punch card, or even worse in the physical construction of the machine itself, instructions could be stored in memory then fetched, executed and returned. To change the application, you need only change the instructions rather than physical construction of the machine.
 
 The synthesis of theory and practice occurred with the [vNM architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture): Turing machines for computation (hardware) and stored-programs for instructions (software). Computing could then be general-purpose. The same hardware could support many different types of application. And just as one could play Bach (music) on a piano or a pipe-organ (instruments), you could use the same software on different hardware.
+
+The advantages of general-purpose computing were:
+
+- **Accelerating innovation and reducing costs** : rather than each producer building a different hardware for different applications, or theorising about the right architecture, producers could focus on innovation for computing as a whole. Economies of scale + Wright's Law.
+- **Enabling specialization by decoupling software and hardware** : some producers could focus on making really good software, and others on hardware - rather than having to solve both types of problem simultaneously. This allowed different agents to go deeper on software and hardware respectively.
+- **Reducing the friction for new applications** : rather than building an entirely new computer for a new problem, existing computers could be repurposed for new problems by writing new software. Less reinventing the wheel.
+
+## General Purpose Animals
+
+When animals solve a task, they must access their memory for information on how to solve it. Within neural circuitry, there is evidence for a bidirectional relationship between two areas of mammal brains relevant for problem solving: the hippocampus and the prefrontal cortex. The hippocampus' primary function is memory; the prefrontal cortex's primary function is planning and decision-making.
+
+In the rat foraging example of Eichenbaum, rats are given a task of finding Froot Loops in flowerpots. They have to learn in room A, cereal is hidden in a pot filled with purple plastic beads and smells sweet; and in room B, cereal is hidden in a pot with black paper shreds that smells spicy. The experimenters measured the neural activity of the prefrontal cortex and the hippocampus.
+
+Each region of the brain reacts as follows in the course of the task:
+
+- The prefrontal cortex fires in relation to cues that signal rewards - e.g. a pot that signals it may have Froot Loops.
+- The ventral hippocampus fires when the rat recognises the room it is in.
+- The dorsal hippocampus fires when the rat recognises a flowerpot it has seen before.
+
+Crucially, the sequence of firing hints at a handshake behaviour between the hippocampus and the prefrontal cortex:
+
+- When the rat enters room A, the ventral hippocampus transmits to the prefrontal cortex and sets the context to room A.
+- This context then guides retrieval from the dorsal hippocampus, which recognizes the flowerpots and sends this information back to the cortex.
+- The cortex then combines the flowerpot information with the context, and infers the pot has purple beads and smells sweet.
+
+The key takeaway is that that prefrontal cortex seems to help filter out irrelevant memories for the task at hand.
+
+
+Until recently, lack of generality was a criticism of deep learning models. A model may be state-of-the-art on a benchmark, but its utility may be limited outside a single task or domain. The big exception was [ImageNet pre-training](https://arxiv.org/abs/1310.1531)[^1] where pre-trained image classification models enabled deep learning to work in tasks such as object detection. But then [NLP had its ImageNet moment](https://ruder.io/nlp-imagenet/)[^2], and now as [transformers move to other ML tasks](https://paperswithcode.com/newsletter/3/), model generality and transfer learning is becoming more common.
+
+[^1]: [DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition - Donahue et al](https://arxiv.org/abs/1310.1531)
+[^2]: [NLP's ImageNet moment has arrived - Sebastian Ruder](https://ruder.io/nlp-imagenet/)
+
+Can we find an analogy for general-purpose models in general-purpose computing? 
 
 By general-purpose model, we similarly mean: a machine learning model that can be used to solve multiple tasks in different domains. But what enables a model to be general-purpose? 
 
