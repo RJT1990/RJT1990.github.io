@@ -36,12 +36,10 @@ Formally, a pre-trained model provides side information for prediction. Let's sa
 Transfer learning, and information gain, is possible because of knowledge that is implicit in learned features. In the case of an image classifier, we can reuse features like edges and textures in a new task like object detection or a new domain. In the case of a language model, learning about the structure of language can help with downstream tasks like question answering. In turn, this information stems from the pre-training dataset, which is usually chosen to be broad so it can build a general base of representations.
 
 <br />
-<br />
 
 <img src="https://rjt1990.github.io/images/visualization.png">
 *Visualizing features in GoogLeNet from distill.pub*[^3]
 
-<br />
 <br />
 
 [^3]: [Feature Visualization - distill.pub](https://distill.pub/2017/feature-visualization/)
