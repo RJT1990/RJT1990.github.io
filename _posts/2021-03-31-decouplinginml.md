@@ -46,7 +46,7 @@ Information gain through transfer learning is possible because of feature reusab
 
 Seen through the lens of information gain, a model's generality increases with its ability to have information gain across new tasks and datasets. In other words, integrating over all possible tasks and datasets, we have a measure of how general-purpose a model is:
 
-$$ \int\_{T}\int\_{D} $D_{KL}\left(p\left(y; \theta^{0}, t, d\right) \mid\mid  p\left(y; \theta^{P}, t, d\right)\right) \delta{t}\delta{d} $$
+$$ \int_{T}\int_{D} $D_{KL}\left(p\left(y; \theta^{0}, t, d\right) \mid\mid  p\left(y; \theta^{P}, t, d\right)\right) \delta{t}\delta{d} $$
 
 The ML decoupling is therefore between capturing knowledge (memory) and accessing that knowledge to solve a task (co-ordination). In pretraining we want to capture as much information as we can about the world and compress it into a model. In fine-tuning or prompting we want to excite the model into revealing parts of its knowledge that are useful for the task of interest. For example, if we want a good question answering system on legal texts, we need to excite the model to obtain its legal knowledge and configure it for the QA task.
 
