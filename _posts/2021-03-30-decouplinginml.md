@@ -28,7 +28,7 @@ The synthesis of theory and practice occurred with the [vNM architecture](https:
 
 By general-purpose model, we similarly mean: a machine learning model that can solve multiple tasks in different domains. But what enables a model to be general-purpose? 
 
-Informally, if we take a trained model, remove its task head (e.g. a fully connected layer), and replace with a new head for a task, and then finetune, the preceding layers should be useful for prediction. For example, fine-tuning an ImageNet classifier on a new image dataset should get us to a higher accuracy more quickly than a fresh, randomly initialized model. 
+Informally, if we take a pretrained model, replace its task head and then finetune, then the preceding layers should be useful for prediction. For example, fine-tuning an ImageNet classifier on a new image dataset can potentially get us to a higher accuracy than a fresh, randomly initialized model. The value-add comes from quicker training (over random initialization) but also useful information in the weights that we couldn't obtain from training on the new dataset alone. 
 
 More formally, a pre-trained model provides side information for prediction. Specifically, for image classification, if we are predicting a class $P\left(X=k\right)$ then the value of the pre-trained weights is the mutual information relative to the class of the image, that is:
 
