@@ -33,7 +33,7 @@ Informally, if we take a pretrained model, replace its head (randomly initialize
 
 Formally, a pre-trained model provides side information for prediction. Let's say we have two competing models, one that initializes with random weights $\theta^{0}$ and the other with pre-trained weights $\theta^{P}$. We obtain likelihoods $l\left(y; \theta^{0}\right)$ and $l\left(y; \theta^{P}\right)$. Then we can measure information gain from using the pre-trained model as $D_{KL}\left(l\left(y; \theta^{0}\right) \mid\mid  l\left(y; \theta^{P}\right)\right)$. 
 
-Transfer learning, and information gain, is possible because of knowledge that is implicit in learned features. In the case of an image classifier, we can reuse features like edges and corners in a new task like object detection or a new domain. In the case of a language model, learning about the structure of language can help with downstream tasks like question answering. In turn, this information stems from the pretraining dataset, which is usually chosen to be broad so it can build a general base of representations.
+Transfer learning, and information gain, is possible because of knowledge that is implicit in learned features. In the case of an image classifier, we can reuse features like edges and textures in a new task like object detection or a new domain. In the case of a language model, learning about the structure of language can help with downstream tasks like question answering. In turn, this information stems from the pre-training dataset, which is usually chosen to be broad so it can build a general base of representations.
 
 <br />
 <br />
