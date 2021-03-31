@@ -1,8 +1,8 @@
 # Deep Learning: The Great Decoupling
 
-Deep Learning is undergoing a decoupling where models are trained in two distinct phases. The first phase involves learning general representations through pre-training. The second phase involves learning or exciting task-specific representations through fine-tuning or prompting. Different companies specialize at each stage. Pretraining is capital-intensive and dominated by AI research labs. Fine-tuning is carried out by companies looking to solve domain-specific problems. {% fn 1 %}
+Deep Learning is undergoing a decoupling where models are trained in two distinct phases. The first phase involves learning general representations through pre-training. The second phase involves learning or exciting task-specific representations through fine-tuning or prompting. Different companies specialize at each stage. Pretraining is capital-intensive and dominated by AI research labs. Fine-tuning is carried out by companies looking to solve domain-specific problems.[^1]
 
-{{ "This is the actual footnote" | fndetail: 1 }}
+[^1]: This is the first footnote.
 
 This is not news to anyone involved in machine learning. The big questions are whether transfer learning is here to stay and what the implications of large pretrained models might be. In this post I extrapolate existing trends to get a sense of where we might be headed. In particular, I focus on the idea of “models as platforms” where a model can be reused for many purposes in different domains. 
 
