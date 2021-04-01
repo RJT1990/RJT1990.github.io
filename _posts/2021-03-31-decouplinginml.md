@@ -64,6 +64,11 @@ When we are finetuning or prompting a large model, we are essentially trying to 
 
 [^5]: [Language Models are Unsupervised Multitask Learners - Radford et al](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 
+Seen through this lens, the deep learning decoupling is similarly a division between memory and executive control. With finetuning or prompting, we have a task in mind, e.g. finetuning BERT for question answering on legal texts, and our goal is to retrieve relevant knowledge from the model for this task. The usefulness of the underlying language model is whether we have stored relevant task (question answering), domain (legal text) or general (language understanding) information that's useful for the downstream task.
+
+## The Tyranny of Memory
+
+A natural pathway from the idea that downstream task performance depends on memorizing the right tasks and domains, is to make very large models that have as much as knowledge as possible. This is the 'model scaling' direction of language model research.
 
 ## General Purpose Models
 
