@@ -70,6 +70,17 @@ Seen through this lens, the deep learning decoupling is similarly a division bet
 
 A natural pathway from the idea that downstream task performance depends on memorizing the right tasks and domains, is to ensure very large models that have as much as knowledge as possible. This is the 'model scaling' direction of language model research. But more knowledge is not always useful. It is possible to memorize lots of details but be incapable of generalizing to a new situation: this is what we mean by overfitting the data. That is why compression is useful because it allows us to generalize from our experience to situations we have never experienced before.
 
+<br />
+
+<img src="https://rjt1990.github.io/images/scalinglaws.png">
+*Model Scaling for GPT-3*[^6]
+
+[^6]: [Language Models are Few-Shot Learners - Brown et al](https://arxiv.org/abs/2005.14165)
+
+<br />
+
+Empirically, we have not yet hit diminishing returns from model scaling yet.
+
 ## General Purpose Models
 
 Until recently, lack of generality was a criticism of deep learning models. A model may be state-of-the-art on a benchmark, but its utility may be limited outside a single task or domain. The big exception was [ImageNet pre-training](https://arxiv.org/abs/1310.1531)[^1] where pre-trained image classification models enabled deep learning to work in tasks such as object detection. But then [NLP had its ImageNet moment](https://ruder.io/nlp-imagenet/)[^2], and now as [transformers move to other ML tasks](https://paperswithcode.com/newsletter/3/), model generality and transfer learning is becoming more common.
