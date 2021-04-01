@@ -31,7 +31,13 @@ The advantages of general-purpose computing over application-specific computers 
 
 As we'll see, many of the same arguments apply for the new decoupling between pretraining and finetuning large models.
 
-## Memory and Planning
+## Memory and Control
+
+When animals solve tasks, they are presented with a context and must use that context to retrieve relevant memories that help solve the task (and yield a reward). The two key lobes of the brain that appear to be relevant for this are the frontal and medial lobes. More specifically, the prefrontal cortex (PFC) seems to be particularly important for executive control (planning, decision making, working memory), while the hippocampus seems to be particularly important for long-term memory (and consolidation).
+
+The [rat foraging example of Eichenbaum](https://www.nature.com/articles/nn.4327)[^4] provides a nice illustration of a bidirectional relationship between the PFC and the hippocampus.
+
+[^4]: [Bidirectional prefrontal-hippocampal interactions support context-guided memory - Eichenbaum et al](https://www.nature.com/articles/nn.4327)
 
 When animals solve a task, they must access their memory for information on how to solve it. Within neural circuitry, there is evidence for a bidirectional relationship between two areas of mammal brains relevant for problem solving: the hippocampus and the prefrontal cortex. The hippocampus' primary function is long-memory and memory consolidation; the prefrontal cortex's primary function is planning and decision-making (executive control).
 
