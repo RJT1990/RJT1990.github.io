@@ -25,7 +25,7 @@ In both theory and practice, the key insight was a decoupling of hardware and so
 
 The advantages of general-purpose computing over application-specific computers were:
 
-- **Accelerating innovation and reducing costs** : producers could focus on innovation for computing as a whole for a given architecture - rather than building fundamentally different hardware for each application. Standardization through vNM, a general computer architecture, enabled economies of scale, plus more shared industry learnings ([Wright's Law](https://en.wikipedia.org/wiki/Experience_curve_effects)).
+- **Accelerating innovation and reducing costs** : producers could focus on innovation for computing as a whole for a given architecture - rather than building fundamentally different hardware for each application. Standardization through the vNM architecture enabled economies of scale, plus more shared industry learnings ([Wright's Law](https://en.wikipedia.org/wiki/Experience_curve_effects)).
 - **Enabling specialization by decoupling software and hardware** : some producers could focus on making really good software, and others on hardware - rather than having to solve both types of problem simultaneously.
 - **Reducing friction for developing new applications** : rather than building an entirely new computer for a new problem, existing computers could be repurposed for new problems through new software. Less reinventing the wheel.
 
