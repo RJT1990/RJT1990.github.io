@@ -33,7 +33,7 @@ As we'll see, many of the same arguments apply for the new decoupling between pr
 
 ## Memory and Control
 
-When animals solve tasks, they are presented with a context and must use that context to retrieve relevant memories that help solve the task (and yield a reward). The two key lobes of the brain that appear to be relevant for this are the frontal and medial lobes. More specifically, the prefrontal cortex (PFC) seems to be particularly important for executive control (planning, decision making, working memory), while the hippocampus seems to be particularly important for long-term memory (and consolidation).
+When animals solve tasks, they are presented with a context and must use that context to retrieve relevant memories that help solve the task (and yield a reward). The two key lobes of the brain that appear to be relevant for this are the frontal and medial lobes. More specifically, the [prefrontal cortex](https://en.wikipedia.org/wiki/Prefrontal_cortex) (PFC) seems to be particularly important for executive control (planning, decision making, working memory), while the [hippocampus](https://en.wikipedia.org/wiki/Hippocampus) seems to be particularly important for long-term memory.
 
 The [rat foraging example of Eichenbaum](https://www.nature.com/articles/nn.4327)[^4] provides a nice illustration of a bidirectional relationship between the PFC and the hippocampus.
 
