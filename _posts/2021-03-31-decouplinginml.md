@@ -12,8 +12,8 @@ As a warmup to this discussion, I cover two analogies to the decoupling we are e
 
 <br />
 
-<img align="left" src="https://rjt1990.github.io/images/differentialanalyzer.jpeg" width=200>
-*Vannevar Bush with the Differential Analyzer*
+<p><img src="https://rjt1990.github.io/images/differentialanalyzer.jpeg" width=200></p>
+<p align="center"><i>Vannevar Bush with the Differential Analyzer</i></p>
 
 <br />
 
