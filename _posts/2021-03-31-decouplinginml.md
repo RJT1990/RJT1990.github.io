@@ -36,7 +36,7 @@ As we'll see, many of the same arguments apply for the new decoupling between pr
 <br />
 
 <p><img src="https://rjt1990.github.io/images/fruitloop.png" width=400></p>
-<p align="center"><i>Rats love Fruit Loops, Image Source: [https://www.reddit.com/r/RATS/comments/8nv1kn/eating_fruit_loops_make_freya_a_happy_rattie/]()</i></p>
+<p align="center"><i>Rats love Fruit Loops. Source: <a href="https://www.reddit.com/r/RATS/comments/8nv1kn/eating_fruit_loops_make_freya_a_happy_rattie/">here</a></i></p>
 
 <br />
 
