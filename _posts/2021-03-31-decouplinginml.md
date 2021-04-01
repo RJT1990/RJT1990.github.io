@@ -33,6 +33,13 @@ As we'll see, many of the same arguments apply for the new decoupling between pr
 
 ## Memory and Control
 
+<br />
+
+<p><img src="https://rjt1990.github.io/images/fruitloop.png" width=400></p>
+<p align="center"><i>Rats love Fruit Loops, Image Source: [https://www.reddit.com/r/RATS/comments/8nv1kn/eating_fruit_loops_make_freya_a_happy_rattie/]()</i></p>
+
+<br />
+
 When animals solve tasks, they are presented with a context and must use that context to retrieve relevant memories that help solve the task (and yield a reward). The two key lobes of the brain that appear to be relevant for this are the frontal and medial lobes. More specifically, the [prefrontal cortex](https://en.wikipedia.org/wiki/Prefrontal_cortex) (PFC) seems to be particularly important for executive control (planning, decision making, working memory), while the [hippocampus](https://en.wikipedia.org/wiki/Hippocampus) seems to be particularly important for long-term memory.
 
 The [rat foraging example of Eichenbaum](https://www.nature.com/articles/nn.4327)[^4] provides a nice illustration of a bidirectional relationship between the PFC and the hippocampus.
