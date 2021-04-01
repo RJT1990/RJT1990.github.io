@@ -64,11 +64,11 @@ When we are finetuning or prompting a large model, we are essentially trying to 
 
 [^5]: [Language Models are Unsupervised Multitask Learners - Radford et al](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 
-Seen through this lens, the deep learning decoupling is similarly a division between memory and executive control. With finetuning or prompting, we have a task in mind, e.g. finetuning BERT for question answering on legal texts, and our goal is to retrieve relevant knowledge from the model for this task. The usefulness of the underlying language model is whether we have stored relevant task (question answering), domain (legal text) or general (language understanding) information that's useful for the downstream task.
+Seen through this lens, the deep learning decoupling is similarly a division between memory and executive control. With finetuning or prompting, we have a task in mind, e.g. finetuning BERT for question answering on legal texts, and our goal is to retrieve relevant knowledge from the model for this task. The usefulness of the underlying language model is whether we have stored relevant task (question answering), domain (legal text) or general (language understanding) information that's useful for the downstream task. But in addition, it is whether we can conveniently access this goal-relevant knowledge through a procedure like fine-tuning (accessibility), and whether the knowledge generalizes for solving problems (generalisibility). 
 
 ## The Tyranny of Memory
 
-A natural pathway from the idea that downstream task performance depends on memorizing the right tasks and domains, is to make very large models that have as much as knowledge as possible. This is the 'model scaling' direction of language model research.
+A natural pathway from the idea that downstream task performance depends on memorizing the right tasks and domains, is to ensure very large models that have as much as knowledge as possible. This is the 'model scaling' direction of language model research. But more knowledge is not always useful. It is possible to memorize lots of details but be incapable of generalizing to a new situation: this is what we mean by overfitting the data. That is why compression is useful because it allows us to generalize from our experience to situations we have never experienced before.
 
 ## General Purpose Models
 
