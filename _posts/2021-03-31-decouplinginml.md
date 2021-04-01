@@ -66,6 +66,26 @@ When we are finetuning or prompting a large model, we are essentially trying to 
 
 Seen through this lens, the deep learning decoupling is similarly a division between memory and executive control. With finetuning or prompting, we have a task in mind, e.g. finetuning BERT for question answering on legal texts, and our goal is to retrieve relevant knowledge from the model for this task. The usefulness of the underlying language model is whether we have stored relevant task (question answering), domain (legal text) or general (language understanding) information that's useful for the downstream task. But in addition, it is whether we can conveniently access this goal-relevant knowledge through a procedure like fine-tuning (accessibility), and whether the knowledge generalizes for solving problems (generalisibility). 
 
+## How Knowledge is Memorized
+
+If downstream task performance depends on memorizing the right tasks and domains, then one pathway is to scale models (data, compute, capacity) to capture as much knowledge as possible. But before diving into model scaling, it's worth covering how long-term memory is thought to work in neuroscience
+
+Broadly there are two types of memory: implicit memory and explicit memory. Implicit memory is a mostly unconscious form of memory that is important when performing tasks - for example, brushing your teeth or tieing your shoelaces. It manifests itself automatically with little conscious effort. In contrast, explicit memory is a more deliberate (declarative) form of memory where we try to retrieve semantic or episodic memories.
+
+In encoding explicit memories, what is important is motivation, attention to the information that is to be memorized, and how strongly it is associated with existing knowledge encoded in memory. In studies[^6][^7], brain activity strong has been shown to be strong in the PFC and medial temporal lobe during encoding.
+
+[^6]: [Cognitive control and episodic memory: contributions from the prefrontal cortex - Wagner et al](https://psycnet.apa.org/record/2002-02119-014)
+
+[^7]: [Making memories: brain activity that predicts how well visual experience will be remembered - Brewer et al](https://science.sciencemag.org/content/281/5380/1185)
+
+Consolidation and storage first occurs with the hippocampus - this role is thought to be time-limited - and then afterwards as distributed memory trace takes over in neocortical areas. Storage of semantic information in particular is distributed with different sites across the brain corresponding to different things like color and motion. This semantic information is organized into conceptial primitives such as form and function.
+
+The hippocampus itself appears to have several interesting properties of organization. For example, the existence of grid and place cells allow for a memorization of spatial data. In fact, this might explain why techniques like the method of loci are useful for memorization, as they exploit a spatial organization of information.
+
+An interesting property of memory seems to be that we are deliberately misleading in our recall of experiences, and that our desire for coherence in memory means we do not recall experiences exactly. In a sense, this is like our memory is "curve fitting" rather than capturing every detail of experience. In fact, where we have gaps in our memory, we have a tendency to inpaint these with "likely" details based on the context.
+
+An interesting contrast is mnemonists who have superhuman memorization abilities, but lack generalization capabilities or a strong ability to think abstractly. The classic case is Solomon Shereshevski, a mnemonist studied by Alexander Luria, who was filled with highly detailed memories of his past experience, but was overwhelmed by a clutter of useful information. He was also highly synesthesiastic. This is an illustration that an effective memory system should not simply encode, store or retrieve every single detail, but ideally only goal-relevant information that is useful for generalizing to everyday tasks.
+
 ## The Tyranny of Memory
 
 A natural pathway from the idea that downstream task performance depends on memorizing the right tasks and domains, is to ensure very large models that have as much as knowledge as possible. This is the 'model scaling' direction of language model research. But more knowledge is not always useful. It is possible to memorize lots of details but be incapable of generalizing to a new situation: this is what we mean by overfitting the data. That is why compression is useful because it allows us to generalize from our experience to situations we have never experienced before.
