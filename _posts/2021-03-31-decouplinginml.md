@@ -60,7 +60,7 @@ Crucially, the sequence of firing hints at a handshake behaviour between the hip
 
 The key takeaway is that that prefrontal cortex seems to help filter out irrelevant memories for the task at hand.
 
-When we are finetuning or prompting a large model, we are essentially trying to retrieve goal-relevant knowledge for the task and dataset at hand. Indeed, this was the point of the observation that GPT-2 was a [unsupervised multi-task learner](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)[^5], because in a general system, we are conditioning on $p\left(output\mid{input}, task\right)$. Similarly, we can see that the PFC is essentially "conditioning" the hippocampus to retrieve the right memories for the given task in the rate foraging example.
+When we are finetuning or prompting a large model, we are essentially trying to retrieve goal-relevant knowledge for the task and dataset at hand. Indeed, this was the point of the observation that GPT-2 was a [unsupervised multi-task learner](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)[^5], because in a general system, we are conditioning on $p\left(output\mid{input}, task\right)$. Similarly, we can see that the PFC is essentially "conditioning" the hippocampus to retrieve the right memories for the given task in the rat foraging example.
 
 [^5]: [Language Models are Unsupervised Multitask Learners - Radford et al](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 
