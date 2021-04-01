@@ -36,7 +36,7 @@ As we'll see, many of the same arguments apply for the new decoupling between pr
 <br />
 
 <p><img src="https://rjt1990.github.io/images/fruitloop.png" width=400></p>
-<p align="center"><i>Rats love Fruit Loops. Source: <a href="https://www.reddit.com/r/RATS/comments/8nv1kn/eating_fruit_loops_make_freya_a_happy_rattie/">here</a></i></p>
+<p align="center"><i>Rats love Froot Loops. Source: <a href="https://www.reddit.com/r/RATS/comments/8nv1kn/eating_fruit_loops_make_freya_a_happy_rattie/">here</a></i></p>
 
 <br />
 
@@ -46,11 +46,7 @@ The [rat foraging example of Eichenbaum](https://www.nature.com/articles/nn.4327
 
 [^4]: [Bidirectional prefrontal-hippocampal interactions support context-guided memory - Eichenbaum et al](https://www.nature.com/articles/nn.4327)
 
-When animals solve a task, they must access their memory for information on how to solve it. Within neural circuitry, there is evidence for a bidirectional relationship between two areas of mammal brains relevant for problem solving: the hippocampus and the prefrontal cortex. The hippocampus' primary function is long-memory and memory consolidation; the prefrontal cortex's primary function is planning and decision-making (executive control).
-
-In the rat foraging example of Eichenbaum, rats are given a task of finding Froot Loops in flowerpots. They have to learn in room A, cereal is hidden in a pot filled with purple plastic beads and smells sweet; and in room B, cereal is hidden in a pot with black paper shreds that smells spicy. The experimenters measured the neural activity of the prefrontal cortex and the hippocampus.
-
-Each region of the brain reacts as follows in the course of the task:
+Rats are given a task of finding Froot Loops in flowerpots. They have to learn in room A, cereal is hidden in a pot filled with purple plastic beads and smells sweet; and in room B, cereal is hidden in a pot with black paper shreds that smells spicy. The experimenters measured the neural activity of the prefrontal cortex and the hippocampus. Each region of the brain reacts as follows in the course of the task:
 
 - The prefrontal cortex fires in relation to cues that signal rewards - e.g. a pot that signals it may have Froot Loops.
 - The ventral hippocampus fires when the rat recognises the room it is in.
@@ -63,6 +59,13 @@ Crucially, the sequence of firing hints at a handshake behaviour between the hip
 - The cortex then combines the flowerpot information with the context, and infers the pot has purple beads and smells sweet.
 
 The key takeaway is that that prefrontal cortex seems to help filter out irrelevant memories for the task at hand.
+
+When we are finetuning or prompting a large model, we are essentially trying to retrieve goal-relevant knowledge for the task and dataset at hand. Indeed, this was the point of the observation that GPT-2 was a [unsupervised multi-task learner](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)[^5], because in a general system, we are conditioning on $p\left(output|input, task\right)$. Similarly, we can see that the PFC is essentially "conditioning" the hippocampus to retrieve the right memories for the given task in the rate foraging example.
+
+[^5]: [Language Models are Unsupervised Multitask Learners - Radford et al](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+
+
+## General Purpose Models
 
 Until recently, lack of generality was a criticism of deep learning models. A model may be state-of-the-art on a benchmark, but its utility may be limited outside a single task or domain. The big exception was [ImageNet pre-training](https://arxiv.org/abs/1310.1531)[^1] where pre-trained image classification models enabled deep learning to work in tasks such as object detection. But then [NLP had its ImageNet moment](https://ruder.io/nlp-imagenet/)[^2], and now as [transformers move to other ML tasks](https://paperswithcode.com/newsletter/3/), model generality and transfer learning is becoming more common.
 
