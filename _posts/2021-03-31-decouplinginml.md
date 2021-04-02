@@ -58,10 +58,30 @@ To make this explicit: the success of pretraining and finetuning depends on:
 
 ### Availability
 
+With direct supervised learning, we capture task-relevant knowledge through labelled training data and train from randomly initialized weights. This approach can actually go some distance if we have a plentiful enough training dataset. For example, [He et al](https://arxiv.org/pdf/1811.08883.pdf)[^10] show that training with randomly initialized models on COCO performs no worse than their ImageNet pretrained counterparts.
+
+[^10]: [Rethinking ImageNet Pre-training - He et al](https://arxiv.org/pdf/1811.08883.pdf)
+
+In contrast, with pretraining and finetuning, we capture a greater proportion of task-relevant knowledge through the pretext task. In the case of vision, the standard paradigm has been pretraining on ImageNet for image classification. The idea being that this pretext task captures both useful visual representations through a general dataset (ImageNet) but that the pretext task itself encourages useful features to be learnt. This pretext task may change as self-supervised approaches in vision gain more traction, particularly energy-based approaches. This mirrors developments in NLP where self-supervised learning for language modelling is the standard pretext task. This has some neuroscientific justification as next-word prediction models seems to correlate well with brain activity. 
+
+(soething about prediction of language -> predicting tasks)
+
+The jury is still out on which approach is superior, although there is some evidence that self-supervised approaches lead to more robust representations. Additionally, having more world knowledge from other tasks would likely assist in real-world cases where the dataset and task distribution shifts slightly. Whereas a self-supervised approach could employ information outside the old task context, the single-task model is likely to be more brittle. From a practical perspective, self-supervised learning also accelerates training and learns from fewer samples which is an advantage over the single-task approach.
+
+(More evidence on choosing correct pretext task)
+
+Formally we can think of [KL divergence]
+
+
 ### Accessibility
+
+(read literature on finetuning efficacy)
 
 ### Generalisability
 
+(memory)
+
+(why does dl generalize given its high capacity)
 
 ## General Purpose Computers
 
