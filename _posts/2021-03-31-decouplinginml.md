@@ -42,13 +42,21 @@ Crucially, the sequence of firing hints at a handshake behaviour between the hip
 - This context then guides retrieval from the dorsal hippocampus, which recognizes the flowerpots and sends this information back to the cortex.
 - The cortex then combines the flowerpot information with the context, and infers the pot has purple beads and smells sweet.
 
-The key takeaway is that that prefrontal cortex seems to help filter out irrelevant memories for the task at hand.
+The key takeaway is that that prefrontal cortex seems to help filter out irrelevant memories for the task at hand. By combining task cues (flowerpots) and context (room A) we are left with the goal-relevant memories that can be used to solve the task.
 
-When we are finetuning or prompting a large model, we are essentially trying to retrieve goal-relevant knowledge for the task and dataset at hand. Indeed, this was the point of the observation that GPT-2 was a [unsupervised multi-task learner](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)[^5], because in a general system, we are conditioning on $p\left(output\mid{input}, task\right)$. Similarly, we can see that the PFC is essentially "conditioning" the hippocampus to retrieve the right memories for the given task in the rat foraging example.
+Similarly, when we are finetuning or prompting a large model, we are essentially trying to retrieve goal-relevant knowledge for the task and dataset at hand. Indeed, this was the point of the observation that GPT-2 was a [unsupervised multi-task learner](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)[^5], because in a general system, we are conditioning on $p\left(output\mid{input}, task\right)$. Similarly, we can see that the PFC is essentially "conditioning" the hippocampus to retrieve the right memories for the given task in the rat foraging example.
 
 [^5]: [Language Models are Unsupervised Multitask Learners - Radford et al](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 
-Seen through this lens, the deep learning decoupling is similarly a division between memory and executive control. With finetuning or prompting, we have a task in mind, e.g. finetuning BERT for question answering on legal texts, and our goal is to retrieve relevant knowledge from the model for this task. The usefulness of the underlying language model is whether we have stored relevant task (question answering), domain (legal text) or general (language understanding) information that's useful for the downstream task. But in addition, it is whether we can conveniently access this goal-relevant knowledge through a procedure like fine-tuning (accessibility), and whether the knowledge generalizes for solving problems (generalisibility). 
+So one way of thinking about the deep learning decoupling is a division between memory and executive control. With finetuning or prompting, we have a task in mind, e.g. finetuning BERT for question answering on legal texts, and our goal is to retrieve relevant knowledge from the model for this task. Assuming we can access the goal-relevant knowledge, then the usefulness of the underlying language model depends on the information stored. In particular, whether we have stored relevant task (question answering), domain (legal text) or general (language understanding) information that's useful for the downstream task.
+
+To make this explicit: the success of pretraining and finetuning depends on (a) availability: is goal-relevant knowledge available in the model, (b) accessibility: can we access the goal-relevant knowledge in the model, and (c) generalisability: whether the knowledge we've stored generalizes for solving problems effectively.
+
+### Availability
+
+### Accessibility
+
+### Generalisability
 
 
 ## General Purpose Computers
