@@ -12,28 +12,6 @@ Practically, models as platforms means the fine-tuning stage is where the bulk o
 
 Before directly tackling these questions, I cover two analogies to the decoupling we are experiencing. On the theoretical front, I try to tease out some analogies between pretraining/finetuning and the separation of memory and executive control in neuroscience. I also cover the utility of memory and its relationship to generalization. On the practical front, I discuss the decoupling of hardware and software experienced in the early days of computing. I argue a similar decoupling between pretraining and finetuning can help accelerate progress and AI adoption, analogous to the growth of computing.
 
-## General Purpose Computers
-
-<br />
-
-<p><img src="https://rjt1990.github.io/images/differentialanalyzer.jpeg" width=250></p>
-<p align="center"><i>Vannevar Bush with the Differential Analyzer</i></p>
-
-<br />
-
-Computing was not always general-purpose. In fact, the early proto-computers in the 1930s were application-specific. Some examples include Bush’s [Differential Analyzer](https://en.wikipedia.org/wiki/Differential_analyser), Stibitz and Williams’ [Complex Computer](https://en.wikipedia.org/wiki/George_Stibitz#Computer), the [Atansoff-Berry computer](https://en.wikipedia.org/wiki/Atanasoff%E2%80%93Berry_computer) and Aiken’s [Mark I](https://en.wikipedia.org/wiki/Harvard_Mark_I). These innovations offered marked speedups over slide rules and calculators, but they severely lacked flexibility. A new application required a new machine or a costly reconfiguration. Hardware and software were coupled and there was no "general" sense of computing.
-
-General-purpose computing emerged from a theoretical and a practical source: [Turing machines](https://en.wikipedia.org/wiki/Universal_Turing_machine) and [stored-program computers](https://en.wikipedia.org/wiki/Stored-program_computer). Turing showed computation is universal under certain conditions: all machines are fundamentally the same. Additionally the actual instructions could be on the tape itself, that is in-memory, rather than encoded elsewhere. This implied a separation between computation and that which is to be computed. While in practice, stored-program computers stored instructions in memory that could be fetched, executed and returned. To change the application, you need only change the instructions rather than physical construction of the machine or a punch card.
-
-In both theory and practice, the key insight was a decoupling of hardware and software. The synthesis of these ideas was the [vNM architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture): Turing machines for computation (hardware) and stored-programs for instructions (software). This enabled general purpose computing, as the same hardware could support many different types of application, while software could be used on different hardware.
-
-The advantages of general-purpose computing over application-specific computers were:
-
-- **Accelerating innovation and reducing costs** : producers could focus on innovation for computing as a whole for a given architecture - rather than building fundamentally different hardware for each application. Standardization through the vNM architecture enabled economies of scale, plus more shared industry learnings ([Wright's Law](https://en.wikipedia.org/wiki/Experience_curve_effects)). Later on, progress could then be measured through [Moore's Law](https://en.wikipedia.org/wiki/Moore's_law).
-- **Enabling specialization by decoupling software and hardware** : some producers could focus on making really good software, and others on hardware - rather than having to solve both types of problem simultaneously.
-- **Reducing friction for developing new applications** : rather than building an entirely new computer for a new problem, existing computers could be repurposed for new problems through new software. Less reinventing the wheel.
-
-As we'll see, many of the same arguments apply for the new decoupling between pretraining and finetuning large models.
 
 ## Memory and Control
 
@@ -44,7 +22,9 @@ As we'll see, many of the same arguments apply for the new decoupling between pr
 
 <br />
 
-When animals solve tasks, they are presented with a context and must use that context to retrieve relevant memories that help solve the task (and yield a reward). The two key lobes of the brain that appear to be relevant for this are the frontal and medial lobes. More specifically, the [prefrontal cortex](https://en.wikipedia.org/wiki/Prefrontal_cortex) (PFC) seems to be particularly important for executive control (planning, decision making, working memory), while the [hippocampus](https://en.wikipedia.org/wiki/Hippocampus) seems to be particularly important for long-term memory.
+General AI refers to AI systems that are capable of multi-task, multi-domain generalisation. This contrasts with narrow or brittle AI that can be optimized for a particular task or dataset, but may have limited usefulness outside that context. The central idea behind pretraining and finetuning is to form general representations that can be reused for a downstream task or domain. In other words, we are storing knowledge about the world, and are then querying relevant knowledge for a particular context. This context querying can be done via a prompt, as in GPT-3 or via direct finetuning where we try to connect the useful learned features with the new task or dataset (by exciting or suppressing the right neurons via SGD).
+
+An analogous process exists within neuroscience with the interplay between memory and executive control. When animals solve tasks, they are presented with a context and must use that context to retrieve relevant memories that help solve the task (and yield a reward). The two key lobes of the brain that appear to be relevant for this are the frontal and medial lobes. More specifically, the [prefrontal cortex](https://en.wikipedia.org/wiki/Prefrontal_cortex) (PFC) seems to be particularly important for executive control (planning, decision making, working memory), while the [hippocampus](https://en.wikipedia.org/wiki/Hippocampus) seems to be particularly important for long-term memory.
 
 The [rat foraging example of Eichenbaum](https://www.nature.com/articles/nn.4327)[^4] provides a nice illustration of a bidirectional relationship between the PFC and the hippocampus.
 
@@ -69,6 +49,30 @@ When we are finetuning or prompting a large model, we are essentially trying to 
 [^5]: [Language Models are Unsupervised Multitask Learners - Radford et al](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 
 Seen through this lens, the deep learning decoupling is similarly a division between memory and executive control. With finetuning or prompting, we have a task in mind, e.g. finetuning BERT for question answering on legal texts, and our goal is to retrieve relevant knowledge from the model for this task. The usefulness of the underlying language model is whether we have stored relevant task (question answering), domain (legal text) or general (language understanding) information that's useful for the downstream task. But in addition, it is whether we can conveniently access this goal-relevant knowledge through a procedure like fine-tuning (accessibility), and whether the knowledge generalizes for solving problems (generalisibility). 
+
+
+## General Purpose Computers
+
+<br />
+
+<p><img src="https://rjt1990.github.io/images/differentialanalyzer.jpeg" width=250></p>
+<p align="center"><i>Vannevar Bush with the Differential Analyzer</i></p>
+
+<br />
+
+Computing was not always general-purpose. In fact, the early proto-computers in the 1930s were application-specific. Some examples include Bush’s [Differential Analyzer](https://en.wikipedia.org/wiki/Differential_analyser), Stibitz and Williams’ [Complex Computer](https://en.wikipedia.org/wiki/George_Stibitz#Computer), the [Atansoff-Berry computer](https://en.wikipedia.org/wiki/Atanasoff%E2%80%93Berry_computer) and Aiken’s [Mark I](https://en.wikipedia.org/wiki/Harvard_Mark_I). These innovations offered marked speedups over slide rules and calculators, but they severely lacked flexibility. A new application required a new machine or a costly reconfiguration. Hardware and software were coupled and there was no "general" sense of computing.
+
+General-purpose computing emerged from a theoretical and a practical source: [Turing machines](https://en.wikipedia.org/wiki/Universal_Turing_machine) and [stored-program computers](https://en.wikipedia.org/wiki/Stored-program_computer). Turing showed computation is universal under certain conditions: all machines are fundamentally the same. Additionally the actual instructions could be on the tape itself, that is in-memory, rather than encoded elsewhere. This implied a separation between computation and that which is to be computed. While in practice, stored-program computers stored instructions in memory that could be fetched, executed and returned. To change the application, you need only change the instructions rather than physical construction of the machine or a punch card.
+
+In both theory and practice, the key insight was a decoupling of hardware and software. The synthesis of these ideas was the [vNM architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture): Turing machines for computation (hardware) and stored-programs for instructions (software). This enabled general purpose computing, as the same hardware could support many different types of application, while software could be used on different hardware.
+
+The advantages of general-purpose computing over application-specific computers were:
+
+- **Accelerating innovation and reducing costs** : producers could focus on innovation for computing as a whole for a given architecture - rather than building fundamentally different hardware for each application. Standardization through the vNM architecture enabled economies of scale, plus more shared industry learnings ([Wright's Law](https://en.wikipedia.org/wiki/Experience_curve_effects)). Later on, progress could then be measured through [Moore's Law](https://en.wikipedia.org/wiki/Moore's_law).
+- **Enabling specialization by decoupling software and hardware** : some producers could focus on making really good software, and others on hardware - rather than having to solve both types of problem simultaneously.
+- **Reducing friction for developing new applications** : rather than building an entirely new computer for a new problem, existing computers could be repurposed for new problems through new software. Less reinventing the wheel.
+
+As we'll see, many of the same arguments apply for the new decoupling between pretraining and finetuning large models.
 
 ## How Knowledge is Memorized
 
