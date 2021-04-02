@@ -50,7 +50,11 @@ Similarly, when we are finetuning or prompting a large model, we are essentially
 
 So one way of thinking about the deep learning decoupling is a division between memory and executive control. With finetuning or prompting, we have a task in mind, e.g. finetuning BERT for question answering on legal texts, and our goal is to retrieve relevant knowledge from the model for this task. Assuming we can access the goal-relevant knowledge, then the usefulness of the underlying language model depends on the information stored. In particular, whether we have stored relevant task (question answering), domain (legal text) or general (language understanding) information that's useful for the downstream task.
 
-To make this explicit: the success of pretraining and finetuning depends on (a) availability: is goal-relevant knowledge available in the model, (b) accessibility: can we access the goal-relevant knowledge in the model, and (c) generalisability: whether the knowledge we've stored generalizes for solving problems effectively.
+To make this explicit: the success of pretraining and finetuning depends on:
+
+- **Availability**: is goal-relevant knowledge available in the model
+- **Accessibility**: can we access the goal-relevant knowledge in the model
+- **Generalisability**: whether the knowledge we've stored generalizes for solving problems effectively
 
 ### Availability
 
