@@ -54,7 +54,7 @@ To make this explicit: the success of pretraining and finetuning depends on:
 
 - **Availability**: is goal-relevant knowledge available in the model
 - **Accessibility**: can we access the goal-relevant knowledge in the model
-- **Generalisability**: whether the knowledge we've stored generalizes for solving problems effectively
+- **Generalisability**: does the stored knowledge generalize for solving tasks
 
 ### Availability
 
