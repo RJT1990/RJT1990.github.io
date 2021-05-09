@@ -2,11 +2,15 @@
 
 > I confess that I am a dreamer. Someone once called me just a dreamer. That offended me, the just part; being a real dreamer is hard work. It really gets hard when you start believing your dreams.
 
-I hit thirty last September. I was meaning to put together a blog post with lessons from my twenties. It didn't come to anything as I was continually unhappy with my drafting. But recently I have been mentoring several people with startups, and I felt the need to revisit what I've actually learnt. I thought about how best to present this, and decided to summarize the lessons in the form of principles (thanks Ray Dalio). I think this is more generalizable than storytelling, which tends to oversimplify and post-rationalize real events, and thematic topics, which tend to be too high-level and omit important factors. Being aphoristic gets the right balance of being low-level, but also generalizable and not tying too closely to a particular experience.
+<p>&nbsp;</p>
 
-You should skim-read this to find principles that catch your attention. If you follow my advice carefully, you'll notice this blog post is a "ladder to climb to throw away": the real punch of my advice is to learn and do things yourself. But hopefully by ingraining a subset of these principles, you can find shortcuts to better outcomes. Pay particular attention to the advice that seems "unnatural" as this is where you'll want to overcome some of your inbuilt biases.
+Since I'm now 30, I was meaning to put together a post with lessons from my twenties. It didn't come to anything last year as I was unhappy with my drafting. But recently I've been mentoring several people with startups, and I felt the need to revisit what I've actually learnt. 
 
-I also make no claim that these principles are fool-proof or that they are the only way to good outcomes. This is just a single perspective, so take what you need or find useful.
+The challenge for me is to summarize what I've learnt across a diverse range of experiences: HM Treasury, open source Python, professional gambling, quant finance, cofounding a deep learning startup, Facebook, and more. I've decided to opt for an aphoristic format to summarize these lessons. I think this is more generalizable than storytelling, which tends to oversimplify and post-rationalize real events, and thematic topics, which tend to be too high-level and omit important factors. Being aphoristic gets the right balance of being low-level, but also generalizable and not tying too closely to a particular experience.
+
+Reader: you should skim-read to find principles that catch your attention. If you follow my advice carefully, you'll also notice this blog post is a "ladder to climb to throw away": the real punch of my advice is to learn and do things yourself. But hopefully by ingraining a few lessons below, you can find shortcuts to better outcomes for yourself. Pay particular attention to the advice that seems "unnatural" as this is where you'll want to overcome some of your inbuilt biases.
+
+I  make no claim that these principles are fool-proof or that they are the only way to good outcomes. This is just a single perspective, so take what you need or find useful.
 
 **Last Updated: May 9 2021**
 
