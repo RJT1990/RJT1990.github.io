@@ -60,7 +60,7 @@ The difference between success and failure often comes down to who cares the mos
 
 Single-mindedness is one of the most powerful traits. It often has side-effects, like neglecting other parts of life, but it is a major competitive advantage if you are thinking and working more than other people. Most great achievements are not won without hard work. In startups, you are essentially trading off 40-50 years of a career for 2 years of work. There is no balanced route to success. It requires manicial focus.
 
-### Care the most win to most
+### Care the most to win to most
 
 You can work hard on something, but you may not actually care about something. But caring often makes the difference: if you can't sleep because of the possibility of new ideas, if you dream about what you work on, if you mull around ideas for fun -- all these things mean you are working and thinking more than someone who cares less.
 
