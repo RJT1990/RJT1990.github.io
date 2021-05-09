@@ -50,7 +50,7 @@ Status is a game of appearances: optimizing for it makes you hollow and dependen
 
 ### Awards are silly when actual metrics exist
 
-Focus on achievements not appearances.
+Focus on fundamentals not appearances.
 
 ### Focus on the future not the present
 
