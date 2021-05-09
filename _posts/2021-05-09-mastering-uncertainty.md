@@ -399,7 +399,7 @@ In reality, you have to play the game somewhat. But be careful not to fall into 
 
 People give too much respect to people who produce opinionated blog posts, newsletters, podcasts and essays. Usually these are not evidence-based, and the writer has no experience with the details of the problems they are writing about. If you have to read anything, read academic papers, not opinion pieces.
 
-### Focus on the person in the room who gives the most original insights, rather than recycles talking points.
+### Focus on the person in the room who gives the most original insights not talking points.
 
 Talking points optimize for agreeability: it's wasted time compared to actual insights (i.e. new information and combination of information).
 
