@@ -19,7 +19,7 @@ To achieve anything you need to set yourself an objective to work towards. But t
 
 ### Aim big
 
-Always work towards the possibility of an extremely good outcome. These types of opportunity come with a risk penalty, but it is usually overestimated due to loss aversion and other behavioural biases.
+Always work towards the possibility of an extremely good outcome. These types of opportunity come with a risk penalty, but it is usually overestimated.
 
 ### Usually it’s not impossible
 
