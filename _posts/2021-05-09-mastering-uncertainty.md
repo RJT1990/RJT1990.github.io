@@ -132,7 +132,7 @@ Abundance allows you to be lazy and take shortcuts. Constraints make you think d
 
 ### Hardships make you stronger
 
-The most amazing people usually have overcome obstacles to achieve great things. It's a better learning environment.
+The most amazing people usually have overcome extreme forms of hardship to achieve great things. It's a better learning environment.
 
 ### Ride out bumps in the road
 
