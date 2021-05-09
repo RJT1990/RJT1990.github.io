@@ -238,9 +238,37 @@ Too many people set out to confirm ideas rather than kill them. So when evidence
 
 Be objective: don't give more credence to an idea because it's your pet idea. And don't overweigh positive or lukewarm feedback. Be brutal.
 
-### Explorers over Exploiters
+### Measure what you do
 
-Explore or exploit? Too many people stick to what they know, e.g. a single career, because starting again is scary. But those who explore, for example different career paths, tend to learn to generalize and adapt better to new situations. And they are the ones who pounce and succeed when the world changes.
+Don't judge success based on subjective feel, but on objective metrics.
+
+### What gets measured gets done
+
+If you want to optimize a single thing, quantify and record it, and hold yourself accountable to that progress.
+
+### Intelligence is reductive not expansive.
+
+The hallmark of intelligence is not detail, but reduction of detail to principle. Principles generalize; details don't.
+
+### Listen to other people and their feedback seriously
+
+Don't hear what you want to hear. Listen and incorporate the feedback.
+
+### Focus on actions not words for signal
+
+If someone says they'll come back to you, but they don't come back to you - they don't care. If someone says a problem is interesting, but they've done nothing to solve it themselves, they don't care. 
+
+### Ensemble viewpoints to come to the best answer
+
+Weigh feedback based on expertise and past track record.
+
+### Have a confidence value for everything
+
+When someone speaks as if they have 100% confidence in something, that's a failure of method. Society teaches people to speak in this way to be heard. It's wrong. Be explicit about how confident you actually are. The goal is not to win an argument but to find the truth.
+
+### What you use, you should try to understand
+
+Most people take things they use for granted - e.g. how does this laptop I'm using actually work? But you should take time to go deeper on some of these things that are important in your life. Because eventually you might want to modify them for your own needs.
 
 ### Tell the truth, and teach others to deal with it
 
@@ -250,21 +278,9 @@ A good working environment is comfortable with the truth and criticism.
 
 You are polluting signal and promoting an environment of agreeability over truth.
 
-### Listen to other people and their feedback seriously
+### Explorers over Exploiters
 
-Don't hear what you want to hear. Listen and incorporate the feedback.
-
-### Ensemble viewpoints to come to the best answer
-
-Weigh feedback based on expertise and past track record.
-
-### Measure what you do
-
-Don't judge success based on subjective feel, but on objective metrics.
-
-### What gets measured gets done
-
-If you want to optimize a single thing, quantify and record it, and hold yourself accountable to that progress.
+Explore or exploit? Too many people stick to what they know, e.g. a single career, because starting again is scary. But those who explore, for example different career paths, learn to generalize and adapt to new situations. And they are the ones who pounce and succeed when the world changes.
 
 ### You often win with a quiet game
 
@@ -278,13 +294,17 @@ It's hard to quit some things because it feels like failure. But the real failur
 
 No amount of determination or intelligence can overcome a bad situation.
 
-### Values should target the tails
+### Lead by example 
 
-Most company values are truisms. The art is selecting which ones to emphasise. Usually these are ones that, if not followed, lead to the biggest shortfalls in performance. To grab attention, they also usually need to be controversial to make people think and act differently (rather than being agreeable and "obvious").
+Demonstrate through your own work what you ask of other people.
 
 ### Decentralize operations
 
 Aim to have a team where people have a high degree of initiative and capability to tackle problems independently. This may require training, but it leads to better results than top-down management, and a more flexible team that can adapt quickly to new needs.
+
+### Values should target the tails
+
+Most company values are truisms. The art is selecting which ones to emphasise. Usually these are ones that, if not followed, lead to the biggest shortfalls in performance. To grab attention, they also usually need to be controversial to make people think and act differently (rather than being agreeable and "obvious").
 
 ### Meetings are the death of productivity
 
@@ -306,25 +326,11 @@ Recognize opportunities when they emerge and act quickly to seize them.
 
 Exercise and eat properly.
 
-### Intelligence is reductive not expansive.
-
-The hallmark of intelligence is not detail, but reduction of detail to principle. Principles generalize; details don't.
-
-### Have a confidence value for everything
-
-When someone speaks as if they have 100% confidence in something, that's a failure of method. Society teaches people to speak in this way to be heard. It's wrong. Be explicit about how confident you actually are. The goal is not to win an argument but to find the truth.
-
-### Rewards are silly when actual metrics exist
+### Awards are silly when actual metrics exist
 
 Focus on real achievements not appearances and status.
 
-### Lead by example 
 
-Demonstrate through your own work what you ask of other people.
-
-### What you use, you should try to understand
-
-Most people take things they use for granted - e.g. how does this laptop I'm using actually work? But you should take time to go deeper on some of these things that are important in your life. Because eventually you might want to modify them for your own needs.
 
 <p>&nbsp;</p>
 
@@ -343,11 +349,15 @@ Not where they were or who they worked with.
 
 Society is deeply flawed at making these type of judgements. For example, in the UK an Oxbridge degree is everything; and a role at a big company is seen as prestigious. The reality is that Oxbridge overoptimizes for people who are good at passing examinations; the reality is big companies are often slow, risk-averse and conservative.
 
-The ONLY thing that matters is what someone has actually done. For example, did they do hobby projects that got shitloads of community traction? Did they do any original entrepreneurial work in their spare time, or something that required a high level of initiative and independent work? And make sure to figure out whether someone is hiding behind the work of someone else, or whether they actually contributed anything themselves.
+The ONLY thing that matters is what someone has actually done. For example, did they do hobby projects that got shitloads of community traction? Did they do any original entrepreneurial work in their spare time, or something that required a high level of initiative and independent work? 
 
 ### Don't assume successful people are supremely talented
 
 More likely, they have baseline intelligence and were well-positioned to succeed. Would most billionaires still be billionaires if the world was run again? They probably would have been successful, but maybe not as successful.
+
+### Don't hero-worship people
+
+They're only human, after all.
 
 ### Prove people wrong by proving them right
 
@@ -361,10 +371,6 @@ A lot of times we know people from situational context, e.g. friends from school
 
 The optimal contribution to a group conversation is agreeable. Truth, in contrast, can be controversial and alienating.
 
-### Focus on actions not words for signal
-
-If someone says they'll come back to you, but they don't come back to you - they don't care. If someone says a problem is interesting, but they've done nothing to solve it themselves, they don't care. 
-
 ### Big groups can't move quickly
 
 The optimal team size is under ten people.
@@ -372,10 +378,6 @@ The optimal team size is under ten people.
 ### Incumbents are slow not scary
 
 Most incumbent companies scare off new entrants by getting scale and talent. But they are actually quite slow moving in a lot of cases, and a startup can easily outmanuevre them. Those in the big company will be stuck in meetings all day rather than actually working.
-
-### Don't hero-worship people
-
-They're only human, after all.
 
 ### Hire people who are original rather than textbook learners
 
