@@ -48,6 +48,10 @@ People sacrifice the truth in favour of agreeability, acceptance, and protection
 
 Status is a game of appearances: optimizing for it makes you hollow and dependent on someone else. Focus on fundamentals and what changes the world for the better.
 
+### Awards are silly when actual metrics exist
+
+Focus on achievements not appearances.
+
 ### Focus on the future not the present
 
 The present is dominated by those who planned yesterday: the game is already lost. Focus on the frontier where you have a headstart to make a difference.
@@ -325,10 +329,6 @@ Recognize opportunities when they emerge and act quickly to seize them.
 ### Don’t neglect your health
 
 Exercise and eat properly.
-
-### Awards are silly when actual metrics exist
-
-Focus on real achievements not appearances and status.
 
 
 
