@@ -144,7 +144,7 @@ Be open-minded. Think about how a new situation might be different in important 
 
 ### Don’t cosplay as who you want to be.
 
-It is easy to pretend you are something you are not. Don't settle for fiction: you only live once.
+It is easy to pretend you are something you are not. Don't settle for fiction, because reality is much more interesting when it works out.
 
 ### A fortress mentality can be useful
 
