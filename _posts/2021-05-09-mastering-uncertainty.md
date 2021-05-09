@@ -415,7 +415,7 @@ Their bookshelf is full, but their trophy cabinet is empty.
 
 If someone is privileged and they haven't achieved or experienced much: avoid. They have had the weakest learning environment out of anyone.
 
-### Pay attention to people who've change a lot since you last saw them.
+### Pay attention to those who've changed since you last saw them.
 
 They're the ones who are learning and who you want to associate with.
 
