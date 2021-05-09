@@ -190,7 +190,7 @@ You won't have good insights if you don't know the fundamentals of a field, beca
 
 ### When everyone is going left, consider going right.
 
-Contrarian thinking for its own sake can be stupid, but most people's bias is towards conformance. You should try to work out for yourself, from first principles, which direction to go rather than following a crowd.
+Contrarian thinking for its own sake can be stupid, but most people's bias is towards conformity. You should try to work out for yourself, from first principles, which direction to go rather than following a group.
 
 ### Originality counts for more in failure
 
