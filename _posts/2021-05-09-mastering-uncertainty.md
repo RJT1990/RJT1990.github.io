@@ -186,7 +186,7 @@ Often the most useful books are useful in the negative. Because they seem flawed
 
 ### Learn the rules so you can break them
 
-You won't have good insights if you don't know the fundamentals of a field, because details matter. At the same time, you won't make breakthroughs by following all the rules. Art is knowing which rules to break.
+You won't have good insights if you don't know the fundamentals of a field, because details matter. At the same time, you won't make breakthroughs by following all the rules. Good creativity comes from knowing which rules to break.
 
 ### When everyone is going left, consider going right.
 
