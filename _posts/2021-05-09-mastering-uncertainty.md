@@ -395,15 +395,15 @@ It is not the critic who counts.
 
 In reality, you have to play the game somewhat. But be careful not to fall into the trap of optimizing purely to please others.
 
-### Don’t trust writers over doers. Storytelling is fiction; messiness is real life.
+### Don’t trust writers over doers. Storytelling is fiction; messiness is real life
 
 People give too much respect to people who produce opinionated blog posts, podcasts and essays. Usually these are not evidence-based, and the writer has no experience with the details of the problems they are writing about. If you have to read anything, read academic papers, not opinion pieces.
 
-### Focus on the person in the room who gives the most original insights not talking points.
+### Focus on the person in the room who gives the most original insights not talking points
 
 Talking points optimize for agreeability: it's wasted time compared to actual insights (i.e. new information and combination of information).
 
-### Don’t reason with people who can’t be reasoned with.
+### Don’t reason with people who can’t be reasoned with
 
 Many people are driven by emotion not reason, and will not change their mind with evidence.
 
