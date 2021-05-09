@@ -10,6 +10,8 @@ I also make no claim that these principles are fool-proof or that they are the o
 
 **Last Updated: May 9 2021**
 
+---------------------------------------
+
 ## Objectives
 
 To achieve anything you need to set yourself an objective to work towards. But this is where many slip up before they've even started. People tend to underestimate what they can achieve in the long-term, and overestimate the strength of obstacles in their way.
@@ -50,7 +52,7 @@ Focusing on average score leads to overoptimization for short-term achievements 
 
 Targets affect the underlying reality which in turn changes the appropriateness of the target. So better to go ambitious as possible so people don't anchor to a slower timetable.
 
-
+---------------------------------------
 
 ## Mentality
 
@@ -144,6 +146,7 @@ It is easy to pretend you are something you are not. But you only have one life:
 
 When you fuck up, admit it publicly; embarrass yourself publicly. You'll already be one-step ahead of most people, who enter a phase of denial and try to explain away their mistakes or pretend they're successful along some other dimension. 
 
+---------------------------------------
 
 ## Creativity
 
@@ -169,6 +172,10 @@ Seek misfits and crackpots. Newton dabbled in alchemy as well as calculus: there
 
 Often the most useful books are ones that are useful in the negative: i.e. they are flawed in some way. These types of book make you think about the reasons for failure. Books that you already agree with tend to reinforce your priors rather than question them.
 
+### Learn the rules so you can break them
+
+You won't have good insights if you don't know the fundamentals of a field, because details matter. At the same time, you won't make breakthroughs by following all the rules. Art is knowing which rules to break.
+
 ### When everyone is going left, consider going right.
 
 Contrarian thinking for it's own sake can be stupid, but societal bias is clearly towards acceptance and conventional thinking. Most people follow the crowd because it requires less effort. You should always work out for yourself, from first principles, which direction to go - and be invariant to the swing of popular opinion.
@@ -185,29 +192,66 @@ Some of the best ideas in science were cross-pollinated from other fields.
 
 Because it's going to be more superficial insights, and more laden with convention. You usually need to go deeper and through a few rounds before you get to something insightful.
 
+---------------------------------------
+
 ## Methodology
 
 Having the right objective and mentality is not sufficient if your methodology is flawed. Getting to your goal requires a number of skills such as positioning, speed of execution, experimentation, and processes of learning. These are summarized below.
 
-### Move Fast
+### Position for the wave
 
-### Go wide on experiences
-
-### Tell the truth, and teach others to deal with it.
-
-### Positioning for the wave
+Think of creative periods in history: usually it wasn't a single person, but there was a particular location or scene where ideas were flourishing. You should aim to position yourself in fields where a "rising tide lifts all boats". Even if your first work doesn't succeed, you can probably carve out a specialty and be carried by the overall progress and interest in the field.
 
 ### Chase exponentials
 
-### Experimental Method
+The field you target may often be backed by an exponential that you can extrapolate into the future. For example, Moore's Law being a sign that microcomputing would become more viable in the future; or the explosion of the Internet being a sign that ecommerce was going to be how people were going to do their shopping. These are often where you can build for the future rather than the present, by predicting what will become possible and what will be overturned. 
+
+### Move fast
+
+Most good ideas tap into a fundamental use case that requires a lot less effort to validate than you think. If people don’t bite at the core idea or insight, something is wrong. Additionally, people tend to underestimate what they can achieve if they really push on something. The recent successes in vaccine development is a good example of this.
+
+Need inspiration? Read Patrick Collison’s page ‘Fast’ for some examples of great accomplishments achieved quickly: https://patrickcollison.com/fast.
+
+### Build to inform
+
+Often you build not to present a final product, but to gain information or insights. This tells you what to build and focus on next. Usually great products aren't built in one-shot, but are constructed by farming insights from previous experiments.
+
+### Kill your ideas, don’t try to confirm them.
+
+Too many people set out to confirm ideas rather than kill them. So when evidence comes around, they fit it to the expectation they had. This means they cling to a pet idea for too long. Ideas should have to survive a brutal environment. They shouldn't be protected.
+
+### Explorers over Exploiters
+
+Explore or exploit? Too many people favour exploitation due to status quo bias and risk aversion. But those who explore, for example different career paths, tend to learn to generalize and adapt better to new situations. And they are the ones who usually pounce (and succeed) when the world changes.
+
+### Tell the truth, and teach others to deal with it.
+
+A good working environment is comfortable with the truth and knows not to take criticism personally.
+
+### Listen to other people and take their feedback seriously.
+
+Don't hear what you want to hear. Listen and incorporate the feedback.
+
+### Measure what you do
+
+Don't judge success based on subjective feel, but on objective metrics.
+
+## What gets measured gets done
+
+If you want to optimize a single thing, the best approach is to quantify and record it, and hold yourself accountable to that progress.
+
+## You often win with a quiet game
+
+A good way to win a game of Risk is to get others to argue so you can play a quiet game and slowly build up and then strike at the opportune moment. Life can be like this: being underestimated can be a great thing.
+
+## 
+
+
 
 ### Knowing when to quit a job
 
-### The truth isn’t found in debates
 
-### Find a wave that will carry you, so you have plenty of momentum + plenty of lines that lead to a successful outcome.
 
-### Learn the rules so you can break them.
 
 ### Values should target the biggest downside risks and biggest upside risks. 
 
@@ -215,15 +259,11 @@ Having the right objective and mentality is not sufficient if your methodology i
 ### War of manuevre 
 ### Aufttragsik
 
-### Farm insights to make bigger ones.
 
-### What gets measured gets done
 
 ### Stories oversimply the nuance of real life; learn principles rather than details.
 
-### You often win with a quiet game.
 
-### Listen to other people and take their feedback seriously.
 
 ### Ensemble viewpoints to come to the correct answer.
 
@@ -231,7 +271,6 @@ Having the right objective and mentality is not sufficient if your methodology i
 
 ### Don’t moronically praise everything.
 
-### Kill your ideas, don’t try to confirm them.
 
 ### Prepare fiercely.
 
@@ -260,6 +299,8 @@ Having the right objective and mentality is not sufficient if your methodology i
 ## Time is everything
 
 Recognize opportunities when they emerge and act quickly to seize them. A 
+
+---------------------------------------
 
 ## People
 
