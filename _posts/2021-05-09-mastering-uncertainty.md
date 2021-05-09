@@ -343,7 +343,7 @@ Exercise and eat properly.
 
 **Summary:** Learn how to size up other people and decide who you want to work with and how you want to deal with them.
 
-### Judge people by what THEY have DONE
+### Judge people by what they have done
 
 Not where they were or who they worked with.
 
