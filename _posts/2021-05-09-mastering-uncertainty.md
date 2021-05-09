@@ -308,7 +308,7 @@ Aim to have a team where people have a high degree of initiative and capability 
 
 ### Values should target the tails
 
-Most company values are truisms. The art is selecting which ones to emphasise. Usually these are ones that, if not followed, lead to the biggest shortfalls in performance. To grab attention, they also usually need to be controversial to make people think and act differently (rather than being agreeable and "obvious").
+Most company values are truisms. The art is selecting which ones to emphasise. Usually these are ones that, if not followed, lead to the biggest shortfalls in performance (large upsides or downsides). To grab attention, they also usually need to be controversial to make people think and act differently - rather than being agreeable and "obvious".
 
 ### Meetings are the death of productivity
 
