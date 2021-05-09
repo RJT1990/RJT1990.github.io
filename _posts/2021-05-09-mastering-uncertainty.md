@@ -140,7 +140,7 @@ One of the most depressing things in life is when you are dealing with a lot, bu
 
 It is easy to pretend you are something you are not. But you only have one life: how about actually achieving something? Don't settle for fiction.
 
-### Own your failures to on the future
+### Own your failures to own the future
 
 When you fuck up, admit it publicly; embarrass yourself publicly. You'll already be one-step ahead of most people, who enter a phase of denial and try to explain away their mistakes or pretend they're successful along some other dimension. 
 
