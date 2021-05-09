@@ -124,7 +124,7 @@ My goal in my twenties was to get enough freedom to escape another's judgement. 
 
 ### Constraints make you stronger
 
-Abundance allows you to be lazy and take shortcuts. Constraints make you think deeply, requires more effort, and generate more learnings (and adaptability). It's a better learning environment.
+Abundance allows you to be lazy and take shortcuts. Constraints make you think deeply, require more effort, and generate more learnings (and adaptability). It's a better learning environment.
 
 ### Hardships make you stronger
 
