@@ -329,7 +329,7 @@ Yet still - even in the tech sector - people value these signals when assessing 
 
 The ONLY thing that matters is what someone has actually done, not the signals they've acquired - or not people they've worked with. For example, did they do hobby projects that got shitloads of community traction? Did they do any original entrepreneurial work in their spare time, or something that required a high level of initiative and independent work?
 
-Software Engineer at Google; Computer Science at Cambridge - means fuck all. But still people default to caring about these things.
+Software Engineer at Google; Computer Science at Cambridge - means fuck all by itself. But still people default to caring about these things.
 
 To judge someone, the only question you need to ask is "yes, but what have THEY actually DONE?". 
 
