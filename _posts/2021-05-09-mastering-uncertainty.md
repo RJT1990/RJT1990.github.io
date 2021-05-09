@@ -10,7 +10,7 @@ The challenge for me is to summarize what I've learnt across a diverse range of 
 
 I decided to opt for an aphoristic, principle-based format to summarize these lessons (thanks Ray Dalio). I think this is more generalizable than storytelling, which tends to oversimplify and post-rationalize real events, and thematic topics, which tend to be too high-level and omit important factors. Being aphoristic gets the right balance of being low-level, but also generalizable and not tying too closely to a particular experience.
 
-**Reader:** you should skim-read to find principles that catch your attention. If you follow my advice carefully, you'll also notice this blog post is a "ladder to climb to throw away": the real punch of my advice is to learn and do things yourself. But hopefully by ingraining a few lessons below, you can find shortcuts to better outcomes for yourself. 
+**Reader:** you should skim-read to find principles that catch your attention. If you follow my advice carefully, you'll also notice this blog post is a "ladder to climb to throw away": the real punch of my advice is to learn and do things yourself. But hopefully you can find some shortcuts to better outcomes for yourself. 
 
 Pay particular attention to the advice that seems unnatural or controversial as this is where you'll want to overcome your in-built biases.
 
