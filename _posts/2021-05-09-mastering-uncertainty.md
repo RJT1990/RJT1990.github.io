@@ -409,7 +409,7 @@ Their bookshelf is full, but their trophy cabinet is empty.
 
 ### Avoid rich kids with shallow experiences
 
-If someone is privileged and they haven't achieved or experienced much: avoid. They have had the weakest learning environment out of anyone.
+If someone is privileged and they haven't experienced much: avoid. They have had the weakest learning environment out of anyone.
 
 ### Pay attention to those who've changed since you last saw them.
 
