@@ -102,7 +102,7 @@ Mixed focus is the death of productivity. You usually need to go deep on a probl
 
 Ask a startup person how it's going, and they'll always tell you it's going amazing. Then you'll quietly hear two months later that they've shut down the business. Screw perceptions: tell the truth, don't inflate things, and hold yourself accountable. Give yourself an incentive to actually fix things by embarrassing yourself and telling others how chaotic and shit things are.
 
-### Be your fiercest critic.
+### Be your fiercest critic
 
 Wrestle with your own ideas and try to kill them. Play the other side: like a court that's assessing the pros and cons of what you currently believe. Anything you pursue or believe should be subjected to fierce criticism so only the fittest ideas survive.
 
