@@ -377,7 +377,7 @@ The optimal team size is under ten people.
 
 ### Incumbents are slow not scary
 
-Most incumbent companies scare off new entrants by getting scale and talent. But they are actually quite slow moving in a lot of cases, and a startup can easily outmanuevre them. Those in the big company will be stuck in meetings all day rather than actually working.
+Most incumbent companies scare off new entrants by getting scale and talent. But they are actually quite slow moving in a lot of cases, and a startup can easily outmanuevre them. Those in the big company will often be stuck in meetings all day rather than working.
 
 ### Hire people who are original rather than textbook learners
 
