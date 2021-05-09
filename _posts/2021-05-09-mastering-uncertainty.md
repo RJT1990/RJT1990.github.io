@@ -6,7 +6,7 @@
 
 I was meaning to write a post with lessons from my twenties. It didn't come to anything last year as I was unhappy with my drafting. But recently I've been mentoring several people with startups, and I felt the need to revisit what I've actually learnt. 
 
-The challenge for me is to summarize learnings across many experiences: HM Treasury, open source Python, professional gambling, quant finance, cofounding a deep learning startup, Facebook, and more. 
+The challenge for me is to summarize learnings across lots of experiences without being chaotic: HM Treasury, open source Python, professional gambling, quant finance, cofounding a deep learning startup, Facebook, and more. 
 
 I've opted for an principle-based format to summarize these lessons (thanks Mr Dalio). This is more generalizable than storytelling, which oversimplifies and post-rationalize real events, and thematic topics, which tend to be too high-level and omit important factors. Being aphoristic produced the right balance of being low-level and applicable but also not tied too closely to a single experience.
 
