@@ -365,7 +365,7 @@ When someone doesn't rate you, they don't rate the present version of you. But i
 
 ### Don't waste your time on the wrong people
 
-A lot of times we know people from situational context, e.g. friends from school or university. You have no commitment to these people if you no longer gain satisfaction hanging out or working with them. Don't feel you need to keep something going that no longer gives you happiness.
+A lot of times we know people from situational context. You have no commitment to these people if you no longer gain satisfaction hanging out or working with them. Don't feel you need to keep something going that no longer gives you happiness.
 
 ### Groups optimize for agreeability not truth
 
