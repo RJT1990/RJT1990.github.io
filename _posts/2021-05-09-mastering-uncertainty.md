@@ -369,7 +369,7 @@ A lot of times we know people from situational context. You have no commitment t
 
 ### Groups optimize for agreeability not truth
 
-The optimal contribution to a group conversation is agreeable. Truth, in contrast, can be controversial and alienating.
+The optimal contribution to a group conversation in order to be accepted is to be agreeable. Truth, in contrast, can be controversial and alienating.
 
 ### Big groups can't move quickly
 
