@@ -397,7 +397,7 @@ In reality, you have to play the game somewhat. But be careful not to fall into 
 
 ### Don’t trust writers over doers. Storytelling is fiction; messiness is real life.
 
-People give too much respect to people who produce opinionated blog posts, newsletters, podcasts and essays. Usually these are not evidence-based, and the writer has no experience with the details of the problems they are writing about. If you have to read anything, read academic papers. This means you should be critical of 
+People give too much respect to people who produce opinionated blog posts, newsletters, podcasts and essays. Usually these are not evidence-based, and the writer has no experience with the details of the problems they are writing about. If you have to read anything, read academic papers, not opinion pieces.
 
 ### Focus on the person in the room who gives the most original insights, rather than recycles talking points.
 
