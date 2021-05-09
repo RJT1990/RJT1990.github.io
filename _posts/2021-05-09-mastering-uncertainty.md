@@ -216,7 +216,7 @@ The initial idea will be usually be superficial and laden with convention. The b
 
 ### Ride the wave
 
-Think of creative periods in history: usually it wasn't a single person, but there was a particular location or scene where ideas were flourishing. You should aim to position yourself in these idea-busy fields where a "rising tide lifts all boats". Even if your first efforts don't succeed, you can carve out a specialty and be carried by the overall progress in the field you've entered.
+Think of creative periods in history: usually it wasn't a single person, but there was a particular location or scene where ideas were flourishing. You should aim to position yourself in these idea-busy locations where a "rising tide lifts all boats". Even if your first efforts don't succeed, you can carve out a specialty and be carried by the overall progress in the field you've entered.
 
 ### Chase exponentials
 
