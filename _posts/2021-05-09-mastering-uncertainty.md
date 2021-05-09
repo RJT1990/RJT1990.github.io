@@ -56,7 +56,7 @@ The present is dominated by those who planned yesterday: the game is already los
 
 Focusing on average score overoptimizes for the short-term and incremental work. Focusing on max score directs you towards breakthroughs and the ideas that really count.
 
-### Set ambitious timelines
+### Set ambitious timetables
 
 Targets affect people's motivations which affects the appropriateness of the target. A better fixed point: be ambitious as possible so people don't anchor to a slower timetable.
 
