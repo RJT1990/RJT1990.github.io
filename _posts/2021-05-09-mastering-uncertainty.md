@@ -104,7 +104,7 @@ Wrestle with your own ideas and try to kill them. Play the other side: like a co
 
 ### Destiny is a useful fiction 
 
-I believe in destiny. It's a useful fiction that propels you forward. Humans have an agency bias that overattributes things to individual willpower rather than random events. I exploit this fiction as it pushes me to work harder: because *I'm* the one who is meant to succeed and I will succeed - and I actually believe in this crap. Does this contradict with chasing truth? Yes, in the sense I believe I am destined to chase it.
+I believe in destiny. It's a useful fiction that propels you forward. Humans have an agency bias that overattributes things to individual willpower rather than random events. I exploit this fiction as it pushes me to work harder.
 
 ### One life, make it count.
 
