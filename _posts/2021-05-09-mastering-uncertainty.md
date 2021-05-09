@@ -149,6 +149,10 @@ When you fuck up, admit it publicly; embarrass yourself publicly. You'll already
 
 Shaping the future requires a high degree of creativity. Often the building blocks of the future already lay around you. The Eureka moment comes from combining two things that people hadn't noticed before, often exploiting an analogy or point of similarity or difference. But this requires getting off the plane of conventional thinking. These principles tell you how to get off that track.
 
+### Aha, Ha, Ahh!
+
+Why do we make these sounds when we make a new discovery, joke, or see an awesome piece of art? Because we saw something that "should have been obvious" but that surprised us. It was hidden there all along, but we didn't notice it. Why didn't we notice it? Because we were interpreting a thing on its dominant frame of reference, how it is used in the present, rather than noticing another frame of reference in which it could be used. Creativity is the art of getting to these other frames of reference.
+
 ### Resist presentable ideas; seek out controversial ones.
 
 The more presentable an idea, the more it appeals to conventional wisdom. But the truly great ideas overturn conventional wisdom. Don't expect them to gain widespread acceptance at first.
@@ -161,26 +165,29 @@ If your ideas take the form "Tinder for x" then you are thinking incrementally, 
 
 Seek misfits and crackpots. Newton dabbled in alchemy as well as calculus: there's a reason for that. Crackpot ideas may not always be right, but at least they escape the present.
 
+### Seek out things you disagree with
+
+Often the most useful books are ones that are useful in the negative: i.e. they are flawed in some way. These types of book make you think about the reasons for failure. Books that you already agree with tend to reinforce your priors rather than question them.
+
 ### When everyone is going left, consider going right.
 
 Contrarian thinking for it's own sake can be stupid, but societal bias is clearly towards acceptance and conventional thinking. Most people follow the crowd because it requires less effort. You should always work out for yourself, from first principles, which direction to go - and be invariant to the swing of popular opinion.
 
 ### When all else fails, value originality.
 
-More lessons are learnt from failing original ideas, rather than failing incremental ideas. If you're playing the long-game, 
+More lessons are learnt from failing original ideas, rather than failing incremental ideas.
 
 ### Find insights in unusual places.
 
-### First stab at an idea is usually wrong.
+Some of the best ideas in science were cross-pollinated from other fields.
 
-### Ideas come from buddy cation;: aha, ha.
+### The first stab at an idea is usually wrong.
 
-### Very few people are successful on the first try
-
-
-
+Because it's going to be more superficial insights, and more laden with convention. You usually need to go deeper and through a few rounds before you get to something insightful.
 
 ## Methodology
+
+Having the right objective and mentality is not sufficient if your methodology is flawed. Getting to your goal requires a number of skills such as positioning, speed of execution, experimentation, and processes of learning. These are summarized below.
 
 ### Move Fast
 
