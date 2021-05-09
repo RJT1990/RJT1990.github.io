@@ -80,7 +80,7 @@ You can work hard on something, but you may not actually care about it. But cari
 
 ### Shock your identity
 
-"Your progress is proportional to your tolerance to embarrassment". If you aren't getting embarrassed, then you are not putting yourself in good learning environments. Those who learn a lot have a high personality half-life, and strong levels of disassociation with past versions of themselves, because they are learning at a faster rate.
+Your progress is proportional to your toleration for embarrassment. If you aren't getting embarrassed, then you are not putting yourself in good learning environments. Those who learn a lot have a high personality half-life, and strong levels of disassociation with past versions of themselves, because they are learning at a faster rate.
 
 ### Seek the freedom to make mistakes
 
