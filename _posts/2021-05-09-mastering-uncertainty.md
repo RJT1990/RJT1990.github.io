@@ -134,7 +134,7 @@ Abundance allows you to be lazy and take shortcuts. Constraints make you think d
 
 The most amazing people usually have overcome obstacles to achieve great things. It's a better learning environment.
 
-### Ride out bumps in the road.
+### Ride out bumps in the road
 
 Most setbacks are temporary, no matter how painful. Slow down if you need but don't give up.
 
