@@ -12,6 +12,7 @@ I also make no claim that these principles are fool-proof or that they are the o
 
 ---------------------------------------
 
+
 ## Objectives
 
 To achieve anything you need to set yourself an objective to work towards. But this is where many slip up before they've even started. People tend to underestimate what they can achieve in the long-term, and overestimate the strength of obstacles in their way.
@@ -53,6 +54,7 @@ Focusing on average score leads to overoptimization for short-term achievements 
 Targets affect the underlying reality which in turn changes the appropriateness of the target. So better to go ambitious as possible so people don't anchor to a slower timetable.
 
 ---------------------------------------
+
 
 ## Mentality
 
@@ -148,11 +150,12 @@ When you fuck up, admit it publicly; embarrass yourself publicly. You'll already
 
 ---------------------------------------
 
+
 ## Creativity
 
 Shaping the future requires a high degree of creativity. Often the building blocks of the future already lay around you. The Eureka moment comes from combining two things that people hadn't noticed before, often exploiting an analogy or point of similarity or difference. But this requires getting off the plane of conventional thinking. These principles tell you how to get off that track.
 
-### Aha, Ha, Ahh!
+#### Aha, Ha, Ahh!
 
 Why do we make these sounds when we make a new discovery, joke, or see an awesome piece of art? Because we saw something that "should have been obvious" but that surprised us. It was hidden there all along, but we didn't notice it. Why didn't we notice it? Because we were interpreting a thing on its dominant frame of reference, how it is used in the present, rather than noticing another frame of reference in which it could be used. Creativity is the art of getting to these other frames of reference.
 
@@ -193,6 +196,7 @@ Some of the best ideas in science were cross-pollinated from other fields.
 Because it's going to be more superficial insights, and more laden with convention. You usually need to go deeper and through a few rounds before you get to something insightful.
 
 ---------------------------------------
+
 
 ## Methodology
 
@@ -301,6 +305,7 @@ A good way to win a game of Risk is to get others to argue so you can play a qui
 Recognize opportunities when they emerge and act quickly to seize them. A 
 
 ---------------------------------------
+
 
 ## People
 
