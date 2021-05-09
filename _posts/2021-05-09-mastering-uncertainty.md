@@ -8,7 +8,7 @@ I was meaning to write a post with lessons from my twenties. It didn't come to a
 
 The challenge for me is to summarize learnings across lots of experiences without being chaotic: HM Treasury, open source Python, professional gambling, quant finance, cofounding a deep learning startup, Facebook, and more. 
 
-I've opted for an principle-based format to summarize these lessons (thanks Mr Dalio). This is more generalizable than storytelling, which oversimplifies and post-rationalize real events, and thematic topics, which tend to be too high-level and omit important factors. Being aphoristic produced the right balance of being low-level and applicable but also not tied too closely to a single experience.
+I've opted for an principle-based format to summarize these lessons (thanks Ray Dalio...). This is more generalizable than storytelling, which oversimplifies and post-rationalizes real events, and thematic topics, which tend to be too high-level and omit important factors. Being aphoristic produced the right balance of being low-level and applicable but also not tied too closely to a single experience.
 
 **Reader:** you should skim-read to find principles that catch your attention. The punch of my advice is to learn and do things yourself, so you may eventually ignore or disagree with many of them, but hopefully you'll find a few useful shortcuts.
 
