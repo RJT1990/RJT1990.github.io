@@ -150,10 +150,6 @@ Be open-minded. Think about how a new situation might be different in important 
 
 It is easy to pretend you are something you are not. Don't settle for fiction, because reality is much more interesting when it works out.
 
-### A fortress mentality can be useful
-
-The world is not actually against you, but what an amazing motivator to prove the bastards wrong.
-
 ### Own your failures to own the future
 
 When you mess up, admit it publicly; embarrass yourself publicly. You'll be one-step ahead of most people, who enter a phase of denial and try to explain away their mistakes or pretend they're successful along some other dimension. 
