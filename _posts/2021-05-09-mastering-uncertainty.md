@@ -282,7 +282,7 @@ A good working environment is comfortable with the truth and criticism.
 
 You are polluting signal and promoting an environment of agreeability over truth.
 
-### Explorers over Exploiters
+### Explorers over exploiters
 
 Explore or exploit? Too many people stick to what they know, e.g. a single career, because starting again is scary. But those who explore, for example different career paths, learn to generalize and adapt to new situations. And they are the ones who pounce and succeed when the world changes.
 
