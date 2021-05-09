@@ -240,7 +240,7 @@ You are polluting signal and promoting an environment of agreeability over truth
 
 Don't hear what you want to hear. Listen and incorporate the feedback.
 
-### Ensemble viewpoints to come to the correct answer
+#### Ensemble viewpoints to come to the correct answer
 
 Weigh feedback based on expertise and past track record.
 
