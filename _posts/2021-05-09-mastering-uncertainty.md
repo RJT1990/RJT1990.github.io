@@ -226,8 +226,6 @@ The field you target may backed by an exponential that you can extrapolate into 
 
 Most good ideas tap into a fundamental use case that requires a lot less effort to validate than you think. If people don’t bite at the core idea or insight, something is wrong. Additionally, people tend to underestimate what they can achieve if they really push on something. The recent successes in vaccine development are a good example of this.
 
-Need inspiration? Read Patrick Collison’s page ‘Fast’ for some examples of great accomplishments achieved quickly: https://patrickcollison.com/fast.
-
 ### Build to inform
 
 Often you build not to present a final product, but to gain information and insights. This tells you what to build and focus on next. Great products aren't built in one-shot, but are constructed by farming insights from previous experiments.
