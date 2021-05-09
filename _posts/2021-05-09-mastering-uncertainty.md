@@ -60,6 +60,8 @@ Focusing on average score overoptimizes for the short-term and incremental work.
 
 Targets affect people's motivations which affects the appropriateness of the target. A better fixed point: be ambitious as possible so people don't anchor to a slower timetable.
 
+<p>&nbsp;</p>
+
 ---------------------------------------
 
 <p>&nbsp;</p>
@@ -152,6 +154,8 @@ The world is not actually against you, but what an amazing motivator to prove th
 
 When you fuck up, admit it publicly; embarrass yourself publicly. You'll be one-step ahead of most people, who enter a phase of denial and try to explain away their mistakes or pretend they're successful along some other dimension. 
 
+<p>&nbsp;</p>
+
 ---------------------------------------
 
 <p>&nbsp;</p>
@@ -199,6 +203,8 @@ Some of the best ideas in science were cross-pollinated from other fields.
 ### The first stab at an idea is usually wrong.
 
 The initial idea will be usually be superficial and laden with convention. The better idea comes down the line when you've farmed more original insights.
+
+<p>&nbsp;</p>
 
 ---------------------------------------
 
@@ -322,8 +328,7 @@ Demonstrate through your own work what you ask of other people.
 
 Most people take things they use for granted - e.g. how does this laptop I'm using actually work? But you should take time to go deeper on some of these things that are important in your life. Because eventually you might want to modify them for your own needs.
 
-
-
+<p>&nbsp;</p>
 
 
 ---------------------------------------
