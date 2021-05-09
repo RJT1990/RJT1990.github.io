@@ -10,8 +10,11 @@ I also make no claim that these principles are fool-proof or that they are the o
 
 **Last Updated: May 9 2021**
 
+<p>&nbsp;</p>
+
 ---------------------------------------
 
+<p>&nbsp;</p>
 
 # Objectives
 
@@ -55,6 +58,7 @@ Targets affect the underlying reality which in turn changes the appropriateness 
 
 ---------------------------------------
 
+<p>&nbsp;</p>
 
 # Mentality
 
@@ -150,6 +154,7 @@ When you fuck up, admit it publicly; embarrass yourself publicly. You'll already
 
 ---------------------------------------
 
+<p>&nbsp;</p>
 
 # Creativity
 
