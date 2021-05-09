@@ -385,7 +385,7 @@ People you hire should express insightful, original thoughts that make you think
 
 ### Those who mock big ideas are crushed by them
 
-"He's one of these crazy people who thinks he can actually change things" was a common mantra when I was in the Traesury. In the long-run, those who resist ideas are the ones who fall behind when things change; and those who are crazy enough...well you know the rest.
+"He's one of these crazy people who thinks he can actually change things" was a common mantra when I was in the Treasury. But inn the long-run, those who resist ideas are the ones who fall behind when things change; and those who are crazy enough...well you know the rest.
 
 ### Don't let critics get you down
 
