@@ -176,9 +176,9 @@ The more presentable an idea, the more it appeals to conventional wisdom. But th
 
 Figure out what the future needs from first principles and build it (breakthrough work), rather than carrying forward present assumptions (incremental work).
 
-### Ignore popular people; seek misfits and crackpots
+### Ignore popular people; seek misfits
 
-Newton dabbled in alchemy as well as calculus: there's a reason for that. Crackpot ideas may not always be right, but at least they escape the present and stop you railroading from the present.
+Newton dabbled in alchemy as well as calculus: there's a reason for that. There is often a fine line between genius and madness, but at least misfits escape the present (innovating) rather than railroad from the present (incrementing).
 
 ### Seek out things you disagree with
 
