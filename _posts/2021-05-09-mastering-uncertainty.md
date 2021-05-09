@@ -397,7 +397,7 @@ In reality, you have to play the game somewhat. But be careful not to fall into 
 
 ### Don’t trust writers over doers. Storytelling is fiction; messiness is real life.
 
-People give too much respect to people who produce opinionated blog posts, newsletters, podcasts and essays. Usually these are not evidence-based, and the writer has no experience with the details of the problems they are writing about. If you have to read anything, read academic papers.
+People give too much respect to people who produce opinionated blog posts, newsletters, podcasts and essays. Usually these are not evidence-based, and the writer has no experience with the details of the problems they are writing about. If you have to read anything, read academic papers. This means you should be critical of 
 
 ### Focus on the person in the room who gives the most original insights, rather than recycles talking points.
 
@@ -411,17 +411,13 @@ Many people are driven by emotion not reason, and will not change their mind wit
 
 Their bookshelf is full, but their trophy cabinet is empty.
 
-### The ones who talk a big game are usually the ones who have big breakdowns when they fail
-
-Because they are so protective of their social identity that they can't handle it when they are found out.
-
 ### Avoid rich kids with shallow experiences
 
 If someone is privileged and they haven't achieved or experienced much: avoid. They have had the weakest learning environment out of anyone.
 
 ### Pay attention to people who've change a lot since you last saw them.
 
-They're the ones who are learning.
+They're the ones who are learning and who you want to associate with.
 
 
 
