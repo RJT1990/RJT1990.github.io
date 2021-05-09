@@ -152,7 +152,7 @@ The world is not actually against you, but what an amazing motivator to prove th
 
 ### Own your failures to own the future
 
-When you fuck up, admit it publicly; embarrass yourself publicly. You'll be one-step ahead of most people, who enter a phase of denial and try to explain away their mistakes or pretend they're successful along some other dimension. 
+When you mess up, admit it publicly; embarrass yourself publicly. You'll be one-step ahead of most people, who enter a phase of denial and try to explain away their mistakes or pretend they're successful along some other dimension. 
 
 <p>&nbsp;</p>
 
