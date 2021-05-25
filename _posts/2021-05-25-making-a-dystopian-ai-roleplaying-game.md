@@ -35,7 +35,7 @@ Sending people real stuff seemed to work well and added to the immersion that th
 
 <p>
   <a href="https://rjt1990.github.io/images/nat.jpg"><img src="https://rjt1990.github.io/images/nat.jpg" height=400></a>
-  <a href="https://rjt1990.github.io/images/mikkelgoods.jpeg"><img src="https://rjt1990.github.io/images/mikkelgoods.jpeg" width=400></a>
+  <a href="https://rjt1990.github.io/images/mikkelgoods.jpeg"><img src="https://rjt1990.github.io/images/mikkelgoods.jpeg" height=400></a>
 </p>
 
 <br />
