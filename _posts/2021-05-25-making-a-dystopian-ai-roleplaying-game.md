@@ -12,7 +12,7 @@ To immerse players in the new world, I video edited a fake documentary on how ev
 
 <br />
 
-<p>
+<p align="center">
   <a href="https://www.youtube.com/watch?v=FJ_RYQ61qQk"><img src="https://rjt1990.github.io/images/youtube.png" width=500></a>
   <br>
   <a href="https://www.youtube.com/watch?v=FJ_RYQ61qQk">chapter one: ̷t̷h̷e̷ ̷b̷e̷g̷i̷n̷n̷i̷n̷g̷</a>
@@ -41,7 +41,7 @@ Sending people real stuff seemed to work well and added to the immersion that th
 
 <br />
 
-<p align="center">
+<p>
   <a href="https://rjt1990.github.io/images/nat.jpg"><img src="https://rjt1990.github.io/images/nat.jpg" width=500></a>
   <br>
   <a href="https://rjt1990.github.io/images/mikkelgoods.jpeg"><img src="https://rjt1990.github.io/images/mikkelgoods.jpeg" width=500></a>
