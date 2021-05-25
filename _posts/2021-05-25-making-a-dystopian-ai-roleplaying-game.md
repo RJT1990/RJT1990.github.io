@@ -1,16 +1,20 @@
-## Making a Dystopian AI Roleplaying Game
+## 2027: A Dystopian AGI RPG
 
-I wanted to do something fun for my 30th birthday - last September - so I hacked together a dystopian AI roleplaying in a week. It involved "fake" documentaries detailing events up to 2027, an in-game social experiment with real money and prizes, scavenger hunt style mechanics, and a Telegram bot app where people could participate in and get updates on the game.
+I hacked together a dystopian AI roleplaying in a week for my 30th birthday party. It involved fake documentaries detailing events up to 2027, a social experiment with real money and prizes, scavenger hunt plots, and a Telegram bot where people could interact with and get updates on the game.
 
-It involved around 8-12 people and the engagement was super high; people seemed to engage every 15-30 minutes, including weekends. This post outlines my learnings and some of the fun details on how it worked.
+It involved 8-12 people and the engagement was super high. People seemed to engage every 15-30 minutes -- including weekends. This post details my learnings and some of the fun involved in the week of events!
 
 ## Plot
 
-The plot setting was a world five years in the future (2027) where a company called Kobashi Systems "solves" AI -- but in the process creates a deeply unequal society between engineers and non-engineers. I assumed that the future of AI is supervised learning - which is obviously incorrect given progress in self-supervised learning - but it made for a really clean class division between engineers and labellers. So I took some creative liberties to make a good story.
+The setting was a world in 2027 where a company called Kobashi Systems "solves" AGI. But in the process, the post-AGI world is deeply unequal and there is a strong class divison between engineers and non-engineers. I assumed the future of AI is supervised learning - which is obviously incorrect given progress in self-supervised learning - but it made for a really clean class division between engineers and labellers. So I took some creative liberties to write a good story!
 
-To immerse players in the world I video edited a fake 10 minute documentary on how events unfolded. I took clips from other documentaries and spliced them together to make it look like interviewees were talking about events in the future. I also paid a good documentary voiceover actor on Fiverr, and took some footage from Pexels, Shutterstock and some other sources. You can view the documentary here: 
+To immerse players in the new world, I video edited a fake documentary on how events unfolded. I took clips from other documentaries and spliced them together to make it look like interviewees were talking about events in the future. I also found a voiceover actor on Fiverr to provide narration, and took some footage from Pexels, Shutterstock and some other sources. You can view the documentary here: 
 
-https://www.youtube.com/watch?v=FJ_RYQ61qQk 
+<p>
+  <a href="https://www.youtube.com/watch?v=FJ_RYQ61qQk"><img src="https://rjt1990.github.io/images/youtube.png" width=500></a>
+  <br>
+  <a href="https://www.youtube.com/watch?v=FJ_RYQ61qQk">chapter one: ̷t̷h̷e̷ ̷b̷e̷g̷i̷n̷n̷i̷n̷g̷</a>
+</p>
 
 The reaction to the video from friends was really strong. I think this worked because:
 
