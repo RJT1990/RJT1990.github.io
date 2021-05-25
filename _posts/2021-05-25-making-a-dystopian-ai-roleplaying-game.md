@@ -64,6 +64,13 @@ I also got customized cyberpunk based pictures made of the players, to again mak
 
 ## The Telegram App
 
+<br />
+
+<p align="center">
+  <a href="https://rjt1990.github.io/images/phoneinterface.jpg"><img src="https://rjt1990.github.io/images/phoneinterface.jpg" width="100%"></a>
+</p>
+
+<br />
 I made a Telegram bot of an ingame "phone" where players could receive messages, calls, check the news, check their bank balance, and more. You can see this below:
 
 This worked really well as a place where people could check-in and see what was happening in the game. What especially worked well was the messaging system, and pushing messages to players. 
