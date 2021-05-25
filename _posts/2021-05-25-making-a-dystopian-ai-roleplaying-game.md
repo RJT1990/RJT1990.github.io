@@ -34,8 +34,8 @@ Sending people real stuff seemed to work well and added to the immersion that th
 <br />
 
 <p>
-  <a href="https://rjt1990.github.io/images/nat.jpg"><img src="https://rjt1990.github.io/images/nat.jpg" height=400></a>
-  <a href="https://rjt1990.github.io/images/mikkelgoods.jpeg"><img src="https://rjt1990.github.io/images/mikkelgoods.jpeg" height=400></a>
+  <a href="https://rjt1990.github.io/images/nat.jpg"><img src="https://rjt1990.github.io/images/nat.jpg" height=300></a>
+  <a href="https://rjt1990.github.io/images/mikkelgoods.jpeg"><img src="https://rjt1990.github.io/images/mikkelgoods.jpeg" height=300></a>
 </p>
 
 <br />
@@ -58,7 +58,19 @@ After the company induction, the first thing the player received is a video phon
 
 I made a lightweight store where people could use their "Doge" to buy items, which were *actually sent* to their address when ordered. This again really added to the immersion and feeling that things were real -- even if the items were shitty things like energy drinks! People soon started posting their orders on the general chat, and the memes flourished:
 
----
+<br />
+
+<p>
+  <a href="https://rjt1990.github.io/images/labella1.jpeg"><img src="https://rjt1990.github.io/images/labella1.jpeg" height=300></a>
+  <a href="https://rjt1990.github.io/images/labella2.jpeg"><img src="https://rjt1990.github.io/images/labella2.jpeg" height=300></a>
+  <a href="https://rjt1990.github.io/images/labella3.jpeg"><img src="https://rjt1990.github.io/images/labella3.jpeg" height=300></a>
+  <a href="https://rjt1990.github.io/images/labella4.jpeg"><img src="https://rjt1990.github.io/images/labella4.jpeg" height=300></a>
+  <a href="https://rjt1990.github.io/images/labella5.jpeg"><img src="https://rjt1990.github.io/images/labella5.jpeg" height=300></a>
+  <a href="https://rjt1990.github.io/images/labella6.jpeg"><img src="https://rjt1990.github.io/images/labella6.jpeg" height=300></a>
+</p>
+
+<br />
+
 
 ## Work Mini-Game
 
