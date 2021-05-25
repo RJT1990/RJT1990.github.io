@@ -27,6 +27,8 @@ The reaction to the video from friends was really strong. I think this worked be
 - Narrative was timely - post-pandemic, people wondering what would happen next.
 - Involving my friends in the video made them part of a big story.
 
+Also special thanks to [Matt Clifford](https://twitter.com/matthewclifford) who agreed to my (unreasonable!) request to provide a clip talking about Kobashi Systems, as if it were a company from the [Entrepreneur First](https://www.joinef.com) programme!
+
 The key themes I wanted to get across were how technology can shape social relations and how ownership of technology creates power. I also introduced elements of mystery, e.g. the founder Hiroshi Kobashi being missing, and an underground group known as the "Seekers" who are fighting against the company.
 
 I also produced two additional videos to immerse people in the world. I made a deliberately cringeworthy (and creepy) hiring video for Kobashi Systems. As well as a commercial for a fictional energy drink Labella, which is an energy drink targeted at labellers to improve their productivity...
