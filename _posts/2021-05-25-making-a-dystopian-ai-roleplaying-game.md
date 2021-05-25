@@ -1,6 +1,6 @@
 ## 2027: A Dystopian AGI RPG
 
-I hacked together a dystopian AGI RPG in a week for my 30th birthday party. It involved future documentaries, a social experiment with real money and prizes, scavenger hunt plots, and a Telegram bot where people could interact with and get updates on the game.
+I hacked together a dystopian AGI RPG in a week for my 30th birthday party. It involved documentaries from the future, a social experiment with real money and prizes, scavenger hunt plots, and a Telegram bot where people could interact with and get updates on the game.
 
 It involved 8-12 people and the engagement was super high. People seemed to engage every 15-30 minutes -- including weekends. This post details my learnings and some of the fun involved in the week of events!
 
