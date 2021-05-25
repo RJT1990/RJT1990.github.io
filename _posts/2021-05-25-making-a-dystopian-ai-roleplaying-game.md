@@ -34,7 +34,6 @@ Sending people real stuff seemed to work well and added to the immersion that th
 <br />
 
 <p><img src="https://rjt1990.github.io/images/nat.jpg" width=250></p>
-<p align="center"><i>Vannevar Bush with the Differential Analyzer</i></p>
 
 <br />
 
