@@ -10,11 +10,15 @@ The setting was a world in 2027 where a company called Kobashi Systems "solves" 
 
 To immerse players in the new world, I video edited a fake documentary on how events unfolded. I took clips from other documentaries and spliced them together to make it look like interviewees were talking about events in the future. I also found a voiceover actor on Fiverr to provide narration, and took some footage from Pexels, Shutterstock and some other sources. You can view the documentary here: 
 
+<br />
+
 <p>
   <a href="https://www.youtube.com/watch?v=FJ_RYQ61qQk"><img src="https://rjt1990.github.io/images/youtube.png" width=500></a>
   <br>
   <a href="https://www.youtube.com/watch?v=FJ_RYQ61qQk">chapter one: ̷t̷h̷e̷ ̷b̷e̷g̷i̷n̷n̷i̷n̷g̷</a>
 </p>
+
+<br />
 
 The reaction to the video from friends was really strong. I think this worked because:
 
