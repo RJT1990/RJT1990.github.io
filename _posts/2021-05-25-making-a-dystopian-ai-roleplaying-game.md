@@ -61,7 +61,7 @@ I made a lightweight store where people could use their "Doge" to buy items, whi
 <br />
 
 <p>
-  <a href="https://rjt1990.github.io/images/labella1.jpeg"><img src="https://rjt1990.github.io/images/labella1.jpeg" height=300></a>
+  <a href="https://rjt1990.github.io/images/labella1.jpg"><img src="https://rjt1990.github.io/images/labella1.jpg" height=300></a>
   <a href="https://rjt1990.github.io/images/labella2.jpeg"><img src="https://rjt1990.github.io/images/labella2.jpeg" height=300></a>
   <a href="https://rjt1990.github.io/images/labella3.jpeg"><img src="https://rjt1990.github.io/images/labella3.jpeg" height=300></a>
   <a href="https://rjt1990.github.io/images/labella4.jpeg"><img src="https://rjt1990.github.io/images/labella4.jpeg" height=300></a>
