@@ -31,7 +31,13 @@ To begin the game, players are assigned a job at Kobashi Systems as either a lab
 
 Sending people real stuff seemed to work well and added to the immersion that they were actually joining a company. I've shared some pictures below:
 
----
+<br />
+
+<p><img src="https://rjt1990.github.io/images/nat.jpg" width=250></p>
+<p align="center"><i>Vannevar Bush with the Differential Analyzer</i></p>
+
+<br />
+
 
 I also got customized cyberpunk based pictures made of the players, to again make them feel more immersed in the new world.
 
