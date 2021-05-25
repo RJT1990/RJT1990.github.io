@@ -31,6 +31,16 @@ The key themes I wanted to get across were how technology can shape social relat
 
 I also produced two additional videos to immerse people in the world. I made a deliberately cringeworthy (and creepy) hiring video for Kobashi Systems. As well as a commercial for a fictional energy drink Labella, which is an energy drink targeted at labellers to improve their productivity...
 
+<br />
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=VbIw6u9tW_M"><img src="https://rjt1990.github.io/images/labella.gif" width="100%"></a>
+  <br>
+  <a href="https://www.youtube.com/watch?v=VbIw6u9tW_M">Labels fuel the models, Labella fuels the humans</a>
+</p>
+
+<br />
+
 For fun, I also made Dogecoin the default currency in the game.
 
 ## Company Induction
