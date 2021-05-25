@@ -6,7 +6,7 @@ It involved 8-12 people and the engagement was super high. People seemed to enga
 
 ## Plot
 
-The setting was a world in 2027 where a company called Kobashi Systems "solves" AGI. But in the process, the post-AGI world is deeply unequal and there is a strong class divison between engineers and non-engineers. I assumed the AI of the future is still heavily supervised - which is obviously incorrect given progress in self-supervised learning - but it made for a really clean class division between engineers and labellers. So I took some creative liberties to write a good story!
+The setting was a world in 2027 where a company called Kobashi Systems "solves" AGI. But the post-AGI world is deeply unequal and there is a strong class divison between engineers and non-engineers. I assumed the AI of the future is still heavily supervised - which is obviously incorrect given progress in self-supervised learning - but it made for a really clean class division between engineers and labellers. So I took some creative liberties to write a good story!
 
 To immerse players in the new world, I video edited a fake documentary on how events unfolded. I took clips from other documentaries and spliced them together to make it look like interviewees were talking about events in the future. I also found a voiceover actor on Fiverr to provide narration, and took some footage from Pexels, Shutterstock and some other sources. You can view the documentary here: 
 
