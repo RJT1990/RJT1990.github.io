@@ -1,6 +1,6 @@
 ## 2027: A Dystopian AGI RPG
 
-I hacked together a dystopian AGI RPG in a week for my 30th birthday party. It involved fake documentaries, a social experiment with real money and prizes, scavenger hunt plots, and a Telegram bot where people could interact with and get updates on the game.
+I hacked together a dystopian AGI RPG in a week for my 30th birthday party. It involved future documentaries, a social experiment with real money and prizes, scavenger hunt plots, and a Telegram bot where people could interact with and get updates on the game.
 
 It involved 8-12 people and the engagement was super high. People seemed to engage every 15-30 minutes -- including weekends. This post details my learnings and some of the fun involved in the week of events!
 
@@ -8,7 +8,7 @@ It involved 8-12 people and the engagement was super high. People seemed to enga
 
 The setting was a world in 2027 where a company called Kobashi Systems "solves" AGI. But the post-AGI world is deeply unequal and there is a strong class divison between engineers and non-engineers. I assumed the AI of the future is still heavily supervised - which is obviously incorrect given [progress in self-supervised learning](https://twitter.com/an_open_mind/status/1396057486940114945?s=20) - but it made for a clean class division between engineers and labellers. So I took some creative liberties to write a good story!
 
-To immerse players in the new world, I video edited a fake documentary on how events unfolded. I took clips from other documentaries and spliced them together to make it look like interviewees were talking about events in the future. I also found a voiceover actor on Fiverr to provide narration, and took some footage from Pexels, Shutterstock and some other sources. You can view the documentary here: 
+To immerse players in the new world, I video edited a fantasy documentary on how events unfolded. I took clips from other documentaries and spliced them together to make it look like interviewees were talking about events in the future. I also found a voiceover actor on Fiverr to provide narration, and took some footage from Pexels, Shutterstock and some other sources. You can view the documentary here: 
 
 <br />
 
@@ -22,7 +22,7 @@ To immerse players in the new world, I video edited a fake documentary on how ev
 
 The reaction to the video from friends was really strong. I think this worked because:
 
-- The fake documentary format works really well.
+- The fantasy documentary format works really well.
 - The choice of musical score was good - Phillip Glass, Hans Zimmer, et al.
 - Narrative was timely - post-pandemic, people wondering what would happen next.
 - Involving my friends in the video made them part of a big story.
