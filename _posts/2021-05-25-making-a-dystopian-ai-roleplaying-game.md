@@ -1,19 +1,19 @@
 ## 2027: A Dystopian AGI RPG
 
-I hacked together a dystopian AI roleplaying in a week for my 30th birthday party. It involved fake documentaries detailing events up to 2027, a social experiment with real money and prizes, scavenger hunt plots, and a Telegram bot where people could interact with and get updates on the game.
+I hacked together a dystopian AGI RPG in a week for my 30th birthday party. It involved fake documentaries detailing events up to 2027, a social experiment with real money and prizes, scavenger hunt plots, and a Telegram bot where people could interact with and get updates on the game.
 
 It involved 8-12 people and the engagement was super high. People seemed to engage every 15-30 minutes -- including weekends. This post details my learnings and some of the fun involved in the week of events!
 
 ## Plot
 
-The setting was a world in 2027 where a company called Kobashi Systems "solves" AGI. But in the process, the post-AGI world is deeply unequal and there is a strong class divison between engineers and non-engineers. I assumed the future of AI is supervised learning - which is obviously incorrect given progress in self-supervised learning - but it made for a really clean class division between engineers and labellers. So I took some creative liberties to write a good story!
+The setting was a world in 2027 where a company called Kobashi Systems "solves" AGI. But in the process, the post-AGI world is deeply unequal and there is a strong class divison between engineers and non-engineers. I assumed the AI of the future is still heavily supervised - which is obviously incorrect given progress in self-supervised learning - but it made for a really clean class division between engineers and labellers. So I took some creative liberties to write a good story!
 
 To immerse players in the new world, I video edited a fake documentary on how events unfolded. I took clips from other documentaries and spliced them together to make it look like interviewees were talking about events in the future. I also found a voiceover actor on Fiverr to provide narration, and took some footage from Pexels, Shutterstock and some other sources. You can view the documentary here: 
 
 <br />
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=FJ_RYQ61qQk"><img src="https://rjt1990.github.io/images/youtube.png" width=500></a>
+  <a href="https://www.youtube.com/watch?v=FJ_RYQ61qQk"><img src="https://rjt1990.github.io/images/youtube.png" width="100%"></a>
   <br>
   <a href="https://www.youtube.com/watch?v=FJ_RYQ61qQk">chapter one: ̷t̷h̷e̷ ̷b̷e̷g̷i̷n̷n̷i̷n̷g̷</a>
 </p>
@@ -42,9 +42,9 @@ Sending people real stuff seemed to work well and added to the immersion that th
 <br />
 
 <p>
-  <a href="https://rjt1990.github.io/images/nat.jpg"><img src="https://rjt1990.github.io/images/nat.jpg" width=100%></a>
+  <a href="https://rjt1990.github.io/images/nat.jpg"><img src="https://rjt1990.github.io/images/nat.jpg" width="100%"></a>
   <br>
-  <a href="https://rjt1990.github.io/images/mikkelgoods.jpeg"><img src="https://rjt1990.github.io/images/mikkelgoods.jpeg" width=100%></a>
+  <a href="https://rjt1990.github.io/images/mikkelgoods.jpeg"><img src="https://rjt1990.github.io/images/mikkelgoods.jpeg" width="100%"></a>
 </p>
 
 <br />
@@ -70,17 +70,17 @@ I made a lightweight store where people could use their "Doge" to buy items, whi
 <br />
 
 <p>
-  <a href="https://rjt1990.github.io/images/labella1.jpg"><img src="https://rjt1990.github.io/images/labella1.jpg" width=100%></a>
+  <a href="https://rjt1990.github.io/images/labella1.jpg"><img src="https://rjt1990.github.io/images/labella1.jpg" width="100%"></a>
   <br>
-  <a href="https://rjt1990.github.io/images/labella2.jpeg"><img src="https://rjt1990.github.io/images/labella2.jpeg" width=100%></a>
+  <a href="https://rjt1990.github.io/images/labella2.jpeg"><img src="https://rjt1990.github.io/images/labella2.jpeg" width="100%"></a>
   <br>
-  <a href="https://rjt1990.github.io/images/labella3.jpeg"><img src="https://rjt1990.github.io/images/labella3.jpeg" width=100%></a>
+  <a href="https://rjt1990.github.io/images/labella3.jpeg"><img src="https://rjt1990.github.io/images/labella3.jpeg" width="100%"></a>
   <br>
-  <a href="https://rjt1990.github.io/images/labella4.jpeg"><img src="https://rjt1990.github.io/images/labella4.jpeg" width=100%></a>
+  <a href="https://rjt1990.github.io/images/labella4.jpeg"><img src="https://rjt1990.github.io/images/labella4.jpeg" width="100%"></a>
   <br>
-  <a href="https://rjt1990.github.io/images/labella5.jpeg"><img src="https://rjt1990.github.io/images/labella5.jpeg" width=100%></a>
+  <a href="https://rjt1990.github.io/images/labella5.jpeg"><img src="https://rjt1990.github.io/images/labella5.jpeg" width="100%"></a>
   <br>
-  <a href="https://rjt1990.github.io/images/labella6.jpeg"><img src="https://rjt1990.github.io/images/labella6.jpeg" width=100%></a>
+  <a href="https://rjt1990.github.io/images/labella6.jpeg"><img src="https://rjt1990.github.io/images/labella6.jpeg" width="100%"></a>
 </p>
 
 <br />
