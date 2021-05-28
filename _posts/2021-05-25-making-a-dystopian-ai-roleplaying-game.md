@@ -67,14 +67,15 @@ The company induction was a spoof of Silicon Valley-style company inductions. Th
   <br>
 </p>
 
-What really hit home was sending people the swag boxes. This really added to the immersion, and people seemed to love receiving physical things... I've shared some pictures below:
+What really hit home was sending people the swag boxes. People love to receive physical things...that's actually a lesson I would carry forward to real startups. For example, if you are building communities, you should absolutely send physical goods and swag out to your contributors. I've shared some pictures below:
 
 <br />
 
 <p>
   <a href="https://rjt1990.github.io/images/nat.jpg"><img src="https://rjt1990.github.io/images/nat.jpg" width="100%"></a>
   <br>
-  <a href="https://rjt1990.github.io/images/mikkelgoods.jpeg"><img src="https://rjt1990.github.io/images/mikkelgoods.jpeg" width="100%"></a>
+  <a href="https://rjt1990.github.io/images/mikkelgoods.jpeg"><img src="https://rjt1990.github.io/images/mercharrive1.jpg" width="100%"></a>
+  <a href="https://rjt1990.github.io/images/mikkelgoods.jpeg"><img src="https://rjt1990.github.io/images/mercharrive2.jpg" width="100%"></a>
 </p>
 
 <br />
