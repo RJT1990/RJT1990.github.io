@@ -100,6 +100,19 @@ I also got customized cyberpunk based pictures made of the players, to again mak
   <a href="https://rjt1990.github.io/images/samw.jpg"><img src="https://rjt1990.github.io/images/samw.jpg" width="50%"></a>
 </p>
 
+## The Magic Moment
+
+I was really influenced by a [talk on YouTube by Alex Schultz](https://youtu.be/URiIsrdplbo?t=719) a few years ago, particularly the idea of a product's **magic moment** when things click for the user. For example, for Facebook, the magic moment is seeing friends on Facebook and being able to follow how their lives progress. A core product goal is to get new users to that moment ASAP so they see the key product valye.
+
+I knew I had to do something similar after the induction for my game. The key thing I needed to achieve was getting my friends to buy into the "New World" and leave the real world behind. The New World had to be exciting and unpredictable, but I needed my friends to commit... (See the Hero's Journey).
+
+My tactic was to use "video calls" from celebrities through the Telegram app to the players. The basic formula was, the player would receive an incoming call (a video), and it would be a celebrity congratulating them on their new job at Kobashi and wishing them a happy 2027. This not only achieved a holy shit moment, but it clearly tied that experience to the game and the New World through the context of the messages. To achieve this, I used Cameo and a bit of video editing. 
+
+This was the most expensive bit of the whole project, but friends loved it, and it really got them engaged going forward - so objective achieved! You can view some of the "video calls" below, staring Lindsay Lohan, Steve Wozniak, Russ Hanneman from HBO's Silicon Valley, Tony Hawk, and Christopher Lloyd (Doc Brown).
+
+...
+
+
 ## The Telegram App
 
 <br />
