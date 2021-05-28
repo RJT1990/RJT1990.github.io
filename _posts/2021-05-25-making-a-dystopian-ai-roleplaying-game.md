@@ -8,7 +8,7 @@ It involved 8-12 people and engagement was high: players engaged every 15-30 min
 
 The setting was 2027 where a company called Kobashi Systems "solves" AGI. But the post-AGI world is deeply unequal and there is a strong class divide between engineers and non-engineers. I assumed the AI of the future is heavily supervised - obviously incorrect given [progress in self-supervised learning](https://twitter.com/an_open_mind/status/1396057486940114945?s=20) - but it made for a clean class division between engineers and labellers. So I took some creative liberties to write a good story! Suspend your disbelief, ML researchers 🙂.
 
-To immerse players in the new world, I video edited a spoof documentary on how events unfolded. I took clips from other documentaries and spliced them together to make it look like interviewees were talking about events in the future. I also found a voiceover actor on Fiverr to provide narration, and took some footage from Pexels, Shutterstock and some other sources. You can view the documentary here: 
+To immerse players in the new world, I video edited a spoof documentary on how events unfolded. I took clips from other documentaries and spliced them together to make it look like interviewees were talking about events in the future. I also found an [amazing voiceover narrator on Fiverr](https://www.fiverr.com/provotalent/narrate-your-documentary-with-my-american-male-voice), and took some footage from Pexels, Shutterstock and some other sources. You can view the documentary here: 
 
 <br />
 
@@ -20,13 +20,12 @@ To immerse players in the new world, I video edited a spoof documentary on how e
 
 <br />
 
-The reaction to the video from friends was really strong. What worked well was:
+The reaction to the video was really strong. What worked well was:
 
-- **Mockumentary format is very effective** - people thought it was either deepfaked or that I'd actually interviewed people like Jordan Peterson...
-- **Timely narrative** - post-pandemic uncertainty, and curiousity about where things might go.
-- **Good musical score** - Phillip Glass, Hans Zimmer, et al.
-- **Narrative was timely** - post-pandemic, people wondering what would happen next.
-- **Friends felt like heroes** - putting friends directly in the video made them feel part of a big story.
+- **Mockumentary format** - This is really effective for immersion. Friends thought I might have deepfaked it, or that I'd actually interviewed people like Jordan Peterson!
+- **Timely narrative** - Post-pandemic uncertainty, and curiousity about where things might go. This made people more willing to jump into the "new world" because there was a realism and relevance to it.
+- **Good musical score** - Phillip Glass and Hans Zimmer worked really well for tapping into emotions. The synth tracks from PERTURBATOR and The Encounter also worked well to sell the cyberpunk vibe. It just blended together really nicely.
+- **Friends felt like heroes** - putting clips of friends in the video made them feel part of a big story (and made them feel special).
 
 Also special thanks to [Matt Clifford](https://twitter.com/matthewclifford) who agreed to my (unreasonable!) request to provide a clip talking about Kobashi Systems, as if it were a company from the [Entrepreneur First](https://www.joinef.com) programme!
 
