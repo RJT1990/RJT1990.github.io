@@ -85,17 +85,17 @@ What really hit home was sending people the swag boxes. People love to receive p
 I also got customized cyberpunk based pictures made of the players, to again make them feel more immersed in the new world. I've displayed these below. Some came out really well:
 
 <p align="center">
-  <a href="https://rjt1990.github.io/images/cy_mario.jpeg"><img src="https://rjt1990.github.io/images/cy_mario.jpeg" width="100%"></a>
+  <a href="https://rjt1990.github.io/images/mario.jpg"><img src="https://rjt1990.github.io/images/mario.jpg" width="100%"></a>
   <br>
-  <a href="https://rjt1990.github.io/images/cy)hana.jpeg"><img src="https://rjt1990.github.io/images/cy)hana.jpeg" width="100%"></a>
+  <a href="https://rjt1990.github.io/images/hana.jpg"><img src="https://rjt1990.github.io/images/hana.jpg" width="100%"></a>
   <br>
-  <a href="https://rjt1990.github.io/images/cy_mikkel.jpeg"><img src="https://rjt1990.github.io/images/cy_mikkel.jpeg" width="100%"></a>
+  <a href="https://rjt1990.github.io/images/mikkel.jpg"><img src="https://rjt1990.github.io/images/mikkel.jpg" width="100%"></a>
   <br>
-  <a href="https://rjt1990.github.io/images/cy_natasha.jpeg"><img src="https://rjt1990.github.io/images/cy_natasha.jpeg" width="100%"></a>
+  <a href="https://rjt1990.github.io/images/natasha.jpg"><img src="https://rjt1990.github.io/images/natasha.jpg" width="100%"></a>
   <br>
-  <a href="https://rjt1990.github.io/images/cy_nish.jpeg"><img src="https://rjt1990.github.io/images/cy_nish.jpeg" width="100%"></a>
+  <a href="https://rjt1990.github.io/images/nish.jpg"><img src="https://rjt1990.github.io/images/nish.jpg" width="100%"></a>
   <br>
-  <a href="https://rjt1990.github.io/images/cy_samw.jpeg"><img src="https://rjt1990.github.io/images/cy_samw.jpeg" width="100%"></a>
+  <a href="https://rjt1990.github.io/images/samw.jpg"><img src="https://rjt1990.github.io/images/samw.jpg" width="100%"></a>
 </p>
 
 ## The Telegram App
