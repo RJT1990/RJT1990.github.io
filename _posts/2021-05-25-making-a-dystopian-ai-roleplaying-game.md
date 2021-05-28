@@ -128,7 +128,6 @@ The means to achieving this were Cameo and some video editing. This was the most
 
 With the immersion stage finished, the next stage was the core game mechanics. Players had an in-game phone where they could stay up to date with ongoings in the game:
 
-<br />
 
 <p align="center">
   <a href="https://rjt1990.github.io/images/phoneinterface.jpg"><img src="https://rjt1990.github.io/images/phoneinterface.jpg" width="100%"></a>
