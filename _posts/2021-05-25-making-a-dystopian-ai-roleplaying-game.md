@@ -74,17 +74,29 @@ What really hit home was sending people the swag boxes. People love to receive p
 <p>
   <a href="https://rjt1990.github.io/images/nat.jpg"><img src="https://rjt1990.github.io/images/nat.jpg" width="100%"></a>
   <br>
-  <a href="https://rjt1990.github.io/images/nat.jpg"><img src="https://rjt1990.github.io/images/mikkelgoods.jpeg" width="100%"></a>
+  <a href="https://rjt1990.github.io/images/mikkelgoods.jpg"><img src="https://rjt1990.github.io/images/mikkelgoods.jpeg" width="100%"></a>
   <br>
-  <a href="https://rjt1990.github.io/images/mikkelgoods.jpeg"><img src="https://rjt1990.github.io/images/mercharrive1.jpg" width="100%"></a>
-  <a href="https://rjt1990.github.io/images/mikkelgoods.jpeg"><img src="https://rjt1990.github.io/images/mercharrive2.jpg" width="100%"></a>
+  <a href="https://rjt1990.github.io/images/mercharrive1.jpeg"><img src="https://rjt1990.github.io/images/mercharrive1.jpg" width="100%"></a>
+  <a href="https://rjt1990.github.io/images/mercharrive2.jpeg"><img src="https://rjt1990.github.io/images/mercharrive2.jpg" width="100%"></a>
 </p>
 
 <br />
 
 I also got customized cyberpunk based pictures made of the players, to again make them feel more immersed in the new world. I've displayed these below. Some came out really well:
 
-
+<p align="center">
+  <a href="https://rjt1990.github.io/images/cy_mario.jpeg"><img src="https://rjt1990.github.io/images/cy_mario.jpeg" width="100%"></a>
+  <br>
+  <a href="https://rjt1990.github.io/images/cy)hana.jpeg"><img src="https://rjt1990.github.io/images/cy)hana.jpeg" width="100%"></a>
+  <br>
+  <a href="https://rjt1990.github.io/images/cy_mikkel.jpeg"><img src="https://rjt1990.github.io/images/cy_mikkel.jpeg" width="100%"></a>
+  <br>
+  <a href="https://rjt1990.github.io/images/cy_natasha.jpeg"><img src="https://rjt1990.github.io/images/cy_natasha.jpeg" width="100%"></a>
+  <br>
+  <a href="https://rjt1990.github.io/images/cy_nish.jpeg"><img src="https://rjt1990.github.io/images/cy_nish.jpeg" width="100%"></a>
+  <br>
+  <a href="https://rjt1990.github.io/images/cy_samw.jpeg"><img src="https://rjt1990.github.io/images/cy_samw.jpeg" width="100%"></a>
+</p>
 
 ## The Telegram App
 
