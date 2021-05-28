@@ -61,7 +61,7 @@ To begin the game, players are assigned a job at Kobashi Systems as either a **l
 <br />
 
 <p>
-  <a href="https://rjt1990.github.io/images/labels.jpeg"><img src="https://rjt1990.github.io/images/labels.jpeg" width="100%"></a>
+  <a href="https://rjt1990.github.io/images/labels.jpeg"><img src="https://rjt1990.github.io/images/values.jpeg" width="100%"></a>
   <br>
 </p>
 
