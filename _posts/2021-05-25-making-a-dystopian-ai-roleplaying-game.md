@@ -100,6 +100,8 @@ I also got customized cyberpunk based pictures made of the players, to again mak
   <a href="https://rjt1990.github.io/images/samw.jpg"><img src="https://rjt1990.github.io/images/samw.jpg" width="50%"></a>
 </p>
 
+<br />
+
 ## The Magic Moment
 
 I was really influenced by a [talk on YouTube by Alex Schultz](https://youtu.be/URiIsrdplbo?t=719) a few years ago, particularly the idea of a product's **magic moment** when things click for the user. For example, for Facebook, the magic moment is seeing friends on Facebook and being able to follow how their lives progress. A core product goal is to get new users to that moment ASAP so they see the key product valye.
@@ -110,6 +112,8 @@ My tactic was to use "video calls" from celebrities through the Telegram app to 
 
 This was the most expensive bit of the whole project, but friends loved it, and it really got them engaged going forward - so objective achieved! You can view some of the "video calls" below, staring Lindsay Lohan, Steve Wozniak, Chris Diamantopoulos (Russ Hanneman from HBO's Silicon Valley), Tony Hawk, and Christopher Lloyd (Doc Brown from Back to the Future).
 
+<br />
+
 <p align="center">
   <a href="https://www.youtube.com/watch?v=hSsGNXEjdIU"><img src="https://rjt1990.github.io/images/lindsaylohan.png" width="50%"></a>
   <a href="https://www.youtube.com/watch?v=emsDE20YoHE"><img src="https://rjt1990.github.io/images/stevewozniak.png" width="50%"></a>
@@ -118,6 +122,7 @@ This was the most expensive bit of the whole project, but friends loved it, and 
   <a href="https://www.youtube.com/watch?v=4b9EIeGuS4A"><img src="https://rjt1990.github.io/images/docbrown.png" width="50%"></a>
 </p>
 
+<br />
 
 ## The Telegram App
 
