@@ -52,7 +52,7 @@ I also produced two additional videos to immerse people in my world. I made a de
 
 <br />
 
-For fun, I made Dogecoin the default currency in the game. But not actual Dogecoin...balances were stored in a SQLite DB on a local machine. Apologies to blockchain enthusiasts for this sacrilege.
+For fun, I made Dogecoin the default currency in the game. But not actual Dogecoin...balances and transactions were stored in a SQLite DB on a local machine. Apologies to blockchain enthusiasts for this sacrilege.
 
 ## Company Induction
 
