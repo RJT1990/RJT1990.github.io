@@ -23,7 +23,7 @@ To immerse players in the new world, I video edited a spoof documentary on how e
 The reaction to the video was really strong. What worked well was:
 
 - **Mockumentary format** - This is really effective for immersion. Friends thought I might have deepfaked it, or that I'd actually interviewed people like Jordan Peterson!
-- **Timely narrative** - Post-pandemic uncertainty, and curiousity about where things might go. This made people more willing to jump into the "new world" because there was a realism and relevance to it.
+- **Timely narrative** - Post-pandemic uncertainty, and curiosity about where things might go. This made people more willing to jump into the "new world" because there was a realism and relevance to it.
 - **Good musical score** - Phillip Glass and Hans Zimmer worked really well for tapping into emotions. The synth tracks from Perturbator and The Encounter also worked well to sell the cyberpunk vibe. It all blended together really nicely.
 - **Friends felt like heroes** - putting clips of friends in the video made them feel part of a big story (and made them feel special).
 
