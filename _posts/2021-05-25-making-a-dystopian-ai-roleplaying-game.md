@@ -31,7 +31,7 @@ The reaction to the video was really strong from players. It was effective for s
 - **Mockumentary format** - Really aided immersion. Friends thought I might have deepfaked it, or that I'd actually interviewed people like Jordan Peterson!
 - **Timely narrative** - Post-pandemic uncertainty means people are especially curious about the future in 2021. This made people more willing to imagine the "new world" as a potential future (and immerse themselves in it).
 - **Choice of music** - Phillip Glass and Hans Zimmer worked well to tap into emotions. The synth tracks from Perturbator and The Encounter also worked to sell the cyberpunk vibe.
-- **Turning Friends into Heroes** - Having video clips of friends in the documentary alongside the big story made them feel special.  
+- **Turning friends into heroes** - Having video clips of friends in the documentary alongside the big story made them feel special.  
 
 Also special thanks to [Matt Clifford](https://twitter.com/matthewclifford) who agreed to my (unreasonable!) request to provide a clip talking about Kobashi Systems, as if it were a company from the [Entrepreneur First](https://www.joinef.com) programme!
 
