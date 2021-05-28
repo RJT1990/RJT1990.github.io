@@ -84,6 +84,8 @@ What really hit home was sending people the swag boxes. People love to receive p
 
 I also got customized cyberpunk based pictures made of the players, to again make them feel more immersed in the new world. I've displayed these below. Some came out really well:
 
+<br />
+
 <p align="center">
   <a href="https://rjt1990.github.io/images/mario.jpg"><img src="https://rjt1990.github.io/images/mario.jpg" width="50%"></a>
   <br>
