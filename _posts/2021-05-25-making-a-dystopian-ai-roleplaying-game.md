@@ -6,15 +6,15 @@
 
 <br />
 
-I hacked together a dystopian AGI RPG in a week for my 30th birthday party. It consisted of spoof documentaries, a social experiment with real money and prizes, scavenger hunt plots, and an interactive Telegram bot that managed the game.
+I hacked together a dystopian AGI RPG in a week for my 30th birthday party. It involved spoof documentaries, a social experiment with real money, scavenger hunt sidequests, and a Telegram bot as the game interface.
 
-It involved 8-12 people and engagement was high: players engaged every 15-30 minutes, including weekends. This post details my learnings and some of the fun involved in the week of events!
+The game had 8-12 players and engagement was very high: players engaged every 15-30 minutes, including weekends. This blog post details how the game worked, how it played out, and my learnings from building this product.
 
 ## Plot
 
-The setting was 2027 where a company called Kobashi Systems "solves" AGI. But the post-AGI world is deeply unequal and there is a strong class divide between engineers and non-engineers. I assumed the AI of the future is heavily supervised - obviously incorrect given [progress in self-supervised learning](https://twitter.com/an_open_mind/status/1396057486940114945?s=20) - but it made for a clean class division between engineers and labellers. So I took some creative liberties to write a good story! Suspend your disbelief, ML researchers 🙂.
+The setting was 2027 where a company called Kobashi Systems "solves" AGI. The rise of AGI creates social problems, however, and society self-organizes arounds two classes: those who train models (**engineers**) and those who provide data for models (**labellers**). The implicit assumption here is that machine learning remains heavily supervised. This is obviously incorrect given [progress in self-supervised learning](https://twitter.com/an_open_mind/status/1396057486940114945?s=20), but this assumption enabled a clean class divide between engineers and labellers. This was good for the story I wanted to write! So suspend your disbelief, ML researchers 🙂.
 
-To immerse players in the new world, I video edited a spoof documentary on how events unfolded. I took clips from other documentaries and spliced them together to make it look like interviewees were talking about events in the future. I also found an [amazing voiceover narrator on Fiverr](https://www.fiverr.com/provotalent/narrate-your-documentary-with-my-american-male-voice), and took some footage from Pexels, Shutterstock and some other sources. You can view the documentary here: 
+To immerse players in game world, I made a spoof documentary about how events unfolded. I took clips from other documentaries and spliced them together to make it look like interviewees were talking about events in the future. I also found an [amazing voiceover narrator on Fiverr](https://www.fiverr.com/provotalent/narrate-your-documentary-with-my-american-male-voice), and took some footage from Pexels, Shutterstock and some other sources. You can view the documentary here: 
 
 <br />
 
@@ -26,18 +26,18 @@ To immerse players in the new world, I video edited a spoof documentary on how e
 
 <br />
 
-The reaction to the video was really strong. What worked well was:
+The reaction to the video was really strong from players. It was effective for several reasons:
 
-- **Mockumentary format** - This is really effective for immersion. Friends thought I might have deepfaked it, or that I'd actually interviewed people like Jordan Peterson!
-- **Timely narrative** - Post-pandemic uncertainty, and curiosity about where things might go. This made people more willing to jump into the "new world" because there was a realism and relevance to it.
-- **Good musical score** - Phillip Glass and Hans Zimmer worked really well for tapping into emotions. The synth tracks from Perturbator and The Encounter also worked well to sell the cyberpunk vibe. It all blended together really nicely.
-- **Friends felt like heroes** - putting clips of friends in the video made them feel part of a big story (and made them feel special).
+- **Mockumentary format** - Really aided immersion. Friends thought I might have deepfaked it, or that I'd actually interviewed people like Jordan Peterson!
+- **Timely narrative** - Post-pandemic uncertainty means people are especially curious about the future in 2021. This made people more willing to imagine the "new world" as a potential future (and immerse themselves in it).
+- **Choice of music** - Phillip Glass and Hans Zimmer worked well to tap into emotions. The synth tracks from Perturbator and The Encounter also worked to sell the cyberpunk vibe.
+- **Turning Friends into Heroes** - Having video clips of friends in the documentary alongside the big story made them feel special.  
 
 Also special thanks to [Matt Clifford](https://twitter.com/matthewclifford) who agreed to my (unreasonable!) request to provide a clip talking about Kobashi Systems, as if it were a company from the [Entrepreneur First](https://www.joinef.com) programme!
 
-The key themes I wanted to get across were how technology can shape social relations and how ownership of technology creates power. I also introduced elements of mystery, e.g. the founder Hiroshi Kobashi being missing, and an underground group known as the "Seekers" who are fighting against the company. At a macro level, I found rereading the [Hero's Journey](https://en.wikipedia.org/wiki/Hero%27s_journey) helpful for storyboarding. The main structural insight I exploited was this idea of transitioning from an "Old World" to the "New World".
+The key themes I wanted to get across were how technology can shape social relations and how ownership of technology creates power. I also introduced elements of mystery, e.g. the founder Hiroshi Kobashi being missing, and an underground group known as the "Seekers" who are fighting against the company. At a macro level, I found rereading the [Hero's Journey](https://en.wikipedia.org/wiki/Hero%27s_journey) helpful for storyboarding. The main structural insight I exploited was this idea of transitioning from an "Old World" to the "New World". This was especially timely given the current pandemic, and the sense we are transitioning to a new regime where old rules will no longer apply.
 
-I also produced two additional videos to immerse people in my world. I made a deliberately [cringeworthy hiring video for Kobashi Systems](https://youtube.com/watch?v=_TteD56RDPA). More crazily, I made a commercial for a fictional beverage Labella: an energy drink targeted at labellers to improve their productivity...
+To further aid immersion, I produced two additional videos for the story. I made a deliberately [cringeworthy hiring video for Kobashi Systems](https://youtube.com/watch?v=_TteD56RDPA). I also made a commercial for a fictional beverage Labella: an energy drink targeted at labellers to improve their productivity...
 
 <br />
 
@@ -52,13 +52,13 @@ I also produced two additional videos to immerse people in my world. I made a de
 
 <br />
 
-For fun, I made Dogecoin the default currency in the game. But not actual Dogecoin...balances and transactions were stored in a SQLite DB on a local machine. Apologies to blockchain enthusiasts for this sacrilege.
+For fun, I made Dogecoin the default currency in the game. But not actual Dogecoin...balances and transactions were stored in a SQLite DB on a local machine. Apologies to blockchain enthusiasts.
 
-## Company Induction
+## Welcome to Kobashi
 
-To begin the game, players are assigned a job at Kobashi Systems as either a **labeller** or an **engineer**. To immerse my friends, I sent them through a "company induction" (via Telegram app) and sent them swag boxes in real-life -- containing t-shirts, a welcome letter, stickers, food and more.
+To begin the game, players are assigned a job at Kobashi Systems as either a **labeller** or an **engineer**. To immerse my friends, they completed a "company induction" (via the Telegram app) and they were sent company swag boxes -- containing t-shirts, a welcome letter, stickers, food and more.
 
-The company induction was a spoof of Silicon Valley-style company inductions. The content served a dual-purpose: (a) making my friends feel like they were joining a real company (immersion), and (b) introducing people to the Telegram bot (mechanics).
+The Kobashi induction was a spoof of Silicon Valley company inductions. The content served a dual-purpose: (a) making my friends feel like they were joining a real tech company (*immersion*), and (b) introducing people to the Telegram bot UX (*mechanics*).
 
 <br />
 
@@ -67,7 +67,7 @@ The company induction was a spoof of Silicon Valley-style company inductions. Th
   <br>
 </p>
 
-What really hit home was sending people the swag boxes. People love to receive physical things...that's actually a lesson I would carry forward to real startups. For example, if you are building communities, you should absolutely send physical goods and swag out to your contributors. I've shared some pictures below:
+Players really loved the swag boxes. People place high utility on physical goods. It's a lesson that should be carried forward for real startups, especially if you are building communities. Send out physical goods and swags to your contributors! I've shared pictures below of happy new Kobashi employees:
 
 <br />
 
@@ -82,7 +82,7 @@ What really hit home was sending people the swag boxes. People love to receive p
 
 <br />
 
-I also got customized cyberpunk based pictures made of the players, to again make them feel more immersed in the new world. I've displayed these below. Some came out really well:
+I also got cyberpunk profile pictures made of the players, to further aid immersion. Some of these came out really well:
 
 <br />
 
@@ -104,13 +104,13 @@ I also got customized cyberpunk based pictures made of the players, to again mak
 
 ## The Magic Moment
 
-I was really influenced by a [talk on YouTube by Alex Schultz](https://youtu.be/URiIsrdplbo?t=719) a few years ago, particularly the idea of a product's **magic moment** when things click for the user. For example, for Facebook, the magic moment is seeing friends on Facebook and being able to follow how their lives progress. A core product goal is to get new users to that moment ASAP so they see the key product valye.
+A few years ago, I was really influenced by a [talk on YouTube by Alex Schultz](https://youtu.be/URiIsrdplbo?t=719). He talks about the idea of a product's **magic moment** -- the moment when things click for the user. For example, on Facebook, the magic moment is seeing friends following how their lives progress. A core product goal is to get new users to that moment ASAP so they understand the key product value.
 
-I knew I had to do something similar after the induction for my game. The key thing I needed to achieve was getting my friends to buy into the "New World" and leave the real world behind. The New World had to be exciting and unpredictable, but I needed my friends to commit... (See the Hero's Journey).
+I needed a magic moment after the induction for my game. My friends needed to buy into the "New World" and leave the real world behind. This is a key structural moment in the [Hero's Journey](https://en.wikipedia.org/wiki/Hero%27s_journey), when the hero leaves the ordinary world behind. I needed to make my friends cross the first threshold themselves!
 
-My tactic was to use "video calls" from celebrities through the Telegram app to the players. The basic formula was, the player would receive an incoming call (a video), and it would be a celebrity congratulating them on their new job at Kobashi and wishing them a happy 2027. This not only achieved a holy shit moment, but it clearly tied that experience to the game and the New World through the context of the messages. To achieve this, I used Cameo and a bit of video editing. 
+My device was to use video calls to the players from celebrities through the Telegram app. The player would receive an incoming call - a video - and it would be a celebrity congratulating them on their new job at Kobashi and wishing them a happy 2027. This not only achievied a holy shit moment, but it tied that experience to the game and the New World with the context of the message. It was the trigger to leave the old world behind...and the trigger to get fully engaged with the game.
 
-This was the most expensive bit of the whole project, but friends loved it, and it really got them engaged going forward - so objective achieved! You can view some of the "video calls" below, staring Lindsay Lohan, Steve Wozniak, Chris Diamantopoulos (Russ Hanneman from HBO's Silicon Valley), Tony Hawk, and Christopher Lloyd (Doc Brown from Back to the Future).
+The means to achieving this were Cameo and some video editing. This was the most expensive bit of the project, but my friends *loved* it, and it really got them engaged going forward - so objective achieved! You can view some of the "video calls" below, staring Lindsay Lohan, Steve Wozniak, Chris Diamantopoulos (Russ Hanneman from HBO's Silicon Valley), Tony Hawk, and Christopher Lloyd (Doc Brown from Back to the Future).
 
 <br />
 
