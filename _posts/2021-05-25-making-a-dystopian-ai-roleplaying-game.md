@@ -126,8 +126,9 @@ The means to achieving this were Cameo and some video editing. This was the most
 
 ## The Telegram App
 
-With the immersion stage finished, the next stage was the core game mechanics. Players had an in-game phone where they could stay up to date with ongoings in the game:
+With the immersion stage finished, the next stage was the core game mechanics. Players had an in-game phone where they could stay up to date with ongoings in the game and participate in daily activities:
 
+<br />
 
 <p align="center">
   <a href="https://rjt1990.github.io/images/phoneinterface.jpg"><img src="https://rjt1990.github.io/images/phoneinterface.jpg" width="100%"></a>
@@ -137,18 +138,40 @@ With the immersion stage finished, the next stage was the core game mechanics. P
 
 The core features were:
 
-- ✉️ Mail: players received messages from non-playable characters.
-- 👩‍💻 Work: where players could earn in-game money (see following sections)
-- 🏦 Bank: players had a balance of money they earned in the game
-- 🛒 Store: players could buy real-life items with in-game money (see following sections)
-- 📰 News: daily news reports in 2027 to give more world context.
+- ✉️ Mail: where you received messages non-playable characters.
+- 👩‍💻 Work: where you earned in-game money (see following sections)
+- 🏦 Bank: where you could see your in-game balanc
+- 🛒 Store: where you could buy real-life items with in-game money (see following sections)
+- 📰 News: where you could read daily news reports in 2027
 
 This bot was easy to develop thanks to excellent [Telegram libraries](https://pypi.org/project/python-telegram-bot/) for Python. 
 
-The phone medium was very effective for immersion. Something about the messaging interface makes the game feel more real. The actual game mechanics, covered shortly, were a mixture of push and pull. The implementation was hacky, given my time constraints, but it worked reliably enough for the course of the week.
+The phone medium was very effective for immersion. Something about the messaging medium makes the game feel real. The game mechanics, covered shortly, were a mixture of push and pull; some actions were done on the player's own initiative, others were prompted through push notifications. As a whole, the bot implementation was hacky, given time constraints, but it worked reliably enough for the course of the game.
 
+## 👩‍ Work: The Ultimatum Game
 
-## Kobashi E-Store
+To recap, the core class divide in 2027 was between engineers and labellers, and there was extremely high levels of inequality. How to convey this in the game?
+
+From my economics background, I knew about the Ultimatum and Dictator games which are famous experiments that show people have intrinsic preferences for fairness, and where the classical rational choice predictions fail. So I designed a modified ultimatum game, as follows:
+
+1. Each labeller is paired with an engineer for a daily job. Each job has a bounty - e.g. 10 doge. Only engineers know the bounty (!).
+2. Labellers have to label 5 images a day, for example dogs vs cats. Engineers do not observe the data or this process.
+3. Once labelling is done, the engineer "trains" a model on the new data and records an accuracy. Labellers do not observe this process.
+4. If the labelling is perfect, the full bounty is received. If partially correct, a fraction of bounty is received. If no labels are correct, no bounty are received. Labelling quality is manifested through the "accuracy" that the modeller observes after "training the model".
+5. The engineer can then allocate a fraction of the bounty to the labeller. The labeller is notified of the amount they receive once allocated (but not the amount the engineer receives).
+
+Here is an example of the labelling interface a labeller would use to do their daily job:
+
+And here is the outcome of "training" a new model, and the decision to allocate the bounty by the engineer:
+
+Asymmetric information created many intriguing game elements:
+
+- Labellers can't observe the the total bounty: engineers can potentially get away with paying labellers less if they co-ordinate...
+- Engineeers can't observe the labelling process: they don't know how it takes, or the type of data (e.g. military data)
+- Labellers can't observe the training process: and realize that it requires no skill
+- Labellers can punish engineers by labelling incorrectly or not labelling at all
+
+## 🛒 Kobashi E-Store
 
 I made a lightweight store where people could use their "Doge" to buy items, which were *actually sent* to their address when ordered. This again really added to the immersion and feeling that things were real -- even if the items were shitty things like energy drinks! People soon started posting their orders on the general chat, and the memes flourished:
 
