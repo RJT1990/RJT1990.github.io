@@ -1,5 +1,13 @@
 ## 2027: A Dystopian AGI RPG
 
+<br />
+
+<p align="center">
+  <img src="https://rjt1990.github.io/images/kobashi.gif" width="100%">
+</p>
+
+<br />
+
 I hacked together a dystopian AGI RPG in a week for my 30th birthday party. It consisted of spoof documentaries, a social experiment with real money and prizes, scavenger hunt plots, and an interactive Telegram bot that managed the game.
 
 It involved 8-12 people and engagement was high: players engaged every 15-30 minutes, including weekends. This post details my learnings and some of the fun involved in the week of events!
@@ -13,7 +21,7 @@ To immerse players in the new world, I video edited a spoof documentary on how e
 <br />
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=h3Fg04f-wE8"><img src="https://rjt1990.github.io/images/kobashi.gif" width="100%"></a>
+  <a href="https://www.youtube.com/watch?v=h3Fg04f-wE8"><img src="https://rjt1990.github.io/images/youtube.png" width="100%"></a>
   <br>
   <a href="https://www.youtube.com/watch?v=h3Fg04f-wE8">chapter one: ̷t̷h̷e̷ ̷b̷e̷g̷i̷n̷n̷i̷n̷g̷</a>
 </p>
