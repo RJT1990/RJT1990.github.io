@@ -126,6 +126,8 @@ This was the most expensive bit of the whole project, but friends loved it, and 
 
 ## The Telegram App
 
+With the immersion stage finished, the next stage was the core game mechanics. Players had an in-game phone where they could stay up to date with ongoings in the game:
+
 <br />
 
 <p align="center">
@@ -133,13 +135,18 @@ This was the most expensive bit of the whole project, but friends loved it, and 
 </p>
 
 <br />
-I made a Telegram bot of an ingame "phone" where players could receive messages, calls, check the news, check their bank balance, and more. You can see this below:
 
-This worked really well as a place where people could check-in and see what was happening in the game. What especially worked well was the messaging system, and pushing messages to players. 
+The core features were:
 
-After the company induction, the first thing the player received is a video phone call from a famous person congratulating on their new job at Kobashi and wishing them a happy 2027. This was probably the priciest part of the game, but it worked really well as a "holy shit" moment. You can view a few of these below:
+- ✉️ Mail: players received messages from non-playable characters.
+- 👩‍💻 Work: where players could earn in-game money (see following sections)
+- 🏦 Bank: players had a balance of money they earned in the game
+- 🛒 Store: players could buy real-life items with in-game money (see following sections)
+- 📰 News: daily news reports in 2027 to give more world context.
 
----
+This bot was easy to develop thanks to excellent [Telegram libraries](https://pypi.org/project/python-telegram-bot/) for Python. 
+
+The phone medium was very effective for immersion. Something about the messaging interface makes the game feel more real. The actual game mechanics, covered shortly, were a mixture of push and pull. The implementation was hacky, given my time constraints, but it worked reliably enough for the course of the week.
 
 
 ## Kobashi E-Store
