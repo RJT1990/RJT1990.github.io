@@ -1,14 +1,14 @@
 ## 2027: A Dystopian AGI RPG
 
-I hacked together a dystopian AGI RPG in a week for my 30th birthday party. It involved documentaries from the future, a social experiment with real money and prizes, scavenger hunt plots, and a Telegram bot where people could interact with and get updates on the game.
+I hacked together a dystopian AGI RPG in a week for my 30th birthday party. It consisted of spoof documentaries, a social experiment with real money and prizes, scavenger hunt plots, and an interactive Telegram bot that managed the game.
 
-It involved 8-12 people and the engagement was super high. People seemed to engage every 15-30 minutes -- including weekends. This post details my learnings and some of the fun involved in the week of events!
+It involved 8-12 people and engagement was high: players engaged every 15-30 minutes, including weekends. This post details my learnings and some of the fun involved in the week of events!
 
 ## Plot
 
-The setting was a world in 2027 where a company called Kobashi Systems "solves" AGI. But the post-AGI world is deeply unequal and there is a strong class divison between engineers and non-engineers. I assumed the AI of the future is still heavily supervised - which is obviously incorrect given [progress in self-supervised learning](https://twitter.com/an_open_mind/status/1396057486940114945?s=20) - but it made for a clean class division between engineers and labellers. So I took some creative liberties to write a good story!
+The setting was 2027 where a company called Kobashi Systems "solves" AGI. But the post-AGI world is deeply unequal and there is a strong class divide between engineers and non-engineers. I assumed the AI of the future is heavily supervised - obviously incorrect given [progress in self-supervised learning](https://twitter.com/an_open_mind/status/1396057486940114945?s=20) - but it made for a clean class division between engineers and labellers. So I took some creative liberties to write a good story! Suspend your disbelief, ML researchers 🙂.
 
-To immerse players in the new world, I video edited a fantasy documentary on how events unfolded. I took clips from other documentaries and spliced them together to make it look like interviewees were talking about events in the future. I also found a voiceover actor on Fiverr to provide narration, and took some footage from Pexels, Shutterstock and some other sources. You can view the documentary here: 
+To immerse players in the new world, I video edited a spoof documentary on how events unfolded. I took clips from other documentaries and spliced them together to make it look like interviewees were talking about events in the future. I also found a voiceover actor on Fiverr to provide narration, and took some footage from Pexels, Shutterstock and some other sources. You can view the documentary here: 
 
 <br />
 
@@ -20,18 +20,19 @@ To immerse players in the new world, I video edited a fantasy documentary on how
 
 <br />
 
-The reaction to the video from friends was really strong. I think this worked because:
+The reaction to the video from friends was really strong. What worked well was:
 
-- The fantasy documentary format works really well.
-- The choice of musical score was good - Phillip Glass, Hans Zimmer, et al.
-- Narrative was timely - post-pandemic, people wondering what would happen next.
-- Involving my friends in the video made them part of a big story.
+- **Mockumentary format is very effective** - people thought it was either deepfaked or that I'd actually interviewed people like Jordan Peterson...
+- **Timely narrative** - post-pandemic uncertainty, and curiousity about where things might go.
+- **Good musical score** - Phillip Glass, Hans Zimmer, et al.
+- **Narrative was timely** - post-pandemic, people wondering what would happen next.
+- **Friends felt like heroes** - putting friends directly in the video made them feel part of a big story.
 
 Also special thanks to [Matt Clifford](https://twitter.com/matthewclifford) who agreed to my (unreasonable!) request to provide a clip talking about Kobashi Systems, as if it were a company from the [Entrepreneur First](https://www.joinef.com) programme!
 
-The key themes I wanted to get across were how technology can shape social relations and how ownership of technology creates power. I also introduced elements of mystery, e.g. the founder Hiroshi Kobashi being missing, and an underground group known as the "Seekers" who are fighting against the company.
+The key themes I wanted to get across were how technology can shape social relations and how ownership of technology creates power. I also introduced elements of mystery, e.g. the founder Hiroshi Kobashi being missing, and an underground group known as the "Seekers" who are fighting against the company. I found rereading about the [Hero's Journey](https://en.wikipedia.org/wiki/Hero%27s_journey) really helpful for storyboarding and figuring out the key elements I needed. The main structure I exploited was this idea of transitioning from an "Old World" to the "New World" -- which I think is really important for immersion.
 
-I also produced two additional videos to immerse people in the world. I made a deliberately cringeworthy (and creepy) hiring video for Kobashi Systems. As well as a commercial for a fictional energy drink Labella, which is an energy drink targeted at labellers to improve their productivity...
+I also produced two additional videos to immerse people in the world. I made a deliberately [cringeworthy hiring video for Kobashi Systems](). As well as a commercial for a fictional energy drink Labella, which is an energy drink targeted at labellers to improve their productivity...
 
 <br />
 
@@ -43,7 +44,7 @@ I also produced two additional videos to immerse people in the world. I made a d
 
 <br />
 
-For fun, I also made Dogecoin the default currency in the game.
+For fun, I also made Dogecoin the default currency in the game. But not actual Dogecoin...just balances stored in a flat DB on a local machine. Apologies to blockchain enthusiasts for this sacrilege.
 
 ## Company Induction
 
