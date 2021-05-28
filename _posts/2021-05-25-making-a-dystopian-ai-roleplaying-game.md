@@ -65,7 +65,6 @@ To begin the game, players are assigned a job at Kobashi Systems as either a **l
   <br>
 </p>
 
-<br />
 
 The company induction was based on most startup and SV induction processes. The content served the purpose of making my friends feel like they were joining a company. Additionally, it introduced people to how the Bot worked on telegram:
 
