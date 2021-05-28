@@ -106,7 +106,7 @@ I also got cyberpunk profile pictures made of the players, to further aid immers
 
 A few years ago, I was really influenced by a [talk on YouTube by Alex Schultz](https://youtu.be/URiIsrdplbo?t=719). He talks about the idea of a product's **magic moment** -- the moment when things click for the user. For example, on Facebook, the magic moment is seeing friends following how their lives progress. A core product goal is to get new users to that moment ASAP so they understand the key product value.
 
-I needed a magic moment after the induction for my game. My friends needed to buy into the "New World" and leave the real world behind. This is a key structural moment in the [Hero's Journey](https://en.wikipedia.org/wiki/Hero%27s_journey), when the hero leaves the ordinary world behind. I needed to make my friends cross the first threshold themselves!
+I needed a magic moment after the induction for my game. My friends needed to buy into the "New World" and leave the real world behind. This is a key structural moment in the [Hero's Journey](https://en.wikipedia.org/wiki/Hero%27s_journey), when the hero leaves the ordinary world and crosses the threshold. I needed my friends cross the first threshold in the game!
 
 My device was to use video calls to the players from celebrities through the Telegram app. The player would receive an incoming call - a video - and it would be a celebrity congratulating them on their new job at Kobashi and wishing them a happy 2027. This not only achievied a holy shit moment, but it tied that experience to the game and the New World with the context of the message. It was the trigger to leave the old world behind...and the trigger to get fully engaged with the game.
 
