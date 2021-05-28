@@ -13,9 +13,9 @@ To immerse players in the new world, I video edited a spoof documentary on how e
 <br />
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=FJ_RYQ61qQk"><img src="https://rjt1990.github.io/images/youtube.png" width="100%"></a>
+  <a href="https://www.youtube.com/watch?v=h3Fg04f-wE8"><img src="https://rjt1990.github.io/images/youtube.png" width="100%"></a>
   <br>
-  <a href="https://www.youtube.com/watch?v=FJ_RYQ61qQk">chapter one: ̷t̷h̷e̷ ̷b̷e̷g̷i̷n̷n̷i̷n̷g̷</a>
+  <a href="https://www.youtube.com/watch?v=h3Fg04f-wE8">chapter one: ̷t̷h̷e̷ ̷b̷e̷g̷i̷n̷n̷i̷n̷g̷</a>
 </p>
 
 <br />
@@ -44,7 +44,7 @@ I also produced two additional videos to immerse people in the world. I made a d
 
 <br />
 
-For fun, I also made Dogecoin the default currency in the game. But not actual Dogecoin...just balances stored in a flat DB on a local machine. Apologies to blockchain enthusiasts for this sacrilege.
+For fun, I also made Dogecoin the default currency in the game. But not actual Dogecoin...just balances stored in a SQLite DB on a local machine. Apologies to blockchain enthusiasts for this sacrilege.
 
 ## Company Induction
 
