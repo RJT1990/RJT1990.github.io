@@ -1,7 +1,5 @@
 ## 2027: A Dystopian AGI RPG
 
-<br />
-
 <p align="center">
   <img src="https://rjt1990.github.io/images/kobashi.gif" width="100%">
 </p>
@@ -54,11 +52,26 @@ I also produced two additional videos to immerse people in my world. I made a de
 
 <br />
 
-For fun, I also made Dogecoin the default currency in the game. But not actual Dogecoin...just balances stored in a SQLite DB on a local machine. Apologies to blockchain enthusiasts for this sacrilege.
+For fun, I made Dogecoin the default currency in the game. But not actual Dogecoin...balances were stored in a SQLite DB on a local machine. Apologies to blockchain enthusiasts for this sacrilege.
 
 ## Company Induction
 
-To begin the game, players are assigned a job at Kobashi Systems as either a labeller or an engineer. To immerse my friends in the world, I sent them through a "company induction" (via Telegram app) and sent them boxes with company swag -- containing letters, t-shirts, food, and more.
+To begin the game, players are assigned a job at Kobashi Systems as either a **labeller** or an **engineer**. To immerse my friends, I sent them through a "company induction" (via Telegram app) and sent them swag boxes in real-life -- containing t-shirts, a welcome letter, stickers, food and more.
+
+<br />
+
+<p>
+  <a href="https://rjt1990.github.io/images/labels.jpeg"><img src="https://rjt1990.github.io/images/labels.jpeg" width="100%"></a>
+  <br>
+</p>
+
+<br />
+
+The company induction was based on most startup and SV induction processes. The content served the purpose of making my friends feel like they were joining a company. Additionally, it introduced people to how the Bot worked on telegram:
+
+
+
+
 
 Sending people real stuff seemed to work well and added to the immersion that they were actually joining a company. I've shared some pictures below:
 
