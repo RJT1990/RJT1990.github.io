@@ -104,7 +104,7 @@ I also got cyberpunk profile pictures made of the players, to further aid immers
 
 ## The Magic Moment
 
-A few years ago, I was really influenced by a [talk on YouTube by Alex Schultz](https://youtu.be/URiIsrdplbo?t=719). He talks about the idea of a product's **magic moment** -- the moment when things click for the user. For example, on Facebook, the magic moment is seeing friends following how their lives progress. A core product goal is to get new users to that moment ASAP so they understand the key product value.
+A few years ago, I was really influenced by a [talk on YouTube by Alex Schultz](https://youtu.be/URiIsrdplbo?t=719). He talks about the idea of a product's **magic moment** -- the moment when things click for the user. For example, on Facebook, the magic moment is seeing friends and following how their lives progress. A core product goal is to get new users to that moment ASAP so they understand the key product value.
 
 I needed a magic moment after the induction for my game. My friends needed to buy into the "New World" and leave the real world behind. This is a key structural moment in the [Hero's Journey](https://en.wikipedia.org/wiki/Hero%27s_journey), when the hero leaves the ordinary world and crosses the threshold. I needed my friends cross the first threshold in the game!
 
