@@ -24,14 +24,14 @@ The reaction to the video was really strong. What worked well was:
 
 - **Mockumentary format** - This is really effective for immersion. Friends thought I might have deepfaked it, or that I'd actually interviewed people like Jordan Peterson!
 - **Timely narrative** - Post-pandemic uncertainty, and curiousity about where things might go. This made people more willing to jump into the "new world" because there was a realism and relevance to it.
-- **Good musical score** - Phillip Glass and Hans Zimmer worked really well for tapping into emotions. The synth tracks from PERTURBATOR and The Encounter also worked well to sell the cyberpunk vibe. It just blended together really nicely.
+- **Good musical score** - Phillip Glass and Hans Zimmer worked really well for tapping into emotions. The synth tracks from Perturbator and The Encounter also worked well to sell the cyberpunk vibe. It all blended together really nicely.
 - **Friends felt like heroes** - putting clips of friends in the video made them feel part of a big story (and made them feel special).
 
 Also special thanks to [Matt Clifford](https://twitter.com/matthewclifford) who agreed to my (unreasonable!) request to provide a clip talking about Kobashi Systems, as if it were a company from the [Entrepreneur First](https://www.joinef.com) programme!
 
-The key themes I wanted to get across were how technology can shape social relations and how ownership of technology creates power. I also introduced elements of mystery, e.g. the founder Hiroshi Kobashi being missing, and an underground group known as the "Seekers" who are fighting against the company. I found rereading about the [Hero's Journey](https://en.wikipedia.org/wiki/Hero%27s_journey) really helpful for storyboarding and figuring out the key elements I needed. The main structure I exploited was this idea of transitioning from an "Old World" to the "New World" -- which I think is really important for immersion.
+The key themes I wanted to get across were how technology can shape social relations and how ownership of technology creates power. I also introduced elements of mystery, e.g. the founder Hiroshi Kobashi being missing, and an underground group known as the "Seekers" who are fighting against the company. At a macro level, I found rereading the [Hero's Journey](https://en.wikipedia.org/wiki/Hero%27s_journey) helpful for storyboarding. The main structural insight I exploited was this idea of transitioning from an "Old World" to the "New World".
 
-I also produced two additional videos to immerse people in the world. I made a deliberately [cringeworthy hiring video for Kobashi Systems](). As well as a commercial for a fictional energy drink Labella, which is an energy drink targeted at labellers to improve their productivity...
+I also produced two additional videos to immerse people in my world. I made a deliberately [cringeworthy hiring video for Kobashi Systems](https://youtube.com/watch?v=_TteD56RDPA). More crazily, I made a commercial for a fictional energy drink Labella, which is an energy drink targeted at labellers to improve their productivity...
 
 <br />
 
