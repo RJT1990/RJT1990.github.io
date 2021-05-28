@@ -58,6 +58,8 @@ For fun, I made Dogecoin the default currency in the game. But not actual Dogeco
 
 To begin the game, players are assigned a job at Kobashi Systems as either a **labeller** or an **engineer**. To immerse my friends, I sent them through a "company induction" (via Telegram app) and sent them swag boxes in real-life -- containing t-shirts, a welcome letter, stickers, food and more.
 
+The company induction was a spoof of Silicon Valley-style company inductions. The content served a dual-purpose: (a) making my friends feel like they were joining a real company (immersion), and (b) introducing people to the Telegram bot (mechanics).
+
 <br />
 
 <p>
@@ -65,14 +67,7 @@ To begin the game, players are assigned a job at Kobashi Systems as either a **l
   <br>
 </p>
 
-
-The company induction was based on most startup and SV induction processes. The content served the purpose of making my friends feel like they were joining a company. Additionally, it introduced people to how the Bot worked on telegram:
-
-
-
-
-
-Sending people real stuff seemed to work well and added to the immersion that they were actually joining a company. I've shared some pictures below:
+What really hit home was sending people the swag boxes. This really added to the immersion, and people seemed to love receiving physical things... I've shared some pictures below:
 
 <br />
 
@@ -84,8 +79,9 @@ Sending people real stuff seemed to work well and added to the immersion that th
 
 <br />
 
+I also got customized cyberpunk based pictures made of the players, to again make them feel more immersed in the new world. I've displayed these below. Some came out really well:
 
-I also got customized cyberpunk based pictures made of the players, to again make them feel more immersed in the new world.
+
 
 ## The Telegram App
 
