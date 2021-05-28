@@ -108,9 +108,15 @@ I knew I had to do something similar after the induction for my game. The key th
 
 My tactic was to use "video calls" from celebrities through the Telegram app to the players. The basic formula was, the player would receive an incoming call (a video), and it would be a celebrity congratulating them on their new job at Kobashi and wishing them a happy 2027. This not only achieved a holy shit moment, but it clearly tied that experience to the game and the New World through the context of the messages. To achieve this, I used Cameo and a bit of video editing. 
 
-This was the most expensive bit of the whole project, but friends loved it, and it really got them engaged going forward - so objective achieved! You can view some of the "video calls" below, staring Lindsay Lohan, Steve Wozniak, Russ Hanneman from HBO's Silicon Valley, Tony Hawk, and Christopher Lloyd (Doc Brown).
+This was the most expensive bit of the whole project, but friends loved it, and it really got them engaged going forward - so objective achieved! You can view some of the "video calls" below, staring Lindsay Lohan, Steve Wozniak, Chris Diamantopoulos (Russ Hanneman from HBO's Silicon Valley), Tony Hawk, and Christopher Lloyd (Doc Brown from Back to the Future).
 
-...
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=hSsGNXEjdIU"><img src="https://rjt1990.github.io/images/lindsaylohan.png" width="50%"></a>
+  <a href="https://www.youtube.com/watch?v=emsDE20YoHE"><img src="https://rjt1990.github.io/images/stevewozniak.png" width="50%"></a>
+  <a href="https://www.youtube.com/watch?v=f2TTYJ376EQ"><img src="https://rjt1990.github.io/images/russhanneman.png" width="50%"></a>
+  <a href="https://www.youtube.com/watch?v=bYiuRpHpoKo"><img src="https://rjt1990.github.io/images/tonyhawk.png" width="50%"></a>
+  <a href="https://www.youtube.com/watch?v=4b9EIeGuS4A"><img src="https://rjt1990.github.io/images/docbrown.png" width="50%"></a>
+</p>
 
 
 ## The Telegram App
