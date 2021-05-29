@@ -208,9 +208,9 @@ I made a lightweight store where people could use their "Doge" to buy items, whi
 
 Translating these items...
 
-- 🥤 Labella: Carobao mixed berry energy drink
+- 🥤 Labella: Carobao Mixed Berry energy drink
 - 🍫 Chocomodels: Ferrero Rocher
-- 👱‍♀️ Pavlovian Conditioner: TRESemmé hair conditioner for girls; Tigi hair conditioner for guys
+- 👱‍♀️ Pavlovian Conditioner: TRESemmé hair conditioner
 - 🔈 Kobashi Home System: Amazon Echo Dot
 - 🤖 Marvin Multipurpose Robot: probably a Roomba
  
