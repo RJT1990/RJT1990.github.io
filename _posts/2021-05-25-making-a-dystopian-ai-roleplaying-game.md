@@ -1,7 +1,7 @@
 ## 2027: A Dystopian AGI RPG
 
 <p align="center">
-  <img src="https://rjt1990.github.io/images/kobashi.gif" width="100%">
+  <img src="https://rjt1990.github.io/images/kobashihf.gif" width="100%">
 </p>
 
 <br />
@@ -140,15 +140,16 @@ The core features were:
 
 - ✉️ Mail: where you received messages non-playable characters.
 - 👩‍💻 Work: where you earned in-game money (see following sections)
-- 🏦 Bank: where you could see your in-game balanc
+- 🏦 Bank: where you could see your in-game balance
 - 🛒 Store: where you could buy real-life items with in-game money (see following sections)
 - 📰 News: where you could read daily news reports in 2027
-
+-👥 Friends: directory of people you met in the game
+ 
 This bot was easy to develop thanks to excellent [Telegram libraries](https://pypi.org/project/python-telegram-bot/) for Python. 
 
 The phone medium was very effective for immersion. Something about the messaging medium makes the game feel real. The game mechanics, covered shortly, were a mixture of push and pull; some actions were done on the player's own initiative, others were prompted through push notifications. As a whole, the bot implementation was hacky, given time constraints, but it worked reliably enough for the course of the game.
 
-## 👩‍ Work: The Ultimatum Game
+## 👩‍ Work
 
 To recap, the core class divide in 2027 was between engineers and labellers, and there was extremely high levels of inequality. How to convey this in the game?
 
@@ -161,6 +162,14 @@ From my economics background, I knew about the Ultimatum and Dictator games whic
 5. The engineer can then allocate a fraction of the bounty to the labeller. The labeller is notified of the amount they receive once allocated (but not the amount the engineer receives).
 
 Here is an example of the labelling interface a labeller would use to do their daily job:
+
+<br />
+
+<p align="center">
+  <a href="https://rjt1990.github.io/images/labellerinterface.jpeg"><img src="https://rjt1990.github.io/images/labellerinterface.jpeg" width="100%"></a>
+</p>
+
+<br />
 
 And here is the outcome of "training" a new model, and the decision to allocate the bounty by the engineer:
 
