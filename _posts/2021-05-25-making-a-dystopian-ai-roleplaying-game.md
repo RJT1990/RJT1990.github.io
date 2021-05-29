@@ -63,7 +63,7 @@ The Kobashi induction was a spoof of Silicon Valley company inductions. The cont
 <br />
 
 <p>
-  <a href="https://rjt1990.github.io/images/labels.jpeg"><img src="https://rjt1990.github.io/images/values.jpeg" width="100%"></a>
+  <a href="https://rjt1990.github.io/images/valuesnew.jpeg"><img src="https://rjt1990.github.io/images/valuesnew.jpeg" width="100%"></a>
   <br>
 </p>
 
@@ -183,16 +183,30 @@ And here is the outcome of "training" a new model, and the decision to allocate 
 
 <br />
 
-Asymmetric information created many intriguing game elements:
+Asymmetric information created intriguing game elements:
 
-- Labellers can't observe the the total bounty: engineers can potentially get away with paying labellers less if they co-ordinate...
-- Engineeers can't observe the labelling process: they don't know how it takes, or the type of data (e.g. military data)
-- Labellers can't observe the training process: and realize that it requires no skill
-- Labellers can punish engineers by labelling incorrectly or not labelling at all
+- **Labellers can't observe the the total bounty**: engineers can potentially get away with paying labellers less if they co-ordinate...
+- **Engineeers can't observe the labelling process**: they don't know how it takes, or the type of data (e.g. military data)
+- **Labellers can't observe the training process**: and realize that it requires no skill
+- **Labellers can punish engineers by labelling incorrectly or not labelling at all**
+
+This mini-game was the heart of the game. Using the [Hero's Journey](https://en.wikipedia.org/wiki/Hero%27s_journey) structure, this is the **Road of Trials** where players become acclimatized to the New World, but also have the first challenges fighting the system...
+
+We'll cover what actually happened shortly, but first, what was that money actually used for?
 
 ## 🛒 Kobashi E-Store
 
-I made a lightweight store where people could use their "Doge" to buy items, which were *actually sent* to their address when ordered. This again really added to the immersion and feeling that things were real -- even if the items were shitty things like energy drinks! People soon started posting their orders on the general chat, and the memes flourished:
+I made a lightweight store where people could use their "Doge" to buy items, which were *actually sent* to their address when ordered. Here are the items that were available at the store:
+
+<br />
+
+<p align="center">
+  <a href="https://rjt1990.github.io/images/estore.jpg"><img src="https://rjt1990.github.io/images/estore.jpg" width="100%"></a>
+</p>
+
+<br />
+
+This again really added to the immersion and feeling that things were real -- even if the items were shitty things like energy drinks! People soon started posting their orders on the general chat, and the memes flourished:
 
 <br />
 
