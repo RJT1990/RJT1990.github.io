@@ -12,92 +12,92 @@ The game had 8-12 players and engagement was very high: players engaged every 15
 
 ## Plot
 
-The setting was 2027 where a company called Kobashi Systems "solves" AGI. The rise of AGI creates social problems, however, and society self-organizes arounds two classes: those who train models (**engineers**) and those who provide data for models (**labellers**). The implicit assumption here is that machine learning remains heavily supervised. This is obviously incorrect given [progress in self-supervised learning](https://twitter.com/an_open_mind/status/1396057486940114945?s=20), but this assumption enabled a clean class divide between engineers and labellers. This was good for the story I wanted to write! So suspend your disbelief, ML researchers 🙂.
+The setting was 2027 where a company called Kobashi Systems "solves" AGI. The rise of AGI creates social problems, however, and society self-organizes arounds two classes: those who train models (**engineers**) and those who provide data for models (**labellers**). The implicit assumption here is that machine learning remains heavily supervised. This assumption is obviously incorrect given [progress in self-supervised learning](https://twitter.com/an_open_mind/status/1396057486940114945?s=20), but it enables a clean class divide between engineers and labellers. And this was good for the story I wanted to write! So suspend your disbelief, ML researchers 🙂.
 
 To immerse players in game world, I made a spoof documentary about how events unfolded. I took clips from other documentaries and spliced them together to make it look like interviewees were talking about events in the future. I also found an [amazing voiceover narrator on Fiverr](https://www.fiverr.com/provotalent/narrate-your-documentary-with-my-american-male-voice), and took some footage from Pexels, Shutterstock and some other sources. You can view the documentary here: 
 
 <br />
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=h3Fg04f-wE8"><img src="https://rjt1990.github.io/images/youtube.png" width="100%"></a>
+  <a target="_blank" href="https://www.youtube.com/watch?v=h3Fg04f-wE8"><img src="https://rjt1990.github.io/images/youtube.png" width="100%"></a>
   <br>
-  <a href="https://www.youtube.com/watch?v=h3Fg04f-wE8">chapter one: ̷t̷h̷e̷ ̷b̷e̷g̷i̷n̷n̷i̷n̷g̷</a>
+  <a target="_blank" href="https://www.youtube.com/watch?v=h3Fg04f-wE8">chapter one: ̷t̷h̷e̷ ̷b̷e̷g̷i̷n̷n̷i̷n̷g̷</a>
 </p>
 
 <br />
 
 The reaction to the video was really strong from players. It was effective for several reasons:
 
-- **Mockumentary format** - Really aided immersion. Friends thought I might have deepfaked it, or that I'd actually interviewed people like Jordan Peterson!
-- **Timely narrative** - Post-pandemic uncertainty means people are especially curious about the future in 2021. This made people more willing to imagine the "new world" as a potential future (and immerse themselves in it).
-- **Choice of music** - Phillip Glass and Hans Zimmer worked well to tap into emotions. The synth tracks from Perturbator and The Encounter also worked to sell the cyberpunk vibe.
+- **Mockumentary format** - This really aided immersion. Friends thought I might have deepfaked it, or that I'd actually interviewed people like Jordan Peterson!
+- **Timely narrative** - People are especially curious about the future right now with the pandemic, which helps immersion into potential futures.
+- **Choice of music** - Phillip Glass and Hans Zimmer tapped into emotions; the synth tracks from Perturbator and The Encounter sold the cyberpunk vibe.
 - **Turning friends into heroes** - Having video clips of friends in the documentary alongside the big story made them feel special.  
 
-Also special thanks to [Matt Clifford](https://twitter.com/matthewclifford) who agreed to my (unreasonable!) request to provide a clip talking about Kobashi Systems, as if it were a company from the [Entrepreneur First](https://www.joinef.com) programme!
+Special thanks to [Matt Clifford](https://twitter.com/matthewclifford) who agreed to my (unreasonable!) request to provide a clip talking about Kobashi Systems, as if it were a company from the [Entrepreneur First](https://www.joinef.com) programme!
 
-The key themes I wanted to get across were how technology can shape social relations and how ownership of technology creates power. I also introduced elements of mystery, e.g. the founder Hiroshi Kobashi being missing, and an underground group known as the "Seekers" who are fighting against the company. At a macro level, I found rereading the [Hero's Journey](https://en.wikipedia.org/wiki/Hero%27s_journey) helpful for storyboarding. The main structural insight I exploited was this idea of transitioning from an "Old World" to the "New World". This was especially timely given the current pandemic, and the sense we are transitioning to a new regime where old rules will no longer apply.
+The key themes I wanted to get across were how technology can shape social relations and how ownership of technology creates power. I also introduced elements of mystery, e.g. the founder Hiroshi Kobashi being missing, and an underground group known as the "Seekers" who are fighting against the company. At a macro level, I found rereading the [Hero's Journey](https://en.wikipedia.org/wiki/Hero%27s_journey) helpful for storyboarding. The main structural insight I exploited was this idea of transitioning from an "Old World" to the "New World". As mentioned, this was timely given the current pandemic -- and the sense we are transitioning to a new world post-pandemic.
 
-To further aid immersion, I produced two additional videos for the story. I made a deliberately [cringeworthy hiring video for Kobashi Systems](https://youtube.com/watch?v=_TteD56RDPA). I also made a commercial for a fictional beverage Labella: an energy drink targeted at labellers to improve their productivity...
+To further aid immersion, I produced two additional videos for the story. I made a deliberately [cringeworthy hiring video for Kobashi Systems](https://youtube.com/watch?v=_TteD56RDPA). I also made a [commercial for a fictional beverage Labella](https://www.youtube.com/watch?v=VbIw6u9tW_M): an energy drink targeted at labellers to improve their productivity...
 
 <br />
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=VbIw6u9tW_M"><img src="https://rjt1990.github.io/images/labella.gif" width="100%"></a>
+  <a target="_blank" href="https://www.youtube.com/watch?v=VbIw6u9tW_M"><img src="https://rjt1990.github.io/images/labella.gif" width="100%"></a>
   <br>
-  <a href="https://www.youtube.com/watch?v=VbIw6u9tW_M">Labels fuel the models, Labella fuels the humans</a>
+  <a target="_blank" href="https://www.youtube.com/watch?v=VbIw6u9tW_M">Labels fuel the models, Labella fuels the humans</a>
   <br />
-  <span style="font-size:10px"><i>Credit to <a href="https://commons.wikimedia.org/wiki/File:%22Evolution%22_and_life_in_vaporwave_flavours._(48475685782).png">Daniel Oliva Barbero</a> for the image adapted for this fictional drink</i></span>
+  <span style="font-size:10px"><i>Credit to <a target="_blank" href="https://commons.wikimedia.org/wiki/File:%22Evolution%22_and_life_in_vaporwave_flavours._(48475685782).png">Daniel Oliva Barbero</a> for the image adapted for this fictional drink</i></span>
 
 </p>
 
 <br />
 
-For fun, I made Dogecoin the default currency in the game. But not actual Dogecoin...balances and transactions were stored in a SQLite DB on a local machine. Apologies to blockchain enthusiasts.
+For fun, I made Dogecoin the default currency in the game. Although this wasn't actual Dogecoin...balances and transactions were stored in a SQLite DB on a local machine. Apologies to blockchain enthusiasts.
 
 ## 👋 Welcome to Kobashi
 
-To begin the game, players are assigned a job at Kobashi Systems as either a **labeller** or an **engineer**. To immerse my friends, they completed a "company induction" (via the Telegram app) and they were sent company swag boxes -- containing t-shirts, a welcome letter, stickers, food and more.
+To begin the game, players are assigned a job at Kobashi Systems as either a **labeller** or an **engineer**. To immerse my friends, they completed a "company induction" (via the Telegram app) and they were sent company swag boxes. The swag boxes contained t-shirts, a welcome letter, stickers, food and more.
 
 The Kobashi induction was a spoof of Silicon Valley company inductions. The content served a dual-purpose: (a) making my friends feel like they were joining a real tech company (*immersion*), and (b) introducing people to the Telegram bot UX (*mechanics*).
 
 <br />
 
 <p>
-  <a href="https://rjt1990.github.io/images/valuesnew.jpeg"><img src="https://rjt1990.github.io/images/valuesnew.jpeg" width="100%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/valuesnew.jpeg"><img src="https://rjt1990.github.io/images/valuesnew.jpeg" width="100%"></a>
   <br>
 </p>
 
-Players really loved the swag boxes. People place high utility on physical goods. It's a lesson that should be carried forward for real startups, especially if you are building communities. Send out physical goods and swags to your contributors! I've shared pictures below of happy new Kobashi employees:
+Players *loved* the swag boxes. People place high utility on physical goods. It's a lesson that should be applied for real startups, especially if you are building communities. Send out physical goods and swags to your contributors! I've shared pictures below of happy new Kobashi employees:
 
 <br />
 
 <p>
-  <a href="https://rjt1990.github.io/images/nat.jpg"><img src="https://rjt1990.github.io/images/nat.jpg" width="100%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/nat.jpg"><img src="https://rjt1990.github.io/images/nat.jpg" width="100%"></a>
   <br>
-  <a href="https://rjt1990.github.io/images/mikkelgoods.jpg"><img src="https://rjt1990.github.io/images/mikkelgoods.jpeg" width="100%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/mikkelgoods.jpg"><img src="https://rjt1990.github.io/images/mikkelgoods.jpeg" width="100%"></a>
   <br>
-  <a href="https://rjt1990.github.io/images/mercharrive1.jpeg"><img src="https://rjt1990.github.io/images/mercharrive1.jpg" width="100%"></a>
-  <a href="https://rjt1990.github.io/images/mercharrive2.jpeg"><img src="https://rjt1990.github.io/images/mercharrive2.jpg" width="100%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/mercharrive1.jpeg"><img src="https://rjt1990.github.io/images/mercharrive1.jpg" width="100%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/swagarrives.png"><img src="https://rjt1990.github.io/images/swagarrives.png" width="100%"></a>
 </p>
 
 <br />
 
-I also got cyberpunk profile pictures made of the players, to further aid immersion. Some of these came out really well:
+To further aid immersion, I got cyberpunk profile pictures made of the players. Some of these profile pictures came out really well:
 
 <br />
 
 <p align="center">
-  <a href="https://rjt1990.github.io/images/mario.jpg"><img src="https://rjt1990.github.io/images/mario.jpg" width="50%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/mario.jpg"><img src="https://rjt1990.github.io/images/mario.jpg" width="50%"></a>
   <br>
-  <a href="https://rjt1990.github.io/images/hana.jpg"><img src="https://rjt1990.github.io/images/hana.jpg" width="50%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/hana.jpg"><img src="https://rjt1990.github.io/images/hana.jpg" width="50%"></a>
   <br>
-  <a href="https://rjt1990.github.io/images/mikkel.jpg"><img src="https://rjt1990.github.io/images/mikkel.jpg" width="50%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/mikkel.jpg"><img src="https://rjt1990.github.io/images/mikkel.jpg" width="50%"></a>
   <br>
-  <a href="https://rjt1990.github.io/images/natasha.jpg"><img src="https://rjt1990.github.io/images/natasha.jpg" width="50%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/natasha.jpg"><img src="https://rjt1990.github.io/images/natasha.jpg" width="50%"></a>
   <br>
-  <a href="https://rjt1990.github.io/images/nish.jpg"><img src="https://rjt1990.github.io/images/nish.jpg" width="50%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/nish.jpg"><img src="https://rjt1990.github.io/images/nish.jpg" width="50%"></a>
   <br>
-  <a href="https://rjt1990.github.io/images/samw.jpg"><img src="https://rjt1990.github.io/images/samw.jpg" width="50%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/samw.jpg"><img src="https://rjt1990.github.io/images/samw.jpg" width="50%"></a>
 </p>
 
 <br />
