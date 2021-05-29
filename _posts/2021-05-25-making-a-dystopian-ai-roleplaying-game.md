@@ -54,7 +54,7 @@ To further aid immersion, I produced two additional videos for the story. I made
 
 For fun, I made Dogecoin the default currency in the game. But not actual Dogecoin...balances and transactions were stored in a SQLite DB on a local machine. Apologies to blockchain enthusiasts.
 
-## Welcome to Kobashi
+## 👋 Welcome to Kobashi
 
 To begin the game, players are assigned a job at Kobashi Systems as either a **labeller** or an **engineer**. To immerse my friends, they completed a "company induction" (via the Telegram app) and they were sent company swag boxes -- containing t-shirts, a welcome letter, stickers, food and more.
 
@@ -102,7 +102,7 @@ I also got cyberpunk profile pictures made of the players, to further aid immers
 
 <br />
 
-## The Magic Moment
+## ✨ The Magic Moment
 
 A few years ago, I was really influenced by a [talk on YouTube by Alex Schultz](https://youtu.be/URiIsrdplbo?t=719). He talks about the idea of a product's **magic moment** -- the moment when things click for the user. For example, on Facebook, the magic moment is seeing friends and following how their lives progress. A core product goal is to get new users to that moment ASAP so they understand the key product value.
 
@@ -124,7 +124,7 @@ The means to achieving this were Cameo and some video editing. This was the most
 
 <br />
 
-## The Telegram App
+## 📱 The Telegram App
 
 With the immersion stage finished, the next stage was the core game mechanics. Players had an in-game phone where they could stay up to date with ongoings in the game and participate in daily activities:
 
