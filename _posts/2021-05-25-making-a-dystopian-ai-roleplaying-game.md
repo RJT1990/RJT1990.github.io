@@ -175,6 +175,14 @@ Here is an example of the labelling interface a labeller would use to do their d
 
 And here is the outcome of "training" a new model, and the decision to allocate the bounty by the engineer:
 
+<br />
+
+<p align="center">
+  <a href="https://rjt1990.github.io/images/trainingprocess.gif"><img src="https://rjt1990.github.io/images/trainingprocess.gif" width="60%"></a>
+</p>
+
+<br />
+
 Asymmetric information created many intriguing game elements:
 
 - Labellers can't observe the the total bounty: engineers can potentially get away with paying labellers less if they co-ordinate...
