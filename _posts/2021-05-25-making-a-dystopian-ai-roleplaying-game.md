@@ -206,7 +206,15 @@ I made a lightweight store where people could use their "Doge" to buy items, whi
 
 <br />
 
-This again really added to the immersion and feeling that things were real -- even if the items were shitty things like energy drinks! People soon started posting their orders on the general chat, and the memes flourished:
+Translating these items...
+
+- 🥤 Labella: Carobao mixed berry energy drink
+- 🍫 Chocomodels: Ferrero Rocher
+- 👱‍♀️ Pavlovian Conditioner: TRESemmé hair conditioner for girls; Tigi hair conditioner for guys
+- 🔈 Kobashi Home System: Amazon Echo Dot
+- 🤖 Marvin Multipurpose Robot: probably a Roomba
+ 
+The store was another holy shit moment for people. When they ordered items, they were actually delivered! This really added to the immersion and feeling that things were real -- even if the items were shitty things like energy drinks! People soon started posting their orders on the general chat, and the memes flourished:
 
 <br />
 
@@ -226,6 +234,11 @@ This again really added to the immersion and feeling that things were real -- ev
 
 <br />
 
+But additionally it raised the stakes of the game. If you were an engineer, the temptation to screw labellers to get your Robot became a lot greater...
+
+The store also acted as a **Temptress** for the players. As we'll see, many labellers came close to accepting the status quo because they aspired to get a Robot! 
+
+As a whole, this was actually surprisingly cheap: it only cost me circa $100 to fulfil the orders, but player utility seemed much greater. I knew this from experimental economics: if you give a prize (e.g. an iPhone) then this gets more participation than giving the equivalent monetary amount. People value physical things!
 
 ## Work Mini-Game
 
