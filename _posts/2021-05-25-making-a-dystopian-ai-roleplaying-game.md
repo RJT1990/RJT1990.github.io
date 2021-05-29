@@ -108,87 +108,86 @@ A few years ago, I was really influenced by a [talk on YouTube by Alex Schultz](
 
 I needed a magic moment after the induction for my game. My friends needed to buy into the "New World" and leave the real world behind. This is a key structural moment in the [Hero's Journey](https://en.wikipedia.org/wiki/Hero%27s_journey), when the hero leaves the ordinary world and crosses the threshold. I needed my friends cross the first threshold in the game!
 
-My device was to use video calls to the players from celebrities through the Telegram app. The player would receive an incoming call - a video - and it would be a celebrity congratulating them on their new job at Kobashi and wishing them a happy 2027. This not only achieved a holy shit moment, but it tied that experience to the game and the New World. It was the trigger to leave the old world behind...and to get fully engaged with the game.
+My device was to use celebrity video calls to the players through the Telegram app. The player would receive an incoming call - a video - and it would be a celebrity congratulating them on their new job at Kobashi and wishing them a happy 2027. This not only achieved a holy shit moment, but it tied that experience to the game and the New World. It was the trigger to leave the old world behind...and to get fully engaged with the game.
 
 The means to achieving this were Cameo and some video editing. This was the most expensive bit of the project, but my friends *loved* it, and it really got them engaged going forward - so objective achieved! You can view some of the "video calls" below, staring Lindsay Lohan, Steve Wozniak, Chris Diamantopoulos (Russ Hanneman from HBO's Silicon Valley), Tony Hawk, and Christopher Lloyd (Doc Brown from Back to the Future).
 
 <br />
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=hSsGNXEjdIU"><img src="https://rjt1990.github.io/images/lindsaylohan.png" width="50%"></a>
-  <a href="https://www.youtube.com/watch?v=emsDE20YoHE"><img src="https://rjt1990.github.io/images/stevewozniak.png" width="50%"></a>
-  <a href="https://www.youtube.com/watch?v=f2TTYJ376EQ"><img src="https://rjt1990.github.io/images/russhanneman.png" width="50%"></a>
-  <a href="https://www.youtube.com/watch?v=bYiuRpHpoKo"><img src="https://rjt1990.github.io/images/tonyhawk.png" width="50%"></a>
-  <a href="https://www.youtube.com/watch?v=4b9EIeGuS4A"><img src="https://rjt1990.github.io/images/docbrown.png" width="50%"></a>
+  <a target="_blank" href="https://www.youtube.com/watch?v=hSsGNXEjdIU"><img src="https://rjt1990.github.io/images/lindsaylohan.png" width="50%"></a>
+  <a target="_blank" href="https://www.youtube.com/watch?v=emsDE20YoHE"><img src="https://rjt1990.github.io/images/stevewozniak.png" width="50%"></a>
+  <a target="_blank" href="https://www.youtube.com/watch?v=f2TTYJ376EQ"><img src="https://rjt1990.github.io/images/russhanneman.png" width="50%"></a>
+  <a target="_blank" href="https://www.youtube.com/watch?v=bYiuRpHpoKo"><img src="https://rjt1990.github.io/images/tonyhawk.png" width="50%"></a>
+  <a target="_blank" href="https://www.youtube.com/watch?v=4b9EIeGuS4A"><img src="https://rjt1990.github.io/images/docbrown.png" width="50%"></a>
 </p>
 
 <br />
 
 ## 📱 The Telegram App
 
-With the immersion stage finished, the next stage was the core game mechanics. Players had an in-game phone where they could stay up to date with ongoings in the game and participate in daily activities:
+With the immersion stage finished, the next stage was the core game mechanics. Players had an in-game phone where they could stay updated with the game and participate in daily activities:
 
 <br />
 
 <p align="center">
-  <a href="https://rjt1990.github.io/images/phoneinterface.jpg"><img src="https://rjt1990.github.io/images/phoneinterface.jpg" width="100%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/phoneinterface.jpg"><img src="https://rjt1990.github.io/images/phoneinterface.jpg" width="100%"></a>
 </p>
 
 <br />
 
 The core features were:
 
-- ✉️ Mail: where you received messages non-playable characters.
 - 👩‍💻 Work: where you earned in-game money (see following sections)
-- 🏦 Bank: where you could see your in-game balance
 - 🛒 Store: where you could buy real-life items with in-game money (see following sections)
+- ✉️ Mail: where you received messages non-playable characters.
+- 🏦 Bank: where you could see your in-game balance
 - 📰 News: where you could read daily news reports in 2027
 - 👥 Friends: where you could view profiles of people you met in the game
  
 This bot was easy to develop thanks to excellent [Telegram libraries](https://pypi.org/project/python-telegram-bot/) for Python. 
 
-The phone medium was very effective for immersion. Something about the messaging medium makes the game feel real. The game mechanics, covered shortly, were a mixture of push and pull; some actions were done on the player's own initiative, others were prompted through push notifications. As a whole, the bot implementation was hacky, given time constraints, but it worked reliably enough for the course of the game.
+The phone medium was very effective for immersion. Something about the messaging interface makes the game feel real. The game mechanics, covered shortly, were a mixture of push and pull; some actions were done on the player's own initiative, others were prompted through push notifications. As a whole, the bot implementation was hacky, given time constraints, but it worked reliably enough for the course of the game.
 
 ## 👩‍ Work
 
-To recap, the core class divide in 2027 was between engineers and labellers, and there was extremely high levels of inequality. How to convey this in the game?
+To recap, the core class divide in 2027 is between engineers and labellers, and there are extremely high levels of inequality. How to convey this through the game?
 
-I knew about the [Ultimatum](https://en.wikipedia.org/wiki/Ultimatum_game) and [Dictator](https://en.wikipedia.org/wiki/Dictator_game) games. These are famous experiments that show people have intrinsic preferences for fairness: people will reject unfair splits even it is costly to do so! I designed a modified ultimatum game, as follows:
+I knew about the [Ultimatum](https://en.wikipedia.org/wiki/Ultimatum_game) and [Dictator](https://en.wikipedia.org/wiki/Dictator_game) games. These are economic experiments that show people have intrinsic preferences for fairness: people will reject unfair splits even it is costly to do so! This seemed like a good setup to manifest issues of inequality, so I designed a modified ultimatum game. Here is how it worked:
 
-1. Each labeller is paired with an engineer for a daily job. Each job has a bounty, e.g. 10 doge. Only the engineer knows the bounty.
+1. Each labeller is paired with an engineer for a daily job. Each job has a bounty, e.g. 10 Doge. Only the engineer knows the bounty.
 2. Labellers label 5 images a day, for example dogs vs cats. Engineers do not observe the data or this process.
 3. Once labelling is done, the engineer "trains" a model on the new data and records an accuracy. Labellers do not observe this process.
-4. If the labelling is perfect, the full bounty is received. If partially correct, a fraction of bounty is received. If no labels are correct, no bounty is received. Labelling quality is manifested through the "accuracy" that the modeller observes after "training the model".
-5. The engineer allocates a fraction of the bounty to the labeller. The labeller is notified of the amount they receive once allocated (but not the amount the engineer receives).
+4. If the labelling is perfect, the full bounty is received; if partially correct, a fraction of bounty is received; if no labels are correct, no bounty is received. Labelling quality is signalled through the model accuracy that the engineer observes after "training the model".
+5. The engineer allocates a fraction of the bounty to the labeller. The labeller is notified of the amount they receive once allocated - but not the amount the engineer receives!
 
 Step five is where rational choice theory says the engineer should take all of the bounty and pay the labeller $\epsilon > 0$. That's where things get interesting...
 
-Here is an example of the labelling interface a labeller would use to do their daily job:
+Here is an example of the labelling interface a labeller would use for their work:
 
 <br />
 
 <p align="center">
-  <a href="https://rjt1990.github.io/images/labelprocess.gif"><img src="https://rjt1990.github.io/images/labelprocess.gif" width="60%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/labelprocess.gif"><img src="https://rjt1990.github.io/images/labelprocess.gif" width="60%"></a>
 </p>
 
 <br />
 
-And here is the outcome of "training" a new model, and the decision to allocate the bounty by the engineer:
+And here an engineer "training" a new model, and deciding how to split the bounty:
 
 <br />
 
 <p align="center">
-  <a href="https://rjt1990.github.io/images/trainingprocess.gif"><img src="https://rjt1990.github.io/images/trainingprocess.gif" width="60%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/trainingprocess.gif"><img src="https://rjt1990.github.io/images/trainingprocess.gif" width="60%"></a>
 </p>
 
 <br />
 
-Asymmetric information created intriguing game elements:
+Asymmetric information created intriguing game elements that fired up controversy and suspicion:
 
-- **Labellers can't observe the the total bounty**: engineers can potentially get away with paying labellers less if they co-ordinate...
-- **Engineeers can't observe the labelling process**: they don't know how it takes, or the type of data (e.g. military data)
-- **Labellers can't observe the training process**: and realize that it requires no skill
-- **Labellers can punish engineers by labelling incorrectly or not labelling at all**
+- **Labellers do not observe the the total bounty**: engineers can potentially get away with paying labellers less
+- **Engineeers do not observe the labelling process**: engineers do not know how long labelling takes, or the type of data being annotated (e.g. military data)
+- **Labellers do not observe the training process**: labellers do not observe the engineer's training process (and the lack of effort required)
 
 This mini-game was the heart of the game. Using the [Hero's Journey](https://en.wikipedia.org/wiki/Hero%27s_journey) structure, this is the **Road of Trials** where players become acclimatized to the New World, but also have the first challenges fighting the system...
 
@@ -196,17 +195,17 @@ We'll cover what actually happened shortly, but first, what was that money actua
 
 ## 🛒 Kobashi E-Store
 
-I made a lightweight store where people could use their "Doge" to buy items, which were *actually sent* to their address when ordered. Here are the items that were available at the store:
+I made a lightweight store where people could use their "Doge" to buy items, which were *actually sent* to them when ordered. Here are the items that were available:
 
 <br />
 
 <p align="center">
-  <a href="https://rjt1990.github.io/images/estore.jpg"><img src="https://rjt1990.github.io/images/estore.jpg" width="100%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/estore.jpg"><img src="https://rjt1990.github.io/images/estore.jpg" width="100%"></a>
 </p>
 
 <br />
 
-Translating these items...
+Translating this to 2021 products...
 
 - 🥤 Labella: Carobao Mixed Berry energy drink
 - 🍫 Chocomodels: Ferrero Rocher
@@ -214,37 +213,37 @@ Translating these items...
 - 🔈 Kobashi Home System: Amazon Echo Dot
 - 🤖 Marvin Multipurpose Robot: probably a Roomba
  
-The store was another holy shit moment for people. When they ordered items, they were actually delivered! This really added to the immersion and feeling that things were real -- even if the items were shitty things like energy drinks! People soon started posting their orders on the general chat, and the memes flourished:
+The store was another holy shit moment for people. When they ordered items, they were actually delivered! This added to the immersion and feeling that things were real -- even if the items were shitty things like energy drinks! People soon started posting their orders on the general chat, and the memes flourished:
 
 <br />
 
 <p>
-  <a href="https://rjt1990.github.io/images/labella1.jpg"><img src="https://rjt1990.github.io/images/labella1.jpg" width="100%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/labella1.jpg"><img src="https://rjt1990.github.io/images/labella1.jpg" width="100%"></a>
   <br>
-  <a href="https://rjt1990.github.io/images/labella2.jpeg"><img src="https://rjt1990.github.io/images/labella2.jpeg" width="100%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/labella2.jpeg"><img src="https://rjt1990.github.io/images/labella2.jpeg" width="100%"></a>
   <br>
-  <a href="https://rjt1990.github.io/images/labella3.jpeg"><img src="https://rjt1990.github.io/images/labella3.jpeg" width="100%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/labella3.jpeg"><img src="https://rjt1990.github.io/images/labella3.jpeg" width="100%"></a>
   <br>
-  <a href="https://rjt1990.github.io/images/labella4.jpeg"><img src="https://rjt1990.github.io/images/labella4.jpeg" width="100%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/labella4.jpeg"><img src="https://rjt1990.github.io/images/labella4.jpeg" width="100%"></a>
   <br>
-  <a href="https://rjt1990.github.io/images/labella5.jpeg"><img src="https://rjt1990.github.io/images/labella5.jpeg" width="100%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/labella5.jpeg"><img src="https://rjt1990.github.io/images/labella5.jpeg" width="100%"></a>
   <br>
-  <a href="https://rjt1990.github.io/images/labella6.jpeg"><img src="https://rjt1990.github.io/images/labella6.jpeg" width="100%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/labella6.jpeg"><img src="https://rjt1990.github.io/images/labella6.jpeg" width="100%"></a>
 </p>
 
 <br />
 
-But additionally it raised the stakes of the game. If you were an engineer, the temptation to screw labellers to get your Robot became a lot greater...
+The Store raised the stakes of the game since it made the money earned more real. If you were an engineer, the temptation to screw labellers to get your Robot became a lot greater...
 
-The store also acted as a **Tempting Obstacle*** for the players. In the Hero's Journey, this is any kind of temptation that can lead the hero to stray from the quest. As we'll see, many labellers came close to accepting the status quo because they aspired to get a Robot! 
+The Store also had a narrative role as a **Tempting Obstacle*** for the players. In the Hero's Journey, this is any kind of temptation that can lead the hero to stray from the quest. As we'll see, many labellers came close to accepting the status quo because they aspired to get a Robot! 
 
 <span align="center" style="font-size:10px">* The term "Temptress" was originally used for this stage of the Hero's Journey, which is sexist and dated. This stage is actually just any conflicting goal that leads the hero astray.</span>
 
-As a whole, this was actually surprisingly cheap: it only cost me circa $100 to fulfil the orders, but player utility seemed much greater. I knew this from experimental economics: if you give a prize (e.g. an iPhone) then this gets more participation than giving the equivalent monetary amount. People value physical things!
+As a whole, funding this element of the game was surprisingly cheap: it cost me circa $100 to fulfil the orders, but player utility seemed much greater. I knew this from experimental economics: if you give a prize (e.g. an iPhone) then this gets more participation than giving the equivalent monetary amount. People value physical things!
 
 ## ✉️ Mail
 
-While the mini-game was ongoing, I needed a device to progress the plot. I sent players mysterious calls from the "Seekers", gradually informing them of what Kobashi was doing them, and eventually gearing them to try to take down the company. An example of one of these calls is below:
+While the ultimatum mini-game was ongoing, I needed a device to progress the plot. I sent players mysterious calls from the "Seekers". These calls informed players of Kobashi's questionable business activities, and primed them to take down the company. An example of one of these calls is below:
 
 <br />
 <p align="center">
@@ -253,7 +252,22 @@ While the mini-game was ongoing, I needed a device to progress the plot. I sent 
 
 <br />
 
-I also did some custom interventions through mail -- stirring the pot -- based on how players were behaving. One question I am pondering post-game is how much tailorization is actually needed -- i.e. whether a moderator is always going to be needed or whether it can be automated fully.
+I also used mail to perform custom interventions -- stirring the pot -- based on how players were behaving. One question I am pondering post-game is how much tailorization is actually needed -- i.e. whether a moderator is needed to make this game work or whether it can be fully automated.
+
+## 🧩 Puzzles
+
+To add to the intrigue, I included hidden puzzles with the company swag that players received. The idea was that the Seekers had intercepted a Kobashi swag van and planted in ways for players to contact them. 
+
+The core devices used were:
+
+- 🕵️ **UV messages**: hidden on welcome letters and other items
+- 🃏 **Decks of cards**: with hidden messages on the side: that were only revealed with the correct card ordering.
+- 📖 **Book ciphers**: that reveal a hidden message once decoded.
+- 🔌 **Encrypted USB sticks**: containing a keyword hidden into a video once they were decrypted.
+
+The Labeller puzzle turned out to be especially engaging. Here is how it went down. The first clues...
+
+## ⛰️ The Story
 
 ## Work Mini-Game
 
