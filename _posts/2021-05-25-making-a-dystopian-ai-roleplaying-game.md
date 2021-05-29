@@ -242,6 +242,19 @@ The store also acted as a **Tempting Obstacle*** for the players. In the Hero's 
 
 As a whole, this was actually surprisingly cheap: it only cost me circa $100 to fulfil the orders, but player utility seemed much greater. I knew this from experimental economics: if you give a prize (e.g. an iPhone) then this gets more participation than giving the equivalent monetary amount. People value physical things!
 
+## ✉️ Mail
+
+While the mini-game was ongoing, I needed a device to progress the plot. I sent players mysterious calls from the "Seekers", gradually informing them of what Kobashi was doing them, and eventually gearing them to try to take down the company. An example of one of these calls is below:
+
+<br />
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=FLqrafG3WCA"><img src="https://rjt1990.github.io/images/unknowncaller.png" width="50%"></a>
+</p>
+
+<br />
+
+I made a lightweight store where people could use their "Doge" to buy items, which were *actually sent* to their address when ordered. Here are the items that were available at the store:
+
 ## Work Mini-Game
 
 In order to earn money, players had to play a mini-game which was a variant of the Ultimatum and Dictator games in economics. These games are very effective for showing that people have inbuilt preferences towards equality, which was perfect for a plot that was fundamentally about inequality.
