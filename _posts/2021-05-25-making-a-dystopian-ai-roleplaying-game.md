@@ -108,7 +108,7 @@ A few years ago, I was really influenced by a [talk on YouTube by Alex Schultz](
 
 I needed a magic moment after the induction for my game. My friends needed to buy into the "New World" and leave the real world behind. This is a key structural moment in the [Hero's Journey](https://en.wikipedia.org/wiki/Hero%27s_journey), when the hero leaves the ordinary world and crosses the threshold. I needed my friends cross the first threshold in the game!
 
-My device was to use video calls to the players from celebrities through the Telegram app. The player would receive an incoming call - a video - and it would be a celebrity congratulating them on their new job at Kobashi and wishing them a happy 2027. This not only achievied a holy shit moment, but it tied that experience to the game and the New World. It was the trigger to leave the old world behind...and to get fully engaged with the game.
+My device was to use video calls to the players from celebrities through the Telegram app. The player would receive an incoming call - a video - and it would be a celebrity congratulating them on their new job at Kobashi and wishing them a happy 2027. This not only achieved a holy shit moment, but it tied that experience to the game and the New World. It was the trigger to leave the old world behind...and to get fully engaged with the game.
 
 The means to achieving this were Cameo and some video editing. This was the most expensive bit of the project, but my friends *loved* it, and it really got them engaged going forward - so objective achieved! You can view some of the "video calls" below, staring Lindsay Lohan, Steve Wozniak, Chris Diamantopoulos (Russ Hanneman from HBO's Silicon Valley), Tony Hawk, and Christopher Lloyd (Doc Brown from Back to the Future).
 
