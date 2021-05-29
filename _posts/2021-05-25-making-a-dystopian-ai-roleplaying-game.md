@@ -253,7 +253,7 @@ While the mini-game was ongoing, I needed a device to progress the plot. I sent 
 
 <br />
 
-I made a lightweight store where people could use their "Doge" to buy items, which were *actually sent* to their address when ordered. Here are the items that were available at the store:
+I also did some custom interventions through mail -- stirring the pot -- based on how players were behaving. One question I am pondering post-game is how much tailorization is actually needed -- i.e. whether a moderator is always going to be needed or whether it can be automated fully.
 
 ## Work Mini-Game
 
