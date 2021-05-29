@@ -238,7 +238,7 @@ But additionally it raised the stakes of the game. If you were an engineer, the 
 
 The store also acted as a **Tempting Obstacle*** for the players. In the Hero's Journey, this is any kind of temptation that can lead the hero to stray from the quest. As we'll see, many labellers came close to accepting the status quo because they aspired to get a Robot! 
 
-<span align="center" style="font-size:10px">* The term "Temptress" was originally used for this stage, which is sexist and dated. More generally, this stage is any conflicting goal that can lead the hero astray.</span>
+<span align="center" style="font-size:10px">* The term "Temptress" was originally used for this stage, which is sexist and dated. This stage is actually just any conflicting goal that leads the hero astray.</span>
 
 As a whole, this was actually surprisingly cheap: it only cost me circa $100 to fulfil the orders, but player utility seemed much greater. I knew this from experimental economics: if you give a prize (e.g. an iPhone) then this gets more participation than giving the equivalent monetary amount. People value physical things!
 
