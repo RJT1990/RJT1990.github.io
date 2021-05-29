@@ -143,7 +143,7 @@ The core features were:
 - 🏦 Bank: where you could see your in-game balance
 - 🛒 Store: where you could buy real-life items with in-game money (see following sections)
 - 📰 News: where you could read daily news reports in 2027
-- 👥 Friends: directory of people you met in the game
+- 👥 Friends: where you could view profiles of people you met in the game
  
 This bot was easy to develop thanks to excellent [Telegram libraries](https://pypi.org/project/python-telegram-bot/) for Python. 
 
