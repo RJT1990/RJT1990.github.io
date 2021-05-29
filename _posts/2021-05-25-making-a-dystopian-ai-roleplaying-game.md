@@ -153,13 +153,15 @@ The phone medium was very effective for immersion. Something about the messaging
 
 To recap, the core class divide in 2027 was between engineers and labellers, and there was extremely high levels of inequality. How to convey this in the game?
 
-From my economics background, I knew about the Ultimatum and Dictator games which are famous experiments that show people have intrinsic preferences for fairness, and where the classical rational choice predictions fail. So I designed a modified ultimatum game, as follows:
+I knew about the [Ultimatum](https://en.wikipedia.org/wiki/Ultimatum_game) and [Dictator](https://en.wikipedia.org/wiki/Dictator_game) games. These are famous experiments that show people have intrinsic preferences for fairness: people will reject unfair splits even it is costly to do so! I designed a modified ultimatum game, as follows:
 
 1. Each labeller is paired with an engineer for a daily job. Each job has a bounty - e.g. 10 doge. Only engineers know the bounty (!).
 2. Labellers have to label 5 images a day, for example dogs vs cats. Engineers do not observe the data or this process.
 3. Once labelling is done, the engineer "trains" a model on the new data and records an accuracy. Labellers do not observe this process.
 4. If the labelling is perfect, the full bounty is received. If partially correct, a fraction of bounty is received. If no labels are correct, no bounty are received. Labelling quality is manifested through the "accuracy" that the modeller observes after "training the model".
 5. The engineer can then allocate a fraction of the bounty to the labeller. The labeller is notified of the amount they receive once allocated (but not the amount the engineer receives).
+
+Step five is where rational choice theory says the engineer should take all of the bounty and pay the labeller $\epsilon > 0$. That's where things get interesting...
 
 Here is an example of the labelling interface a labeller would use to do their daily job:
 
