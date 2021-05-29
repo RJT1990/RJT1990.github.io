@@ -168,7 +168,7 @@ Here is an example of the labelling interface a labeller would use to do their d
 <br />
 
 <p align="center">
-  <a href="https://rjt1990.github.io/images/labellerinterface.jpeg"><img src="https://rjt1990.github.io/images/labellerinterface.jpeg" width="100%"></a>
+  <a href="https://rjt1990.github.io/images/labelprocess.gif"><img src="https://rjt1990.github.io/images/labelprocess.gif" width="100%"></a>
 </p>
 
 <br />
