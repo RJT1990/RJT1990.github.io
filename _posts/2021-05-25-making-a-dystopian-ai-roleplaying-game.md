@@ -304,6 +304,14 @@ These told each player who they needed to help solve their respective clues. The
 </p>
 <br />
 
+By using the UV light on the respective page numbers of the book, this revealed a word (which corresponded to a card number):
+
+<br />
+<p align="center">
+  <a target="_blank" href="https://rjt1990.github.io/images/kingclue.jpeg"><img src="https://rjt1990.github.io/images/kingclue.jpeg" width="100%"></a>
+</p>
+<br />
+
 
 
 ## ⛰️ The Story
