@@ -296,7 +296,15 @@ Each of these messages were of the form "find [x]", and the first task was to fi
 </p>
 <br />
 
+These told each player who they needed to help solve their respective clues. The first player in the chain was "Hera" -> [Juno](https://www.juno.bio) -> [Hana](https://www.twitter.com/hanebdar). She had a book [Leviathan](https://en.wikipedia.org/wiki/Leviathan_(Hobbes_book)) that came with a note of numbers:
+
 <br />
+<p align="center">
+  <a target="_blank" href="https://rjt1990.github.io/images/leviathanorder.jpg"><img src="https://rjt1990.github.io/images/leviathanorder.jpg" width="100%"></a>
+</p>
+<br />
+
+
 
 ## ⛰️ The Story
 
