@@ -10,6 +10,8 @@ I hacked together a dystopian AI RPG in a week for my 30th birthday party. It in
 
 The game had 8-12 players and engagement was very high: players engaged every 15-30 minutes, including weekends. This blog post details how the game worked, how it played out, and my learnings from building this product.
 
+<br />
+
 ## Plot
 
 The setting was 2027 where a company called Kobashi Systems "solves" AGI. The rise of AGI creates social problems, however, and society self-organizes arounds two classes: those who train models (**engineers**) and those who provide data for models (**labellers**). The implicit assumption here is that machine learning remains heavily supervised. This assumption is obviously incorrect given [progress in self-supervised learning](https://twitter.com/an_open_mind/status/1396057486940114945?s=20), but it enables a clean class divide between engineers and labellers. And this was good for the story I wanted to write! So suspend your disbelief, ML researchers 🙂.
@@ -53,6 +55,8 @@ To further aid immersion, I produced two additional videos for the story. I made
 <br />
 
 For fun, I made Dogecoin the default currency in the game. Although this wasn't actual Dogecoin...balances and transactions were stored in a SQLite DB on a local machine. Apologies to blockchain enthusiasts.
+
+<br />
 
 ## 👋 Welcome to Kobashi
 
@@ -149,6 +153,8 @@ This bot was easy to develop thanks to excellent [Telegram libraries](https://py
 
 The phone medium was very effective for immersion. Something about the messaging interface makes the game feel real. The game mechanics, covered shortly, were a mixture of push and pull; some actions were done on the player's own initiative, others were prompted through push notifications. As a whole, the bot implementation was hacky, given time constraints, but it worked reliably enough for the course of the game.
 
+<br />
+
 ## 👩‍ Work
 
 To recap, the core class divide in 2027 is between engineers and labellers, and there are extremely high levels of inequality. How to convey this through the game?
@@ -192,6 +198,8 @@ Asymmetric information created intriguing game elements that fired up controvers
 This mini-game was the heart of the game. Using the [Hero's Journey](https://en.wikipedia.org/wiki/Hero%27s_journey) structure, this is the **Road of Trials** where players become acclimatized to the New World, but also have the first challenges fighting the system...
 
 We'll cover what actually happened shortly, but first, what was that money actually used for?
+
+<br />
 
 ## 🛒 Kobashi E-Store
 
@@ -240,6 +248,8 @@ The Store also had a narrative role as a **Tempting Obstacle*** for the players.
 <span align="center" style="font-size:10px">* The term "Temptress" was originally used for this stage of the Hero's Journey, which is sexist and dated. This stage is actually just any conflicting goal that leads the hero astray.</span>
 
 As a whole, funding this element of the game was surprisingly cheap: it cost me circa $100 to fulfil the orders, but player utility seemed much greater. I knew this from experimental economics: if you give a prize (e.g. an iPhone) then this gets more participation than giving the equivalent monetary amount. People value physical things!
+
+<br />
 
 ## ✉️ Mail
 
