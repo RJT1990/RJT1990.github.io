@@ -1,4 +1,4 @@
-## 2027: A Dystopian AGI RPG
+## 2027: A Dystopian AI RPG
 
 <p align="center">
   <img src="https://rjt1990.github.io/images/kobashihf.gif" width="100%">
@@ -6,7 +6,7 @@
 
 <br />
 
-I hacked together a dystopian AGI RPG in a week for my 30th birthday party. It involved spoof documentaries, a social experiment with real money, scavenger hunt sidequests, and a Telegram bot as the game interface.
+I hacked together a dystopian AI RPG in a week for my 30th birthday party. It involved spoof documentaries, a social experiment with real money, scavenger hunt sidequests, and a Telegram bot as the game interface.
 
 The game had 8-12 players and engagement was very high: players engaged every 15-30 minutes, including weekends. This blog post details how the game worked, how it played out, and my learnings from building this product.
 
@@ -56,7 +56,7 @@ For fun, I made Dogecoin the default currency in the game. Although this wasn't 
 
 ## 👋 Welcome to Kobashi
 
-To begin the game, players are assigned a job at Kobashi Systems as either a **labeller** or an **engineer**. To immerse my friends, they completed a "company induction" (via the Telegram app) and they were sent company swag boxes. The swag boxes contained t-shirts, a welcome letter, stickers, food and more.
+To begin the game, players were assigned a job at Kobashi Systems as either a **labeller** or an **engineer**. To immerse my friends, they completed a "company induction" (via the Telegram app) and they were sent company swag boxes. The swag boxes contained t-shirts, a welcome letter, stickers, food and more.
 
 The Kobashi induction was a spoof of Silicon Valley company inductions. The content served a dual-purpose: (a) making my friends feel like they were joining a real tech company (*immersion*), and (b) introducing people to the Telegram bot UX (*mechanics*).
 
@@ -67,7 +67,7 @@ The Kobashi induction was a spoof of Silicon Valley company inductions. The cont
   <br>
 </p>
 
-Players *loved* the swag boxes. People place high utility on physical goods. It's a lesson that should be applied for real startups, especially if you are building communities. Send out physical goods and swags to your contributors! I've shared pictures below of happy new Kobashi employees:
+Players *loved* the swag boxes. People get high utility from physical goods that are tied to a digital product. It's a lesson that should be applied for real startups, especially if you are building communities. Send out swag to your contributors! I've shared pictures below of happy new Kobashi employees:
 
 <br />
 
@@ -139,8 +139,8 @@ With the immersion stage finished, the next stage was the core game mechanics. P
 The core features were:
 
 - 👩‍💻 Work: where you earned in-game money (see following sections)
-- 🛒 Store: where you could buy real-life items with in-game money (see following sections)
-- ✉️ Mail: where you received messages non-playable characters.
+- 🛒 Store: where you could buy real-life items with earnings (see following sections)
+- ✉️ Mail: where you received messages non-playable characters
 - 🏦 Bank: where you could see your in-game balance
 - 📰 News: where you could read daily news reports in 2027
 - 👥 Friends: where you could view profiles of people you met in the game
@@ -163,7 +163,7 @@ I knew about the [Ultimatum](https://en.wikipedia.org/wiki/Ultimatum_game) and [
 
 Step five is where rational choice theory says the engineer should take all of the bounty and pay the labeller $\epsilon > 0$. That's where things get interesting...
 
-Here is an example of the labelling interface a labeller would use for their work:
+Here is an example of a labeller doing their daily task:
 
 <br />
 
@@ -247,12 +247,17 @@ While the ultimatum mini-game was ongoing, I needed a device to progress the plo
 
 <br />
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=FLqrafG3WCA"><img src="https://rjt1990.github.io/images/unknowncaller.png" width="50%"></a>
+  <a target="_blank" href="https://www.youtube.com/watch?v=FLqrafG3WCA"><img src="https://rjt1990.github.io/images/unknowncaller.png" width="50%"></a>
 </p>
 
 <br />
 
 I also used mail to perform custom interventions -- stirring the pot -- based on how players were behaving. One question I am pondering post-game is how much tailorization is actually needed -- i.e. whether a moderator is needed to make this game work or whether it can be fully automated.
+
+<br />
+<p align="center">
+  <a target="_blank" href="https://rjt1990.github.io/images/hiroshi.jpeg"><img src="https://rjt1990.github.io/images/hiroshi.jpeg" width="70%"></a>
+</p>
 
 ## 🧩 Puzzles
 
