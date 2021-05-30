@@ -268,7 +268,7 @@ To add to the intrigue, I included hidden puzzles with the company swag that pla
 <br />
 <p align="center">
   <a target="_blank" href="https://rjt1990.github.io/images/swagcontents.jpeg"><img src="https://rjt1990.github.io/images/swagcontents.jpeg" width="100%"></a>
-  <span style="font-size:10px">Example items for one player: a joker card, a UV light, an encrypted USB stick</span>
+  <span style="font-size:12px">Example items for one player: a joker card, a UV light, an encrypted USB stick</span>
 </p>
 
 <br />
@@ -284,7 +284,7 @@ The Labeller puzzle turned out to be especially engaging. Here is how it went do
 
 <br />
 <p align="center">
-  <a target="_blank" href="https://rjt1990.github.io/images/jokercard.jpeg"><img src="https://rjt1990.github.io/images/jokercard.jpeg" width="100%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/jokeruv.jpeg"><img src="https://rjt1990.github.io/images/jokeruv.jpeg" width="100%"></a>
 </p>
 <br />
 
