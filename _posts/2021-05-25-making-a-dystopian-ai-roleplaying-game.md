@@ -259,18 +259,44 @@ I also used mail to perform custom interventions -- stirring the pot -- based on
   <a target="_blank" href="https://rjt1990.github.io/images/hiroshi.jpeg"><img src="https://rjt1990.github.io/images/hiroshi.jpeg" width="70%"></a>
 </p>
 
+<br />
+
 ## 🧩 Puzzles
 
 To add to the intrigue, I included hidden puzzles with the company swag that players received. The idea was that the Seekers had intercepted a Kobashi swag van and planted in ways for players to contact them. 
 
-The core devices used were:
+<br />
+<p align="center">
+  <a target="_blank" href="https://rjt1990.github.io/images/swagcontents.jpeg"><img src="https://rjt1990.github.io/images/swagcontents.jpeg" width="100%"></a>
+  <span style="font-size:10px">Example items for one player: a joker card, a UV light, an encrypted USB stick</span>
+</p>
+
+<br />
+
+The core devices used for the puzzles were:
 
 - 🕵️ **UV messages**: hidden on welcome letters and other items
-- 🃏 **Decks of cards**: with hidden messages on the side: that were only revealed with the correct card ordering.
-- 📖 **Book ciphers**: that reveal a hidden message once decoded.
-- 🔌 **Encrypted USB sticks**: containing a keyword hidden into a video once they were decrypted.
+- 🃏 **Decks of cards**: hidden messages on the side - only visible with correct card ordering
+- 📖 **Book ciphers**: that reveal a hidden message once decoded
+- 🔌 **Encrypted USB sticks**: once decrypted, they contain a keyword hidden into a video
 
-The Labeller puzzle turned out to be especially engaging. Here is how it went down. The first clues...
+The Labeller puzzle turned out to be especially engaging. Here is how it went down. The first clues were found by shining a UV light on the welcome letters and Joker cards:
+
+<br />
+<p align="center">
+  <a target="_blank" href="https://rjt1990.github.io/images/jokercard.jpeg"><img src="https://rjt1990.github.io/images/jokercard.jpeg" width="100%"></a>
+</p>
+<br />
+
+Each of these messages were of the form "find [x]", and the first task was to find out what these meant. Eventually the players caught onto the fact that the names were nicknames for themselves:
+
+<br />
+<p align="center">
+  <a target="_blank" href="https://rjt1990.github.io/images/decodingnames.jpg"><img src="https://rjt1990.github.io/images/decodingnames.jpg" width="100%"></a>
+</p>
+<br />
+
+<br />
 
 ## ⛰️ The Story
 
