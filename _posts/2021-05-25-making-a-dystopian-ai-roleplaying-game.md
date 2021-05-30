@@ -322,6 +322,27 @@ By using the UV light on the respective page numbers of the book, this revealed 
 </p>
 <br />
 
+Decoding the numbers...
+
+<br />
+<p align="center">
+  <a target="_blank" href="https://rjt1990.github.io/images/cardorderingtext.jpg"><img src="https://rjt1990.github.io/images/cardorderingtext.jpg" width="100%"></a>
+</p>
+<br />
+
+This was then communicated to Lim -> 林 -> Hayashi -> [Mario](https://twitter.com/logicalicy):
+
+<br />
+<p align="center">
+  <a target="_blank" href="https://rjt1990.github.io/images/ihaveaclue.jpg"><img src="https://rjt1990.github.io/images/ihaveaclue.jpg" width="100%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/cardordering.jpg"><img src="https://rjt1990.github.io/images/cardordering.jpg" width="100%"></a>
+</p>
+<br />
+
+Stacking up the cards in the correct order and shining a UV light on the side revealed a message:
+
+
+
 
 
 ## ⛰️ The Story
