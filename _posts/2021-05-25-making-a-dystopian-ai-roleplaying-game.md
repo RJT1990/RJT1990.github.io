@@ -377,7 +377,11 @@ And shining a UV light on the side revealed a message:
 
 Kyoto! The final player Sam had an encrypted USB stick and an instruction on the welcome letter:
 
-
+<br />
+<p align="center">
+  <a target="_blank" href="https://rjt1990.github.io/images/latitude.jpg"><img src="https://rjt1990.github.io/images/latitude.jpg" width="100%"></a>
+</p>
+<br />
 
 
 
