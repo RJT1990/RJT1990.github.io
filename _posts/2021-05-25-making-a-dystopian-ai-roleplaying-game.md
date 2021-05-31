@@ -14,7 +14,7 @@ The game had 8-12 players and engagement was very high: players engaged every 15
 
 ## Plot
 
-The setting was 2027 where a company called Kobashi Systems "solves" AGI. The rise of AGI creates social problems, however, and society self-organizes arounds two classes: those who train models (**engineers**) and those who provide data for models (**labellers**). The implicit assumption here is that machine learning remains heavily supervised. This assumption is obviously incorrect given [progress in self-supervised learning](https://twitter.com/an_open_mind/status/1396057486940114945?s=20), but it enables a clean class divide between engineers and labellers. And this was good for the story I wanted to write! So suspend your disbelief, ML researchers 🙂.
+The setting was 2027 where a company called Kobashi Systems "solves" AI. The rise of AI creates social problems, however, and society self-organizes arounds two classes: those who train models (**engineers**) and those who provide data for models (**labellers**). The implicit assumption here is that machine learning remains heavily supervised. This assumption is obviously incorrect given [progress in self-supervised learning](https://twitter.com/an_open_mind/status/1396057486940114945?s=20), but it enables a clean class divide between engineers and labellers. And this was good for the story I wanted to write! So suspend your disbelief ML researchers 🙂.
 
 To immerse players in game world, I made a spoof documentary about how events unfolded. I took clips from other documentaries and spliced them together to make it look like interviewees were talking about events in the future. I also found an [amazing voiceover narrator on Fiverr](https://www.fiverr.com/provotalent/narrate-your-documentary-with-my-american-male-voice), and took some footage from Pexels, Shutterstock and some other sources. You can view the documentary here: 
 
@@ -39,7 +39,7 @@ Special thanks to [Matt Clifford](https://twitter.com/matthewclifford) who agree
 
 The key themes I wanted to get across were how technology can shape social relations and how ownership of technology creates power. I also introduced elements of mystery, e.g. the founder Hiroshi Kobashi being missing, and an underground group known as the "Seekers" who are fighting against the company. At a macro level, I found rereading the [Hero's Journey](https://en.wikipedia.org/wiki/Hero%27s_journey) helpful for storyboarding. The main structural insight I exploited was this idea of transitioning from an "Old World" to the "New World". As mentioned, this was timely given the current pandemic -- and the sense we are transitioning to a new world post-pandemic.
 
-To further aid immersion, I produced two additional videos for the story. I made a deliberately [cringeworthy hiring video for Kobashi Systems](https://youtube.com/watch?v=_TteD56RDPA). I also made a [commercial for a fictional beverage Labella](https://www.youtube.com/watch?v=VbIw6u9tW_M): an energy drink targeted at labellers to improve their productivity...
+To further aid immersion, I produced two additional videos for the story. I made a deliberately cringeworthy [hiring video for Kobashi Systems](https://youtube.com/watch?v=_TteD56RDPA). I also made a [commercial for a fictional beverage Labella](https://www.youtube.com/watch?v=VbIw6u9tW_M): an energy drink targeted at labellers to improve their productivity...
 
 <br />
 
@@ -77,6 +77,8 @@ Players *loved* the swag boxes. People get high utility from physical goods that
 
 <p>
   <a target="_blank" href="https://rjt1990.github.io/images/nat.jpg"><img src="https://rjt1990.github.io/images/nat.jpg" width="100%"></a>
+  <br>
+  <a target="_blank" href="https://rjt1990.github.io/images/samwshirt.jpg"><img src="https://rjt1990.github.io/images/samwshirt.jpg" width="100%"></a>
   <br>
   <a target="_blank" href="https://rjt1990.github.io/images/mikkelgoods.jpg"><img src="https://rjt1990.github.io/images/mikkelgoods.jpeg" width="100%"></a>
   <br>
