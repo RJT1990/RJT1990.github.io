@@ -176,7 +176,7 @@ I knew about the [Ultimatum](https://en.wikipedia.org/wiki/Ultimatum_game) and [
 1. Each labeller is paired with an engineer for a daily job. Each job has a bounty, e.g. 10 Doge. Only the engineer knows the bounty.
 2. Labellers label 5 images a day, for example dogs vs cats. Engineers do not observe the data or this process.
 3. Once labelling is done, the engineer "trains" a model on the new data and records an accuracy. Labellers do not observe this process.
-4. If the labelling is perfect, the full bounty is received; if partially correct, a fraction of bounty is received; if no labels are correct, no bounty is received. Labelling quality is signalled through the model accuracy that the engineer observes after "training the model".
+4. If labelling is perfect, the full bounty is received; if partially correct, a fraction of the bounty is received; if no labels are correct: no bounty. Labelling quality is signalled through the model accuracy that the engineer observes after "training the model".
 5. The engineer allocates a fraction of the bounty to the labeller. The labeller is notified of the amount they receive once allocated - but not the amount the engineer receives!
 
 Step five is where rational choice theory says the engineer should take all of the bounty and pay the labeller $\epsilon > 0$. That's where things get interesting...
