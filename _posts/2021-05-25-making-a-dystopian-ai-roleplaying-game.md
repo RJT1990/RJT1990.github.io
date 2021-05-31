@@ -192,7 +192,7 @@ Step five is where rational choice theory says the engineer should take all of t
 
 <br />
 
-Here is an example of a labeller doing their daily task:
+Here is an example of a **labeller** doing their daily task:
 
 <br />
 
@@ -202,7 +202,7 @@ Here is an example of a labeller doing their daily task:
 
 <br />
 
-And here an engineer "training" a new model, and deciding how to split the bounty:
+And here is an **engineer** "training" a new model, and deciding how to split the bounty:
 
 <br />
 
