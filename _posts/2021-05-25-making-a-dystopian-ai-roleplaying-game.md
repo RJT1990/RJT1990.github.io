@@ -266,9 +266,7 @@ The store was another holy shit moment for people. When they ordered items, they
 
 The Store raised the stakes of the game since it made the money earned more real. If you were an engineer, the temptation to screw labellers to get your Robot became a lot greater...
 
-The Store also had a narrative role as a **Tempting Obstacle*** for the players. In the Hero's Journey, this is any kind of temptation that can lead the hero to stray from the quest. As we'll see, many labellers came close to accepting the status quo because they aspired to get a Robot! 
-
-<span align="center" style="font-size:10px">* The term "Temptress" was originally used for this stage of the Hero's Journey, which is sexist and dated. This stage is actually just any conflicting goal that leads the hero astray.</span>
+The Store also had a narrative role as a **Tempting Obstacle*** for the players. In the Hero's Journey, this is a temptation that can lead the hero to stray from the quest. As we'll see, many labellers came close to accepting the status quo because they aspired to get a Robot! 
 
 As a whole, funding this element of the game was surprisingly cheap: it cost me circa $100 to fulfil the orders, but player utility seemed much greater. I knew this from experimental economics: if you give a prize (e.g. an iPhone) then this gets more participation than giving the equivalent monetary amount. People value physical things!
 
