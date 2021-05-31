@@ -161,7 +161,7 @@ The phone medium was very effective for immersion. Something about the messaging
 
 
 <p align="center">
-  <a target="_blank" href="https://rjt1990.github.io/images/ultimatumggame.jpeg"><img src="https://rjt1990.github.io/images/ultimatumgame.jpeg" width="100%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/ultimatumggame.jpeg"><img style="border: 0" src="https://rjt1990.github.io/images/ultimatumgame.jpeg" width="100%"></a>
   
   <span style="font-size:14px"><i>Credit to <a target="_blank" href="https://thenib.com/the-ultimatum-game-4af0e8c7e365/">Zach Weinersmith</a> for this comic series explaining the Ultimatum Game</i></span>
 
@@ -212,7 +212,7 @@ And here is an **engineer** "training" a new model, and deciding how to split th
 
 <br />
 
-Asymmetric information created intriguing game elements that fired up controversy and suspicion:
+[Asymmetric information](https://en.wikipedia.org/wiki/Information_asymmetry) created intriguing game elements that fired up controversy and suspicion:
 
 - **Labellers do not observe the the total bounty**: engineers can potentially get away with paying labellers less
 - **Engineeers do not observe the labelling process**: engineers do not know how long labelling takes, or the type of data being annotated (e.g. military data)
