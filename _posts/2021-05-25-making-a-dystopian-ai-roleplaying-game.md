@@ -442,6 +442,19 @@ I also got a voice actor to play the role of a "Kobashi representative" to give 
 
 Another misc element was I had an ingame news section so I could flesh out the world story a bit more, and give more context on what was happening in the world around the players (which in turn could inform their decisions).
 
+
+## Influences
+
+I had made Telegram mini-games a few years earlier, but there wasn't a single big influence for this project. Various things that influenced me were:
+
+- [Mockumentary format](https://en.wikipedia.org/wiki/Mockumentary) - I had seen a few of these in the past. The main ones that influenced me were Charlie Brooker's Wipe mockumentaries. 
+- [The Game (1997)](https://en.wikipedia.org/wiki/The_Game_(1997_film)) - a 1997 movie where a rich Scrooge-like figure (played by Michael Douglas) signs up for a game that blurs the lines between reality and fiction.
+- [War of the Worlds (1938)](https://en.wikipedia.org/wiki/The_War_of_the_Worlds_(1938_radio_drama)) - a radio drama in 1938 about an alien invasion that allegedly caused panic amongst listeners due to its realism.
+ - [We (Zamyatin)](https://en.wikipedia.org/wiki/We_(novel)) - an early 20th century dystopian novel where society is scientifically organized under the "One State" and run by engineers.
+ - [Kayfabe](https://en.wikipedia.org/wiki/Kayfabe) - a concept in professional wrestling that refers to the staged nature of events, and where the payoff comes from blurring the lines between the on-stage scripting and the off-stage reality (see "shoots"). I was a fan of Japanese wrestling in my teenage years, and I was subconsiously applying what I knew about "booking" in advancing the plot.
+ - [Blade Runner](https://en.wikipedia.org/wiki/Blade_Runner) - I used the cyberpunk aesthetic of blending Japanese and American cultures. Additionally Kobashi follows the megacorporation format -- although I made a conscious effort to make Kobashi feel like an actual big technology company (Tyrell and Wallace Corporations are too ridiculous).
+ - [East India Company](https://en.wikipedia.org/wiki/East_India_Company) - The militaristic aspects of Kobashi were based on the East India Company.
+
 ## Finale
 
 ---
