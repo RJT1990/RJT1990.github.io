@@ -146,7 +146,7 @@ The core features were:
 
 - 👩‍💻 Work: where you earned in-game money (see following sections)
 - 🛒 Store: where you could buy real-life items with earnings (see following sections)
-- ✉️ Mail: where you received messages non-playable characters
+- ✉️ Mail: where you received messages from non-playable characters
 - 🏦 Bank: where you could see your in-game balance
 - 📰 News: where you could read daily news reports in 2027
 - 👥 Friends: where you could view profiles of people you met in the game
@@ -159,7 +159,19 @@ The phone medium was very effective for immersion. Something about the messaging
 
 ## 👩‍ Work
 
-To recap, the core class divide in 2027 is between engineers and labellers, and there are extremely high levels of inequality. How to convey this through the game?
+<br />
+
+<p align="center">
+  <a target="_blank" href="https://rjt1990.github.io/images/ultimatumggame.jpeg"><img src="https://rjt1990.github.io/images/ultimatumgame.jpeg" width="100%"></a>
+  
+  <br />
+  <span style="font-size:10px"><i>Credit to <a target="_blank" href="https://thenib.com/the-ultimatum-game-4af0e8c7e365/">Zach Weinersmith</a> for this comic series explaining the Ultimatum Game</i></span>
+
+</p>
+
+<br />
+
+To recap, the core class divide in 2027 was between engineers and labellers, and there were extremely high levels of inequality. So how best could I convey this tension through the game?
 
 I knew about the [Ultimatum](https://en.wikipedia.org/wiki/Ultimatum_game) and [Dictator](https://en.wikipedia.org/wiki/Dictator_game) games. These are economic experiments that show people have intrinsic preferences for fairness: people will reject unfair splits even it is costly to do so! This seemed like a good setup to manifest issues of inequality, so I designed a modified ultimatum game. Here is how it worked:
 
@@ -170,6 +182,18 @@ I knew about the [Ultimatum](https://en.wikipedia.org/wiki/Ultimatum_game) and [
 5. The engineer allocates a fraction of the bounty to the labeller. The labeller is notified of the amount they receive once allocated - but not the amount the engineer receives!
 
 Step five is where rational choice theory says the engineer should take all of the bounty and pay the labeller $\epsilon > 0$. That's where things get interesting...
+
+<br />
+
+<p align="center">
+  <a target="_blank" href="https://rjt1990.github.io/images/ultimatumggame2.jpeg"><img src="https://rjt1990.github.io/images/ultimatumgame2.jpeg" width="100%"></a>
+  
+  <br />
+  <span style="font-size:10px"><i>Credit to <a target="_blank" href="https://thenib.com/the-ultimatum-game-4af0e8c7e365/">Zach Weinersmith</a></i></span>
+
+</p>
+
+<br />
 
 Here is an example of a labeller doing their daily task:
 
