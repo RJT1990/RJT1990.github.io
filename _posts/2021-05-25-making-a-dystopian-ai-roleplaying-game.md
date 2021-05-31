@@ -452,7 +452,7 @@ I had made Telegram mini-games a few years earlier, but there wasn't a single bi
 - [War of the Worlds (1938)](https://en.wikipedia.org/wiki/The_War_of_the_Worlds_(1938_radio_drama)) - a radio drama in 1938 about an alien invasion that allegedly caused panic amongst listeners due to its realism.
  - [We (Zamyatin)](https://en.wikipedia.org/wiki/We_(novel)) - an early 20th century dystopian novel where society is scientifically organized under the "One State" and run by engineers.
  - [Blade Runner](https://en.wikipedia.org/wiki/Blade_Runner) - I used the cyberpunk aesthetic of blending Japanese and American cultures. Additionally Kobashi follows the megacorporation format -- although I made a conscious effort to make Kobashi feel like an actual big technology company (Tyrell and Wallace Corporations are too ridiculous).
-- [East India Company](https://en.wikipedia.org/wiki/East_India_Company) - The militaristic aspects of Kobashi were based on the East India Company.
+- [East India Company](https://en.wikipedia.org/wiki/East_India_Company) - The militaristic aspects of Kobashi were based on the East India Company. This is the historical example of an actual evil megacorporation. I didn't get to develop this aspect as much as I liked, but it was there.
 - [Dialectic Materialism](https://en.wikipedia.org/wiki/Dialectical_materialism) - The class division between engineers and labellers was enabled by the rise of AI. So the rise of AI created an extreme form of capitalism ("modelism"). This logic is methodologically Marxist. Likewise, the Seeker organization was essentially neo-Marxist.
 
 ## Finale
