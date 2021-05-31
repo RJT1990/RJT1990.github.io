@@ -184,7 +184,7 @@ Step five is where rational choice theory says the engineer should take all of t
 <br />
 
 <p align="center">
-  <a target="_blank" href="https://rjt1990.github.io/images/ultimatumggame2.jpeg"><img src="https://rjt1990.github.io/images/ultimatumgame2.jpeg" width="100%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/ultimatumggame2.jpeg"><img style="border: 0" src="https://rjt1990.github.io/images/ultimatumgame2.jpeg" width="100%"></a>
   
   <span style="font-size:14px"><i>Credit to <a target="_blank" href="https://thenib.com/the-ultimatum-game-4af0e8c7e365/">Zach Weinersmith</a></i></span>
 
@@ -207,7 +207,7 @@ And here an engineer "training" a new model, and deciding how to split the bount
 <br />
 
 <p align="center">
-  <a target="_blank" href="https://rjt1990.github.io/images/trainingprocess.gif"><img src="https://rjt1990.github.io/images/trainingprocess.gif" width="60%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/trainingprocess.gif"><img style="border: 0" src="https://rjt1990.github.io/images/trainingprocess.gif" width="60%"></a>
 </p>
 
 <br />
