@@ -383,7 +383,18 @@ Kyoto! The final player Sam had an encrypted USB stick and an instruction on the
 </p>
 <br />
 
+Putting in the latitude of Kyoto and applying the modifier...
 
+<br />
+<p align="center">
+  <a target="_blank" href="https://rjt1990.github.io/images/usbreveal.gif"><img src="https://rjt1990.github.io/images/usbreveal.gif" width="100%"></a>
+</p>
+<br />
+
+
+Bingo. On the USB stick was a clip from Lost in Translation with the word "serenity" embedded in the ending. This would be a keyword used later in the plot.
+
+This puzzle sidequest worked really well. One mistake I made was not tying the final clue to the main plot significantly enough. Nevertheless, there was clearly a lot of intrinsic utility from just solving the puzzles themselves. I was careful not to make the puzzles too difficult, because the goal was to facilitate communication between players (and advance the plot) rather than being an IQ test.
 
 ## ⛰️ The Story
 
