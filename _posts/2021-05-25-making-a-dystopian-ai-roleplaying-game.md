@@ -159,13 +159,11 @@ The phone medium was very effective for immersion. Something about the messaging
 
 ## 👩‍ Work
 
-<br />
 
 <p align="center">
   <a target="_blank" href="https://rjt1990.github.io/images/ultimatumggame.jpeg"><img src="https://rjt1990.github.io/images/ultimatumgame.jpeg" width="100%"></a>
   
-  <br />
-  <span style="font-size:10px"><i>Credit to <a target="_blank" href="https://thenib.com/the-ultimatum-game-4af0e8c7e365/">Zach Weinersmith</a> for this comic series explaining the Ultimatum Game</i></span>
+  <span style="font-size:14px"><i>Credit to <a target="_blank" href="https://thenib.com/the-ultimatum-game-4af0e8c7e365/">Zach Weinersmith</a> for this comic series explaining the Ultimatum Game</i></span>
 
 </p>
 
@@ -188,8 +186,7 @@ Step five is where rational choice theory says the engineer should take all of t
 <p align="center">
   <a target="_blank" href="https://rjt1990.github.io/images/ultimatumggame2.jpeg"><img src="https://rjt1990.github.io/images/ultimatumgame2.jpeg" width="100%"></a>
   
-  <br />
-  <span style="font-size:10px"><i>Credit to <a target="_blank" href="https://thenib.com/the-ultimatum-game-4af0e8c7e365/">Zach Weinersmith</a></i></span>
+  <span style="font-size:14px"><i>Credit to <a target="_blank" href="https://thenib.com/the-ultimatum-game-4af0e8c7e365/">Zach Weinersmith</a></i></span>
 
 </p>
 
