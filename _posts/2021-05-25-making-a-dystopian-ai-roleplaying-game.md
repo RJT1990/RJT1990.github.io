@@ -294,7 +294,7 @@ I also used mail to perform custom interventions -- stirring the pot -- based on
 
 ## 🧩 Puzzles
 
-To add to the intrigue, I included hidden puzzles with the company swag that players received. The idea was that the Seekers had intercepted a Kobashi swag van and planted in ways for players to contact them. 
+To add to the intrigue, I included hidden puzzles with the company swag that players received. The idea was that the Seekers had intercepted a Kobashi swag van and planted in ways for the players to contact them. 
 
 <br />
 <p align="center">
@@ -309,7 +309,7 @@ The core devices used for the puzzles were:
 - 🕵️ **UV messages**: hidden on welcome letters and other items
 - 🃏 **Decks of cards**: hidden messages on the side - only visible with correct card ordering
 - 📖 **Book ciphers**: that reveal a hidden message once decoded
-- 🔌 **Encrypted USB sticks**: once decrypted, they contain a keyword hidden into a video
+- 🔌 **Encrypted USB sticks**: once decrypted, they contained a keyword hidden in a video
 
 The Labeller puzzle turned out to be especially engaging. Here is how it went down. The first clues were found by shining a UV light on the welcome letters and Joker cards:
 
@@ -327,7 +327,7 @@ Each of these messages were of the form "find [x]", and the first task was to fi
 </p>
 <br />
 
-These told each player who they needed to help solve their respective clues. The first player in the chain was "Hera" -> [Juno](https://www.juno.bio) -> [Hana](https://www.twitter.com/hanebdar). She had a book [Leviathan](https://en.wikipedia.org/wiki/Leviathan_(Hobbes_book)) that came with a note of numbers:
+So these nicknames told each player which other player they needed to solve their clues. The first player in the chain was "Hera" -> [Juno](https://www.juno.bio) -> [Hana](https://www.twitter.com/hanebdar). Hana had a book [Leviathan](https://en.wikipedia.org/wiki/Leviathan_(Hobbes_book)) that came with a note of numbers:
 
 <br />
 <p align="center">
@@ -356,11 +356,26 @@ This was then communicated to Lim -> 林 -> Hayashi -> [Mario](https://twitter.c
 <br />
 <p align="center">
   <a target="_blank" href="https://rjt1990.github.io/images/ihaveaclue.jpg"><img src="https://rjt1990.github.io/images/ihaveaclue.jpg" width="100%"></a>
+</p>
+<br />
+
+Mario then stacked up the cards...
+
+<br />
+<p align="center">
   <a target="_blank" href="https://rjt1990.github.io/images/cardordering.jpg"><img src="https://rjt1990.github.io/images/cardordering.jpg" width="100%"></a>
 </p>
 <br />
 
-Stacking up the cards in the correct order and shining a UV light on the side revealed a message:
+And shining a UV light on the side revealed a message:
+
+<br />
+<p align="center">
+  <a target="_blank" href="https://rjt1990.github.io/images/kyoto.jpg"><img src="https://rjt1990.github.io/images/kyoto.jpg" width="100%"></a>
+</p>
+<br />
+
+Kyoto! The final player Sam had an encrypted USB stick and an instruction on the welcome letter:
 
 
 
