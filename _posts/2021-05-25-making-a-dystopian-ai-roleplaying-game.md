@@ -153,7 +153,7 @@ The core features were:
  
 This bot was easy to develop thanks to excellent [Telegram libraries](https://pypi.org/project/python-telegram-bot/) for Python. 
 
-The phone medium was very effective for immersion. Something about the messaging interface makes the game feel real. The game mechanics, covered shortly, were a mixture of push and pull; some actions were done on the player's own initiative, others were prompted through push notifications. As a whole, the bot implementation was hacky, given time constraints, but it worked reliably enough for the course of the game.
+The phone medium was very effective for immersion. Something about the messaging interface made the game feel real. The game mechanics, covered shortly, were a mixture of push and pull; some actions were done on the player's own initiative, others were prompted through push notifications. As a whole, the bot implementation was hacky, given time constraints, but it worked reliably enough for the course of the game.
 
 <br />
 
@@ -244,7 +244,7 @@ Translating this to 2021 products...
 - 🔈 Kobashi Home System: Amazon Echo Dot
 - 🤖 Marvin Multipurpose Robot: probably a Roomba
  
-The store was another holy shit moment for people. When they ordered items, they were actually delivered! This added to the immersion and feeling that things were real -- even if the items were shitty things like energy drinks! People soon started posting their orders on the general chat, and the memes flourished:
+The store was another holy shit moment for people. When they ordered items, they were actually delivered! This added to the immersion -- even if the items were shitty things like energy drinks! People soon started posting their orders on the general chat, and the memes flourished:
 
 <br />
 
@@ -394,9 +394,43 @@ Putting in the latitude of Kyoto and applying the modifier...
 
 Bingo. On the USB stick was a clip from Lost in Translation with the word "serenity" embedded in the ending. This would be a keyword used later in the plot.
 
-This puzzle sidequest worked really well. One mistake I made was not tying the final clue to the main plot significantly enough. Nevertheless, there was clearly a lot of intrinsic utility from just solving the puzzles themselves. I was careful not to make the puzzles too difficult, because the goal was to facilitate communication between players (and advance the plot) rather than being an IQ test.
+This puzzle sidequest worked really well. One mistake I made was not tying the final clue to the main plot significantly enough. But players clearly got a lot of intrinsic utility from just solving the puzzles. I was careful not to make the puzzles too difficult, because the goal was to facilitate communication between players (and advance the plot) -- not an IQ test.
 
 ## ⛰️ The Story
+
+Above I have explained the mechanics of the game. So how did things actually go down?
+
+In the first stage of the game, there was a honeymoon period where engineers and labellers got along. Both sets of players were enjoying the experience of ordering items off the Kobashi E-Store. And both sets of players were still laughing about the celebrity phone calls a few days earlier. 
+
+Things changed when the swag arrived. I set up two separate chats for labellers and engineers, on the premise that the puzzles they had to solve were specific to their groups. This was true - there was a labeller puzzle and an engineer puzzle - but I was actually preparing for the revelation. Because at this stage, labellers had not suspected that the pay arrangement was unequal...
+
+The first signs of suspicion came when one of the engineers Mikkel posted a picture of Ferro Roches on the general chat. This was suspicious to the labellers, who could only afford energy drinks. But equal pay from Natasha and Nishant.
+
+Another source of tension came when the training data changed from innocuous jobs like cats vs dogs, and muffins vs chihuahuas, to labelling military data. Many of the labellers refused to label the data given the contents. But interestingly they did not convey the type of data to the engineers. The engineers could only see that the model accuracy had dropped, and so many punished labellers for this.
+
+The combination of suspicious Ferror Roches, and low payouts -- alongside a little push from me saying to labellers they could discuss compensation (video clip) -- led labellers to finally share their pay with each other. The labellers soon realized that one engineer (Mikkel) was screwing them over majorly and paying them a lot less!
+
+(Mikkel promotion / sam watts promotion)
+
+The first strategy from the labellers was to information gather from the general chat. Engineers stayed tight-lipped:
+
+Eventually the labellers let slip that they knew what was happening. The engineers did not back down:
+
+And privately they expressed their disdain:
+
+Labellers then made a demand...
+
+Engineers did not respond. Labellers confirmed a strike:
+
+Strike continued for two days. Engineers tried to open up back-channels to convince labellers. No good.
+
+Eventually plot development -> deliberately mislabel.
+
+Crashed the machines...
+
+Final event: find hiroshi whererabouts. london.
+
+award ceremony...
 
 ## Work Mini-Game
 
