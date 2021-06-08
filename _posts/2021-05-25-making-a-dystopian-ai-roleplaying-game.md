@@ -422,7 +422,14 @@ Things changed when the swag arrived. I set up two separate chats for labellers 
 </p>
 <br />
 
-The first signs of suspicion came when one of the engineers Mikkel posted a picture of Ferro Roches on the general chat. This was suspicious to the labellers, who could only afford energy drinks. But equal pay from Natasha and Nishant.
+The first signs of suspicion came when one of the engineers Mikkel posted a picture of Ferrero Rocher on the general chat. This was suspicious to the labellers, who could only afford energy drinks:
+
+<br />
+<p align="center">
+  <a target="_blank" href="https://rjt1990.github.io/images/ferror1.jpg"><img src="https://rjt1990.github.io/images/ferror1.jpg" width="100%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/ferror2.jpg"><img src="https://rjt1990.github.io/images/ferror2.jpg" width="100%"></a>
+</p>
+<br />
 
 Another source of tension came when the training data changed from innocuous jobs like cats vs dogs, and muffins vs chihuahuas, to labelling military data. Many of the labellers refused to label the data given the contents. But interestingly they did not convey the type of data to the engineers. The engineers could only see that the model accuracy had dropped, and so many punished labellers for this.
 
