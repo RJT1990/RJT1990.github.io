@@ -28,7 +28,7 @@ To immerse players in game world, I made a spoof documentary about how events un
 
 <br />
 
-The reaction to the video was really strong from players. It was effective for several reasons:
+Player reaction to the video was really strong. I think it was effective for several reasons:
 
 - **Mockumentary format** - This really aided immersion. Friends thought I might have deepfaked it, or that I'd actually interviewed people like Jordan Peterson!
 - **Timely narrative** - People are especially curious about the future right now with the pandemic, which helps immersion into potential futures.
