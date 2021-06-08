@@ -398,11 +398,29 @@ This puzzle sidequest worked really well. One mistake I made was not tying the f
 
 ## ⛰️ The Story
 
-Above I have explained the mechanics of the game. So how did things actually go down?
+So how did things actually go down?
 
-In the first stage of the game, there was a honeymoon period where engineers and labellers got along. Both sets of players were enjoying the experience of ordering items off the Kobashi E-Store. And both sets of players were still laughing about the celebrity phone calls a few days earlier. 
+The beginning of the game was a honeymoon period where engineers and labellers got along. Both sets of players were still laughing about the celebrity phone calls a few days earlier. And both sets of players were enjoying the experience of ordering items from the Kobashi E-Store. The joys of consumerism...
 
-Things changed when the swag arrived. I set up two separate chats for labellers and engineers, on the premise that the puzzles they had to solve were specific to their groups. This was true - there was a labeller puzzle and an engineer puzzle - but I was actually preparing for the revelation. Because at this stage, labellers had not suspected that the pay arrangement was unequal...
+<br />
+<p align="center">
+  <a target="_blank" href="https://rjt1990.github.io/images/honeymoon.jpg"><img src="https://rjt1990.github.io/images/honeymoon.jpg" width="100%"></a>
+</p>
+<br />
+
+Things changed when the swag arrived. I set up two separate chats for labellers and engineers. The premise was that the puzzles they had to solve were specific to their groups. While this was true, the primary reason for the class chats was to start to divide the groups... In particular, I was preparing for the revelation: when labellers would find out that the pay arrangement is unequal.
+
+<br />
+<p align="center">
+  <a target="_blank" href="https://rjt1990.github.io/images/labellerhi.jpg"><img src="https://rjt1990.github.io/images/labellerhi.jpg" width="100%"></a>
+</p>
+<br />
+
+<br />
+<p align="center">
+  <a target="_blank" href="https://rjt1990.github.io/images/engineerhi.jpg"><img src="https://rjt1990.github.io/images/engineerhi.jpg" width="100%"></a>
+</p>
+<br />
 
 The first signs of suspicion came when one of the engineers Mikkel posted a picture of Ferro Roches on the general chat. This was suspicious to the labellers, who could only afford energy drinks. But equal pay from Natasha and Nishant.
 
