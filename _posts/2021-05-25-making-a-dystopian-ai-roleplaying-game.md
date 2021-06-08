@@ -412,13 +412,13 @@ Things changed when the swag arrived. I set up two separate chats for labellers 
 
 <br />
 <p align="center">
-  <a target="_blank" href="https://rjt1990.github.io/images/labellerhi.jpg"><img src="https://rjt1990.github.io/images/labellerhi.jpg" width="100%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/labeller_hi.jpg"><img src="https://rjt1990.github.io/images/labeller_hi.jpg" width="100%"></a>
 </p>
 <br />
 
 <br />
 <p align="center">
-  <a target="_blank" href="https://rjt1990.github.io/images/engineerhi.jpg"><img src="https://rjt1990.github.io/images/engineerhi.jpg" width="100%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/engineer_hi.jpg"><img src="https://rjt1990.github.io/images/engineer_hi.jpg" width="100%"></a>
 </p>
 <br />
 
