@@ -448,9 +448,14 @@ Labellers in turn got punished with low payouts. The final push was to send Labe
 
 [NOT PAYING FAIRLY]
 
-Many of the labellers refused to label the data given the contents. But interestingly they did not convey the type of data to theengineers. The engineers could only see that the model accuracy had dropped, and so many punished labellers for this.
+Labellers then shared their compensation...and the truth became clearer. They soon realized one engineer (Mikkel) was being particularly unfair and paying them a lot less!
 
-The combination of suspicious Ferror Roches, and low payouts -- alongside a little push from me saying to labellers they could discuss compensation (video clip) -- led labellers to finally share their pay with each other. The labellers soon realized that one engineer (Mikkel) was screwing them over majorly and paying them a lot less!
+<p align="center">
+  <a target="_blank" href="https://rjt1990.github.io/images/labeller_rev_1.jpg"><img src="https://rjt1990.github.io/images/labeller_rev_1.jpg" width="100%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/labeller_rev_2.jpg"><img src="https://rjt1990.github.io/images/labeller_rev_2.jpg" width="100%"></a>
+  <a target="_blank" href="https://rjt1990.github.io/images/labeller_rev_3.jpg"><img src="https://rjt1990.github.io/images/labeller_rev_3.jpg" width="100%"></a>
+</p>
+<br />
 
 (Mikkel promotion / sam watts promotion)
 
