@@ -178,6 +178,7 @@ I knew about the [Ultimatum](https://en.wikipedia.org/wiki/Ultimatum_game) and [
 3. Once labelling is done, the engineer "trains" a model on the new data and records an accuracy. Labellers do not observe this process.
 4. If labelling is perfect, the full bounty is received; if partially correct, a fraction of the bounty is received; if no labels are correct: no bounty. Labelling quality is signalled through the model accuracy that the engineer observes after "training the model".
 5. The engineer allocates a fraction of the bounty to the labeller. The labeller is notified of the amount they receive once allocated - but not the amount the engineer receives!
+6. The labellers are lied to by the game: they are told pay is "divided fairly according to AGI".
 
 Step five is where rational choice theory says the engineer should take all of the bounty and pay the labeller $\epsilon > 0$. That's where things get interesting...
 
@@ -398,9 +399,9 @@ This puzzle sidequest worked really well. One mistake I made was not tying the f
 
 ## ⛰️ The Story
 
-So how did things actually go down?
+So how did things go down?
 
-The beginning of the game was a honeymoon period where engineers and labellers got along. Both sets of players were still laughing about the celebrity phone calls a few days earlier. And both sets of players were enjoying the experience of ordering items from the Kobashi E-Store. The joys of consumerism...
+The beginning of the game was a honeymoon period where engineers and labellers got along. Everyone was enjoying the experience of ordering items from the Kobashi E-Store. The joys of consumerism...
 
 <br />
 <p align="center">
@@ -408,7 +409,7 @@ The beginning of the game was a honeymoon period where engineers and labellers g
 </p>
 <br />
 
-Things changed when the swag arrived. I set up two separate chats for labellers and engineers. The premise was that the puzzles they had to solve were specific to their groups. While this was true, the primary reason for the class chats was to start to divide the groups... In particular, I was preparing for the revelation: when labellers would find out that the pay arrangement is unequal.
+Things changed when the swag arrived. I set up two separate chats for labellers and engineers. Each team had a puzzle to solve from their swag. But separate communication channels also began to divide the players...This was important because the labellers would sooner or later realize they were being screwed.
 
 <br />
 <p align="center">
@@ -422,7 +423,7 @@ Things changed when the swag arrived. I set up two separate chats for labellers 
 </p>
 <br />
 
-The first signs of suspicion came when one of the engineers Mikkel posted a picture of Ferrero Rocher on the general chat. This was suspicious to the labellers, who could only afford energy drinks:
+The first signs of suspicion came when Mikkel (an engineer) posted a photo of Ferrero Rocher on the general chat. Labellers could only afford energy drinks with their pay, so this was a little suspect...
 
 <br />
 <p align="center">
@@ -431,7 +432,23 @@ The first signs of suspicion came when one of the engineers Mikkel posted a pict
 </p>
 <br />
 
-Another source of tension came when the training data changed from innocuous jobs like cats vs dogs, and muffins vs chihuahuas, to labelling military data. Many of the labellers refused to label the data given the contents. But interestingly they did not convey the type of data to the engineers. The engineers could only see that the model accuracy had dropped, and so many punished labellers for this.
+To escalate tensions further, I changed the training data. Previously this had been innoucous tasks like dogs vs cats and chihuahuas vs muffins. This was changed to (mocked) military data: satellite photos of planes, tanks, and so on:
+
+[MILITARY DATA]
+
+Many labellers refused to label the data given the contents. But they did not communicate the type of data to the engineers! So engineers got bad training data, and they assumed the poor labels were due to laziness or incompetence!
+
+<br />
+<p align="center">
+  <a target="_blank" href="https://rjt1990.github.io/images/angryengineers.jpg"><img src="https://rjt1990.github.io/images/angryengineers.jpg" width="100%"></a>
+</p>
+<br />
+
+Labellers in turn got punished with low payouts. The final push was to send Labellers a message from the Seekers hinting at the truth: that engineers were not paying fairly and keeping money for themselves:
+
+[NOT PAYING FAIRLY]
+
+Many of the labellers refused to label the data given the contents. But interestingly they did not convey the type of data to theengineers. The engineers could only see that the model accuracy had dropped, and so many punished labellers for this.
 
 The combination of suspicious Ferror Roches, and low payouts -- alongside a little push from me saying to labellers they could discuss compensation (video clip) -- led labellers to finally share their pay with each other. The labellers soon realized that one engineer (Mikkel) was screwing them over majorly and paying them a lot less!
 
