@@ -450,6 +450,7 @@ Labellers in turn got punished with low payouts. The final push was to send Labe
 
 Labellers then shared their compensation...and the truth became clearer. They soon realized one engineer (Mikkel) was being particularly unfair and paying them a lot less!
 
+<br />
 <p align="center">
   <a target="_blank" href="https://rjt1990.github.io/images/labeller_rev_1.jpg"><img src="https://rjt1990.github.io/images/labeller_rev_1.jpg" width="100%"></a>
   <a target="_blank" href="https://rjt1990.github.io/images/labeller_rev_2.jpg"><img src="https://rjt1990.github.io/images/labeller_rev_2.jpg" width="100%"></a>
