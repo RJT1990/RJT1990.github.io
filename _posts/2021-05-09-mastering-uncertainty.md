@@ -16,7 +16,7 @@ Pay particular attention to the advice that seems unnatural or controversial as 
 
 I make no claim that these principles are fool-proof or that they are the only way to good outcomes. This is a single perspective, so take what you need or find useful.
 
-**Last Updated: May 9 2021**
+**Last Updated: Jan 1 2022**
 
 <p>&nbsp;</p>
 
@@ -26,7 +26,7 @@ I make no claim that these principles are fool-proof or that they are the only w
 
 # Objectives
 
-**Summary:** Achieving things means setting yourself an objective to work towards. But this is where many slip up before they've started. People underestimate what they can achieve and overestimate the obstacles in their way. The principles below are about directing yourself towards the right goals.
+**Summary:** Achieving things means setting yourself an objective to work towards. Many slip up before they've even started. People underestimate what they can achieve and overestimate the obstacles in their way. The principles below direct you towards the right goals.
 
 ### Aim big
 
@@ -42,7 +42,7 @@ There is no shortage of good ideas, but life is short. Seek out really great one
 
 ### Chase the truth
 
-People sacrifice the truth in favour of agreeability, acceptance, and protection of their identity. But eschewing these things for truth gets you better outcomes in the long-run.
+People sacrifice the truth in favour of agreeability, acceptance, and protection of their identity. Eschewing these things for truth gets you better outcomes in the long-run.
 
 ### Don’t chase status
 
@@ -62,7 +62,7 @@ Focusing on average score overoptimizes for the short-term and incremental work.
 
 ### Set ambitious timetables
 
-Targets affect people's motivations which affects the appropriateness of the target. A better fixed point: be ambitious as possible so people don't anchor to a slower timetable.
+Be ambitious as possible so people don't mentally anchor to a slower timetable.
 
 <p>&nbsp;</p>
 
@@ -72,15 +72,15 @@ Targets affect people's motivations which affects the appropriateness of the tar
 
 # Mentality
 
-**Summary:** The difference between success and failure often comes down to who cares the most. Intelligence is necessary but not sufficient. But as well as caring, the right mentality is truthful to yourself and commits to reality not perception.
+**Summary:** The difference between success and failure often comes down to who cares the most. Intelligence is necessary but not sufficient. The right mentality is also truthful to yourself and commits to reality not perception.
 
 ### Extreme focus and hard work
 
-Single-mindedness is a powerful trait. It has side-effects, like neglecting other parts of life, but it is a major advantage if you are thinking and working more than others. Most great achievements are not won without hard work and there is no balanced path to success.
+Single-mindedness is a powerful trait. It has side-effects, like neglecting other parts of life, but it is a major advantage if you are thinking and working harder than others. Most great achievements are not won without hard work and there is no balanced way to success.
 
-### Care the most to win to most
+### Obsession is the mother of greatness
 
-You can work hard on something, but you may not actually care about it. But caring often makes the difference: if you can't sleep because you're thinking about new ideas, if you dream about your work... all these things mean you are working harder than someone who cares less.
+You can work hard on something, but you may not actually care about it. Obsessing about something often makes the difference: if you can't sleep because you're thinking about new ideas, if you dream about your work... this all adds up to working harder than those who care less.
 
 ### Shock your identity
 
@@ -88,7 +88,7 @@ Your progress is proportional to your toleration for embarrassment. If you aren'
 
 ### Seek the freedom to make mistakes
 
-The most beautiful thing about my first startup was that if things failed it was all me. It wasn't some mish-mash failure of people in a big organization; it wasn't John Smith from department X; it wasn't the CEO. It was all on me. There is no better way to learn.
+In some environments, such as big organizations, you can hide behind other people when you fail. Seek environments where you can't hide from your mistakes, so when you fail, there is no-one else to blame but you. There is no better way to learn.
 
 ### Fuel yourself with failure 
 
@@ -96,7 +96,7 @@ There's a cliche that artists do their best work after relationship breakups. I'
 
 ### Focus on a single thing 
 
-Mixed focus is the death of productivity. You usually need to go deep on a problem to really understand it and gain insights. It's an anti-pattern if you are working on lots of orthogonal pieces of work. You ideally need to commit to one of them and really focus.
+Divided focus is a productivity-killer. You need to go deep on a problem to understand it and gain insights. It's an anti-pattern if you are working on lots of orthogonal pieces of work. You ideally need to commit to one of them and really focus.
 
 ### Keep yourself accountable by telling the truth.
 
@@ -112,7 +112,7 @@ I believe in destiny. It's a useful fiction that propels you forward. Humans hav
 
 ### One life, make it count.
 
-Question yourself whether you are spending your time productively. Work on problems that could be your last problems.
+Question whether you are spending your time productively. Work on problems that could be your last problems.
 
 ### The ones who think they’ve failed the exam get 100%
 
@@ -124,7 +124,7 @@ It's easy to fail by not taking opportunities because you think others are smart
 
 ### Seek freedom from others’ judgement 
 
-My goal in my twenties was to get enough freedom to escape another's judgement. This would allow me to build the world I wanted to build. In practice, you are still subject to constraints: e.g. in a startup you still have to answer to investors. But as you become more successful your freedom increases.
+My goal in my twenties was to get enough freedom to escape the tyranny of someone else's judgement. This would allow me to build the world I wanted to build. In practice, you are still subject to constraints: e.g. in a startup you still have to answer to investors. But as you become more successful your freedom increases.
 
 ### Constraints make you stronger
 
@@ -146,7 +146,7 @@ You don't get public credit, but so be it: the only person you need to prove any
 
 Be open-minded. Think about how a new situation might be different in important way, rather than focusing on factors you have experienced before. 
 
-### Don’t cosplay as who you want to be.
+### Don’t cosplay who you want to be.
 
 It is easy to pretend you are something you are not. Don't settle for fiction, because reality is much more interesting when it works out.
 
@@ -190,7 +190,7 @@ You won't have good insights if you don't know the fundamentals of a field, beca
 
 ### When everyone is going left, consider going right.
 
-Contrarian thinking for its own sake can be stupid, but most people's bias is towards conformity. You should try to work out for yourself, from first principles, which direction to go rather than following a group.
+Contrarian thinking for its own sake can be stupid, but most people's bias is towards conformity. You should be playful and "strongman" the unpopular option or opinion, and assess its merits from first principles.
 
 ### Originality counts for more in failure
 
@@ -322,12 +322,6 @@ Sometimes there are events that can make-or-break your success. Do more than the
 
 Recognize opportunities when they emerge and act quickly to seize them. 
 
-### Don’t neglect your health
-
-Exercise and eat properly.
-
-
-
 <p>&nbsp;</p>
 
 
@@ -353,7 +347,7 @@ More likely, they have baseline intelligence and were well-positioned to succeed
 
 ### Don't hero-worship people
 
-They're only human, after all.
+You're not five.
 
 ### Prove people wrong by proving them right
 
@@ -381,7 +375,7 @@ People you hire should express insightful, original thoughts that make you think
 
 ### Those who mock big ideas are crushed by them
 
-"He's one of these crazy people who thinks he can actually change things" was a common mantra in the Treasury. But in the long-run, those who resist ideas are the ones who fall behind when things change; and those who are crazy enough...well you know the rest.
+"He's one of these crazy people who thinks he can actually change things" was a common mantra when I was in the Treasury. In the long-run, those who resist ideas are the ones who fall behind when things change; and those who are crazy enough to change the world...well you know the rest.
 
 ### Don't let critics get you down
 
