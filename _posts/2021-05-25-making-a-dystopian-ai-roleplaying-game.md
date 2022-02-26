@@ -8,13 +8,13 @@
 
 I hacked together a dystopian AI RPG in a week for my 30th birthday party. It involved spoof documentaries, a social experiment with real money, scavenger hunt sidequests, and a Telegram bot as the game interface.
 
-The game had 8-12 players and engagement was very high: players engaged every 15-30 minutes, including weekends. This blog post details how the game worked, how it played out, and my learnings from building this product.
+The game had 8-12 players and engagement was very high: we all had fun! This blog post details how the game worked, how it played out, and my learnings from building this side project.
 
 <br />
 
 ## Plot
 
-The setting was 2027 where a company called Kobashi Systems "solves" AI. The rise of AI creates social problems, however, and society self-organizes arounds two classes: those who train models (**engineers**) and those who provide data for models (**labellers**). The implicit assumption is that machine learning remains heavily supervised. This assumption is a bad extrapolation given [progress in self-supervised learning](https://twitter.com/an_open_mind/status/1396057486940114945?s=20), but I liked the clean class divide it enabled between engineers and labellers. So suspend your disbelief ML researchers 🙂.
+The setting was 2027 where a company called Kobashi Systems "solves" AI. But the rise of AI creates social problems and society self-organizes arounds two classes: those who train AI models (**engineers**) and those who make data for AI models (**labellers**).
 
 To immerse players in game world, I made a spoof documentary about how events unfolded. I took clips from other documentaries and spliced them together to make it look like interviewees were talking about events in the future. I also found an [amazing voiceover narrator on Fiverr](https://www.fiverr.com/provotalent/narrate-your-documentary-with-my-american-male-voice), and took some footage from Pexels, Shutterstock and some other sources. You can view the documentary here: 
 
@@ -28,18 +28,18 @@ To immerse players in game world, I made a spoof documentary about how events un
 
 <br />
 
-Player reaction to the video was really strong. I think it was effective for several reasons:
+Player reaction to the video was really strong, for a number of reasons:
 
 - **Mockumentary format** - This really aided immersion. Friends thought I might have deepfaked it, or that I'd actually interviewed people like Jordan Peterson!
-- **Timely narrative** - People are especially curious about the future right now with the pandemic, which helps immersion into potential futures.
-- **Choice of music** - Phillip Glass and Hans Zimmer tapped into emotions; the synth tracks from Perturbator and The Encounter sold the cyberpunk vibe.
-- **Turning friends into heroes** - Having video clips of friends in the documentary alongside the big story made them feel special.  
+- **Timely narrative** - People are especially curious about the future right now with the pandemic, which made it easier to step into a potential future
+- **Choice of music** - Phillip Glass and Hans Zimmer tapped into emotions; the synth tracks from Perturbator and The Encounter sold the cyberpunk vibe
+- **Turning friends into heroes** - Having video clips of friends in the documentary alongside the big story made them feel special  
 
 Special thanks to [Matt Clifford](https://twitter.com/matthewclifford) who agreed to my (unreasonable!) request to provide a clip talking about Kobashi Systems, as if it were a company from the [Entrepreneur First](https://www.joinef.com) programme!
 
-The key themes I wanted to get across were how technology can shape social relations and how ownership of technology creates power. I also introduced elements of mystery, e.g. the founder Hiroshi Kobashi being missing, and an underground group known as the "Seekers" who are fighting against the company. At a macro level, I found rereading the [Hero's Journey](https://en.wikipedia.org/wiki/Hero%27s_journey) helpful for storyboarding. The main structural insight I exploited was this idea of transitioning from an "Old World" to the "New World". As mentioned, this was timely given the current pandemic -- and the sense we are transitioning to a new world post-pandemic.
+The key themes I wanted to get across were how technology can shape social relations and how ownership of technology creates power. I also introduced elements of mystery, e.g. the founder Hiroshi Kobashi being missing, and an underground group known as the "Seekers" who are fighting against the company. At a macro level, I found rereading the [Hero's Journey](https://en.wikipedia.org/wiki/Hero%27s_journey) helpful for storyboarding. The main structural insight I exploited was this idea of transitioning from an "Old World" to the "New World". This was timely given the pandemic -- and it played into the sense we are transitioning to a new world post-pandemic.
 
-To further aid immersion, I produced two additional videos for the story. I made a deliberately cringeworthy [hiring video for Kobashi Systems](https://youtube.com/watch?v=_TteD56RDPA). I also made a [commercial for a fictional beverage Labella](https://www.youtube.com/watch?v=VbIw6u9tW_M): an energy drink targeted at labellers to improve their productivity...
+To further aid immersion, I produced two additional videos for the story. I made a deliberately cringeworthy [hiring video for Kobashi Systems](https://youtube.com/watch?v=_TteD56RDPA). I also made a [commercial for a fictional beverage LaBella](https://www.youtube.com/watch?v=VbIw6u9tW_M): an energy drink targeted at labellers to improve their productivity...
 
 <br />
 
@@ -60,7 +60,7 @@ For fun, I made Dogecoin the default currency in the game. Although this wasn't 
 
 ## 👋 Welcome to Kobashi
 
-To begin the game, players were assigned a job at Kobashi Systems as either a **labeller** or an **engineer**. To immerse my friends, they completed a "company induction" (via the Telegram app) and they were sent company swag boxes. The swag boxes contained t-shirts, a welcome letter, stickers, food and more.
+To begin the game, players were assigned a job at Kobashi Systems as either a **labeller** or an **engineer**. Their first task was to complete a "company induction" (via the Telegram app) and they were sent company swag boxes. The swag boxes contained t-shirts, a welcome letter, stickers, food and more.
 
 The Kobashi induction was a spoof of Silicon Valley company inductions. The content served a dual-purpose: (a) making my friends feel like they were joining a real tech company (*immersion*), and (b) introducing people to the Telegram bot UX (*mechanics*).
 
@@ -239,13 +239,13 @@ I made a lightweight store where people could use their "Doge" to buy items, whi
 
 Translating this to 2021 products...
 
-- 🥤 Labella: Carobao Mixed Berry energy drink
+- 🥤 LaBella: Carobao Mixed Berry energy drink
 - 🍫 Chocomodels: Ferrero Rocher
 - 👱‍♀️ Pavlovian Conditioner: TRESemmé hair conditioner
 - 🔈 Kobashi Home System: Amazon Echo Dot
 - 🤖 Marvin Multipurpose Robot: probably a Roomba
  
-The store was another holy shit moment for people. When they ordered items, they were actually delivered! This added to the immersion -- even if the items were shitty things like energy drinks! People soon started posting their orders on the general chat, and the memes flourished:
+The store was another holy shit moment for people. When they ordered items, they were actually delivered! This added to the immersion -- even if the items were cheap things like energy drinks! People soon started posting their orders on the general chat, and the memes flourished:
 
 <br />
 
@@ -265,11 +265,11 @@ The store was another holy shit moment for people. When they ordered items, they
 
 <br />
 
-The Store raised the stakes of the game since it made the money earned more real. If you were an engineer, the temptation to screw labellers to get your Robot became a lot greater...
+The Store raised the stakes of the game since it made the money earned more real. If you were an engineer, the temptation to screw over labellers to get your Robot became a lot greater...
 
-The Store also had a narrative role as a **Tempting Obstacle*** for the players. In the Hero's Journey, this is a temptation that can lead the hero to stray from the quest. As we'll see, many labellers came close to accepting the status quo because they aspired to get a Robot! 
+The Store also had a narrative role as a **Tempting Obstacle*** for the players. In the Hero's Journey, this is a temptation that can lead the hero to stray from the quest. As we'll see, many labellers came close to accepting the status quo because they aspired to get a Robot...
 
-As a whole, funding this element of the game was surprisingly cheap: it cost me circa $100 to fulfil the orders, but player utility seemed much greater. I knew this from experimental economics: if you give a prize (e.g. an iPhone) then this gets more participation than giving the equivalent monetary amount. People value physical things!
+As a whole, funding this element of the game was surprisingly cheap: it cost me circa $100 to fulfil the orders, but player utility seemed much greater than the cash amount. I knew this from experimental economics: if you give a prize (e.g. an iPhone) then this gets more participation than giving the equivalent monetary amount. People value physical things!
 
 <br />
 
@@ -284,7 +284,7 @@ While the ultimatum mini-game was ongoing, I needed a device to progress the plo
 
 <br />
 
-I also used mail to perform custom interventions -- stirring the pot -- based on how players were behaving. One question I am pondering post-game is how much tailorization is actually needed -- i.e. whether a moderator is needed to make this game work or whether it can be fully automated.
+I also used mail to perform custom interventions -- stirring the pot -- based on how players were behaving.
 
 <br />
 <p align="center">
@@ -392,7 +392,6 @@ Putting in the latitude of Kyoto and applying the modifier...
 </p>
 <br />
 
-
 Bingo. On the USB stick was a clip from Lost in Translation with the word "serenity" embedded in the ending. This would be a keyword used later in the plot.
 
 This puzzle sidequest worked really well. One mistake I made was not tying the final clue to the main plot significantly enough. But players clearly got a lot of intrinsic utility from just solving the puzzles. I was careful not to make the puzzles too difficult, because the goal was to facilitate communication between players (and advance the plot) -- not an IQ test.
@@ -434,7 +433,11 @@ The first signs of suspicion came when Mikkel (an engineer) posted a photo of Fe
 
 To escalate tensions further, I changed the training data. Previously this had been innoucous tasks like dogs vs cats and chihuahuas vs muffins. This was changed to (mocked) military data: satellite photos of planes, tanks, and so on:
 
-[MILITARY DATA]
+<br />
+<p align="center">
+  <a target="_blank" href="https://i2-prod.mirror.co.uk/incoming/article6497151.ece/ALTERNATES/s1200c/Fighter-satellite-main.jpg"><img src="https://i2-prod.mirror.co.uk/incoming/article6497151.ece/ALTERNATES/s1200c/Fighter-satellite-main.jpg" width="100%"></a>
+</p>
+<br />
 
 Many labellers refused to label the data given the contents. But they did not communicate the type of data to the engineers! So engineers got bad training data, and they assumed the poor labels were due to laziness or incompetence!
 
@@ -444,11 +447,7 @@ Many labellers refused to label the data given the contents. But they did not co
 </p>
 <br />
 
-Labellers in turn got punished with low payouts. The final push was to send Labellers a message from the Seekers hinting at the truth: that engineers were not paying fairly and keeping money for themselves:
-
-[NOT PAYING FAIRLY]
-
-Labellers then shared their compensation...and the truth became clearer. They soon realized one engineer (Mikkel) was being particularly unfair and paying them a lot less!
+Labellers in turn got punished with low payouts. Labellers then began to discuss the situation and share their compensation...and the truth became clearer. They soon realized one engineer (Mikkel) was being particularly unfair and paying them a lot less!
 
 <br />
 <p align="center">
@@ -458,91 +457,5 @@ Labellers then shared their compensation...and the truth became clearer. They so
 </p>
 <br />
 
-(Mikkel promotion / sam watts promotion)
 
-The first strategy from the labellers was to information gather from the general chat. Engineers stayed tight-lipped:
-
-Eventually the labellers let slip that they knew what was happening. The engineers did not back down:
-
-And privately they expressed their disdain:
-
-Labellers then made a demand...
-
-Engineers did not respond. Labellers confirmed a strike:
-
-Strike continued for two days. Engineers tried to open up back-channels to convince labellers. No good.
-
-Eventually plot development -> deliberately mislabel.
-
-Crashed the machines...
-
-Final event: find hiroshi whererabouts. london.
-
-award ceremony...
-
-## Work Mini-Game
-
-In order to earn money, players had to play a mini-game which was a variant of the Ultimatum and Dictator games in economics. These games are very effective for showing that people have inbuilt preferences towards equality, which was perfect for a plot that was fundamentally about inequality.
-
-The way it worked was as followers. Labellers had to label 5 images a day - there was an actual in-game labelling app... They were not told how much they would be paid, only that their work would be "evaluated" by the engineers. Meanwhile engineers could not see the data, but were told the total bounty of the job and were told they could give whatever fraction they wanted to the labellers. The jobs had to be completed at 8pm: i.e. labellers label by 8pm, and modellers "train" new models on the data by 8pm. So the TLDR:
-
-- Engineers are the only ones who know the total bounty of the job.
-- Engineers can pay labellers whatever they want.
-- Labellers can affect the total bounty either by not working (0 bounty) or labelling poorly (fraction of total bounty).
-
-What happened in practice was as follows. Of the three initial engineers, two paid reasonably fairly (close to 50%) and one optimized for his own self-interest (paid 0-10%). But at the beginning, there was no protest, because everyone could buy *something* from the Kobashi e-store, in particular Labella energy drinks.
-
-As the days went on, it became clearer that engineers were getting better items than labellers. Ferror Rochers ("chocomodels"), not just labella! 
-
-The pivotal moment was when labellers shared their pay with each other in a Labellers Chat group. It was at this moment they realized one engineer in particular was screwing them over:
-
-They responded by calling the engineers out on this in the public chat. The engineers used a number of (hilarious) excuses to justify the situation:
-
-Eventually the labellers got so unhappy they striked for two days without pay. Engineers tried to bring labellers back to the table with fair offers, but trust was lost.
-
-To stir the pot I did a number of things...
-
-First, I "promoted" the engineer who was acting selfishly and made a public announcement about it to promote the ire of the labellers.
-
-Secondly, I made the data labelling more ethically dubious. Instead of labelling dogs vs cats, or chihuahuas vs muffins, I introduced a military data job which had satellite pictures of tanks, fighter planes, etc. This led to 2/3 of the original labellers mislabelling in protest. I "promoted" the one that correctly labelled to "senior labeller" to further sew doubts about the company and its motives.
-
-In the end the mini-game ended when the plot progressed --- tldr, the labellers deliberately mislabel and make all the company's models malfunctions. It would have been recently interesting to see if both groups could have bargained towards a settlement, but unfortunately I did not have the time to play this out.
-
-What is clear in my mind is that introducing money, even if a small amount, really heats things up and gets incentives aligned to play the game. Further still, having the ability to order real things with the in-game money made the game a lot more engaging. In the end I spent less than 100gbp on items that players bought, but to players it felt like a lot more. This is actually a known result in behavioural economics that promising people a physical good instead of the equivalent monetary amount induces more engagement with an experiment. I am still amazed that people seemed to have so much utility for a crappy energy drink in this game!
-
-## Scavenger Hunts
-
-With the swag I sent to players, I used UV pens to scribble secret messages on the welcome letter and other items. I included book ciphers, card ciphers, and encrypted usb sticks. Each clue was dependent on another clue from another player, which was a really nice device for people to work together. It seemed to be a real positive moment for one of the groups when they figured out all the clues and got the answer.
-
-Plot-wise, the answer would be used to trigger an event later in the gane. I feel this part could have been done better -- I could have planned better -- but I feel it was alright given the time constraints I was working under (do everything in a week).
-
-## Misc Elements
-
-I got a voice actor to play a role of a "Seeker" who phones the players and reveals certain plot information to advance the plot -- e.g. informing the labellers that engineers aren't dividing money fairly, pointing them towards bits of the game where they can activate certain things, etc. This worked fairly well -- I think it would have been better if it was a video rather than just audio, but it was a good device.
-
-I also got a voice actor to play the role of a "Kobashi representative" to give public announcements about things, which seemed to work fairly well.
-
-Another misc element was I had an ingame news section so I could flesh out the world story a bit more, and give more context on what was happening in the world around the players (which in turn could inform their decisions).
-
-
-## Influences
-
-I had made Telegram mini-games a few years earlier, but there wasn't a single big influence for this project. Various things that influenced me were:
-
-- [Mockumentary format](https://en.wikipedia.org/wiki/Mockumentary) - I had seen a few of these in the past. The main ones that influenced me were Charlie Brooker's Wipe mockumentaries. 
-- [The Game (1997)](https://en.wikipedia.org/wiki/The_Game_(1997_film)) - a 1997 movie where a rich Scrooge-like figure (played by Michael Douglas) signs up for a game that blurs the lines between reality and fiction.
-- [War of the Worlds (1938)](https://en.wikipedia.org/wiki/The_War_of_the_Worlds_(1938_radio_drama)) - a radio drama in 1938 about an alien invasion that allegedly caused panic amongst listeners due to its realism.
- - [We (Zamyatin)](https://en.wikipedia.org/wiki/We_(novel)) - an early 20th century dystopian novel where society is scientifically organized under the "One State" and run by engineers.
- - [Blade Runner](https://en.wikipedia.org/wiki/Blade_Runner) - I used the cyberpunk aesthetic of blending Japanese and American cultures. Additionally Kobashi follows the megacorporation format -- although I made a conscious effort to make Kobashi feel like an actual big technology company (Tyrell and Wallace Corporations are too ridiculous).
-- [East India Company](https://en.wikipedia.org/wiki/East_India_Company) - The militaristic aspects of Kobashi were based on the East India Company. This is the historical example of an actual evil megacorporation. British imperialists justified their actions as spreading "civilization". In 2027, the justification was similar: Kobashi justified their actions as spreading "AGI", and serving the long-run benefit of humanity.
-- [Dialectic Materialism](https://en.wikipedia.org/wiki/Dialectical_materialism) - The class division between engineers and labellers was enabled by the rise of AI. So the rise of AI created an extreme form of capitalism ("modelism"). This logic is methodologically Marxist. Likewise, the Seeker organization was essentially neo-Marxist.
-
-## Finale
-
----
-
-## Conclusions
-
----
-
-
+....TBC (when I have time to write up)
