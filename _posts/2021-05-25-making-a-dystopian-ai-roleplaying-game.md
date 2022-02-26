@@ -39,14 +39,14 @@ Special thanks to [Matt Clifford](https://twitter.com/matthewclifford) who agree
 
 The key themes I wanted to get across were how technology can shape social relations and how ownership of technology creates power. I also introduced elements of mystery, e.g. the founder Hiroshi Kobashi being missing, and an underground group known as the "Seekers" who are fighting against the company. At a macro level, I found rereading the [Hero's Journey](https://en.wikipedia.org/wiki/Hero%27s_journey) helpful for storyboarding. The main structural insight I exploited was this idea of transitioning from an "Old World" to the "New World". This was timely given the pandemic -- and it played into the sense we are transitioning to a new world post-pandemic.
 
-To further aid immersion, I produced two additional videos for the story. I made a deliberately cringeworthy [hiring video for Kobashi Systems](https://youtube.com/watch?v=_TteD56RDPA). I also made a [commercial for a fictional beverage LaBella](https://www.youtube.com/watch?v=VbIw6u9tW_M): an energy drink targeted at labellers to improve their productivity...
+To further aid immersion, I produced two additional videos for the story. I made a deliberately cringeworthy [hiring video for Kobashi Systems](https://youtube.com/watch?v=_TteD56RDPA). I also made a [commercial for a fictional beverage La Bella](https://www.youtube.com/watch?v=VbIw6u9tW_M): an energy drink targeted at labellers to improve their productivity...
 
 <br />
 
 <p align="center">
   <a target="_blank" href="https://www.youtube.com/watch?v=VbIw6u9tW_M"><img src="https://rjt1990.github.io/images/labella.gif" width="100%"></a>
   <br>
-  <a target="_blank" href="https://www.youtube.com/watch?v=VbIw6u9tW_M">Labels fuel the models, Labella fuels the humans</a>
+  <a target="_blank" href="https://www.youtube.com/watch?v=VbIw6u9tW_M">Labels fuel the models, La Bella fuels the humans</a>
   <br />
   <span style="font-size:10px"><i>Credit to <a target="_blank" href="https://commons.wikimedia.org/wiki/File:%22Evolution%22_and_life_in_vaporwave_flavours._(48475685782).png">Daniel Oliva Barbero</a> for the image adapted for this fictional drink</i></span>
 
