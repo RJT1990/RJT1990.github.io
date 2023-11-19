@@ -18,4 +18,4 @@ The value of the side information is the mutual information relative to the orig
 
 $$ I(X; I) = \mathbb{E}_{I}\left[D_{KL}\left(P_{\pi}(X\mid{I})\mid\mid{P}_{\pi}(X)\right)\right] $$
 
-We can see that if we have no side information then the KL divergence is zero and the value is zero: this explains why some people find synthetic data unintuitive, because they assume there is no side information being introduced. In contrast, if we can use side information and the original policy to efficiently sample examples of a better policy, then useful synthetic data is possible. 
+If we have no side information then the KL divergence is zero and the value is zero: this explains why some people find synthetic data unintuitive, because they assume there is no side information being introduced. In contrast, if we can use side information and the original policy to efficiently sample examples of a better policy, then useful synthetic data is possible. 
