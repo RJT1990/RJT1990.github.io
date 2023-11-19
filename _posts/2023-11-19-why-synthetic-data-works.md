@@ -18,6 +18,6 @@ The value of the side information is the mutual information relative to the orig
 
 Write $P_{\pi}(X|I) = P_{\pi^{*}}\left(X\right)$, then:
 
-$$ I(X; I) = \mathbb{E}_{I}\left[D_{KL}\left(P_{\pi}(X|I)||P_{\pi}(X)\right)\right] $$
+$$ I(X; I) = \mathbb{E}_{I}\left[D_{KL}\left(P_{\pi}(X\mid{I})\mid\mid{P}{\pi}(X)\right)\right] $$
 
 We can see that if we have no side information then the KL divergence is zero and the value is zero: this explains why some people find synthetic data unintuitive, because they assume there is no side information being introduced. In contrast, if we can use side information to filter the original distribution, then useful synthetic data is possible. 
