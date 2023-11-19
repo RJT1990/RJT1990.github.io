@@ -2,7 +2,7 @@
 
 ![Feeding a Model on its Own Outputs](https://upload.wikimedia.org/wikipedia/commons/7/71/Serpiente_alquimica.jpg)
 
-Synthetic data seems hard to grasp intuitively. How can a model trained on its own outputs improve its performance? The key idea is to introduce **side information** to transform the proposal model distribution to a desired distribution.
+Synthetic data seems hard to grasp intuitively. How can a model trained on its own outputs improve its performance? The key idea is to introduce **side information** to transform the proposal model distribution to a desired model distribution.
 
 Let's assume we have access to a language model policy $\pi$ that can generate text. We can measure the performance of the model on a particular task, e.g. mathematical reasoning, as $P_{\pi}\left(X\right)$, the probability of predicting the right answer $X$.
 
