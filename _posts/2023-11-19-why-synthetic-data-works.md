@@ -1,6 +1,6 @@
 # Why Synthetic Data Works
 
-![Feeding a Model on its own Outputs](https://upload.wikimedia.org/wikipedia/commons/7/71/Serpiente_alquimica.jpg){width=200}
+![Feeding a Model on its Own Outputs](https://upload.wikimedia.org/wikipedia/commons/7/71/Serpiente_alquimica.jpg)
 
 Synthetic data seems hard to grasp intuitively. How can a model trained on its own outputs improve its performance? The key idea is to introduce **side information** to transform the proposal model distribution to a desired distribution.
 
