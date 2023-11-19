@@ -18,7 +18,7 @@ To achieve this distributional shift, we need to introduce side information $I$ 
 
 Before covering some examples of "side information", we can write some #quickmath to work out how to measure the value of side information. Specifically, the value of the side information is the mutual information relative to the original policy:
 
-$$ I(X; I) = \math{E}_{I}\left{D_{KL}\left(P(X|I)P(X)\right}\right) $$
+$$ I(X; I) = \math{E}_{I}\left{D_{KL}\left(P(X|I)||P(X)\right}\right) $$
 
 We can see that if we have no side information then the KL divergence is zero and the value is zero: this explains why some people find synthetic data unintuitive, because they assume there is no side information being introduced.
 
