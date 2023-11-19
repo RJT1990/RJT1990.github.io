@@ -10,7 +10,7 @@ The synthetic data question can be posed as follows:
 
 **Can we find an improved policy $\pi^{*}$ by sampling from $P_{\pi}$ and re-training on that data?**
 
-The answer is yes, but only if our synthetic data procedure leads to a favorable distributional shift in our model: i.e. $P_{\pi^{*}}\left(X\right) > P_{\pi}\left(X\right)$.
+The answer is yes, but only if our synthetic data procedure leads to a desirable distributional shift in our model: i.e. $P_{\pi^{*}}\left(X\right) > P_{\pi}\left(X\right)$.
 
 To achieve this distributional shift, we need to introduce side information $I$ that can allow us to use the proposal distribution $P_{\pi}\left(X\right)$ to sample from a desired distribution $P_{\pi^{*}}\left(X\right)$.
 
