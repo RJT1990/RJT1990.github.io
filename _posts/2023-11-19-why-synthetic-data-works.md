@@ -6,7 +6,7 @@ Synthetic data seems hard to grasp intuitively. How can a model trained on its o
 
 Let's assume we have access to a language model policy $\pi$ that can generate text. We can measure the performance of the model on a particular task, e.g. mathematical reasoning, as $P_{\pi}\left(X\right)$, the probability of predicting the right answer $X$.
 
-The synthetic data question can be posed as follows:
+The synthetic data question can then be posed as follows:
 
 **Can we find an improved policy $\pi^{*}$ by sampling from $P_{\pi}$ and re-training on that data?**
 
