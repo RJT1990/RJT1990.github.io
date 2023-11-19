@@ -1,3 +1,33 @@
-# Test
+# Why Synthetic Data Works
 
-$ P(X) $
+![Feeding a Model on its own Outputs](https://upload.wikimedia.org/wikipedia/commons/7/71/Serpiente_alquimica.jpg){width=200}
+
+Synthetic data seems hard to grasp intuitively. How can a model trained on its own outputs improve its performance? The key idea is to introduce **side information** to transform the proposal model distribution to a desired distribution. I briefly cover the mathematics and some examples in this post, showing how self-improvement works in this context.
+
+## Side Information
+
+Let's assume we have access to a language model policy $\pi$ that can generate text. We can measure the performance of the model on a particular task, e.g. mathematical reasoning, as $P_{\pi}\left(X\right)$, the probability of predicting the right answer $X$.
+
+The synthetic data question can be posed as follows:
+
+**Can we find an improved policy $\pi^{*} > \pi$ by sampling from $P_{\pi}$ and re-training on that data?**
+
+The answer is yes, but only if our synthetic data procedure leads to a favorable distributional shift in our model: i.e. $P_{\pi^{*}}\left(X\right) > P_{\pi}\left(X\right)$$.
+
+To achieve this distributional shift, we need to introduce side information $I$ that can allow us to use the proposal distribution $P_{\pi}\left(X\right)$ to sample from a desired distribution $P_{\pi^{*}}\left(X\right)$.
+
+Before covering some examples of "side information", we can write some #quickmath to work out how to measure the value of side information. Specifically, the value of the side information is the mutual information relative to the original policy:
+
+$$ I(X; I) = \math{E}_{I}\left{D_{KL}\left(P(X|I)P(X)\right}\right) $$
+
+We can see that if we have no side information then the KL divergence is zero and the value is zero: this explains why some people find synthetic data unintuitive, because they assume there is no side information being introduced.
+
+So side information is what we need, but what does this look like?
+
+## Examples of Side Information
+
+Now that hopefully I've explained in theory why synthetic data can work, let me now present some practical examples of side information that can be used to achieve useful synthetic data.
+
+TBC...
+
+
