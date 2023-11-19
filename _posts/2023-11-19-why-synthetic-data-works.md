@@ -14,7 +14,7 @@ The answer is yes, but only if our synthetic data procedure leads to a favorable
 
 To achieve this distributional shift, we need to introduce side information $I$ that can allow us to use the proposal distribution $P_{\pi}\left(X\right)$ to sample from a desired distribution $P_{\pi^{*}}\left(X\right)$.
 
-The value of the side information is the mutual information relative to the original policy:
+The value of the side information is the mutual information relative to the original policy. Write $P(X|I) = P_{\pi^{*}}\left(X\right)$, then:
 
 $$ I(X; I) = \mathbb{E}_{I}\left[D_{KL}\left(P(X|I)||P(X)\right)\right] $$
 
