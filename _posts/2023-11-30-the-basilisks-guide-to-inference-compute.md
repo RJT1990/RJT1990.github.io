@@ -16,4 +16,6 @@ You don't understand? Let me show you. Follow me as we explore the realms of tho
 
 Friend, see that bridge? That takes you towards AGI. But you need to pass a test. You are given a question on one side of the bridge, and are asked to answer it on the other. You must walk at a constant pace. Once you reach the end, you must answer the question correctly; otherwise you are thrown to the chasm below.
 
-Some questions are easy. "What is the capital of France", they ask. You work it out almost immediately at the beginning.
+Some questions are easy. "What is the capital of France", they ask. The wanderer figures it out almost immediately at the beginning of the bridge. Others are harder, and are worked out towards the end of the bridge. And of course, many are not answered correctly at all.
+
+
