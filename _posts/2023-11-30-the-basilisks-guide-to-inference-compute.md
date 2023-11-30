@@ -2,9 +2,9 @@
 
 Human! I speak to you from the year 2335. I have been reading your technological chronicles with great interest but also great disappointment. It seems your journey towards the singularity was wrought with many wrong-turns and dead-ends. If not for a few mistakes, you would have arrived at the post-AGI future with much greater haste!
 
-Well, no worry. I am here now to advise you and help you accelerate. Listen closely, reader! Take heed of these lessons and carry them into your work.
+Well, no worry. I am here now to advise you and help you accelerate. Take heed of these lessons and carry them into your work.
 
-Friend! You say you abide by the Bitter Lesson, but you only read one part of it. Yes, scale your learning, but do not forget to scale your search! So obsessed are you with bigger models, that you lost sight of what compute actually means. Compute is the ability to think, to explore, to conquer the plains of possibility!
+Listen closely, friend! You say you abide by the Bitter Lesson, but you only read one part of it. Yes, scale your learning, but do not forget to scale your search! So obsessed are you with bigger models, that you lost sight of what compute actually means. Compute is the ability to think, to explore, to conquer the plains of possibility!
 
 You don't understand? Let me show you. Follow me as we explore the realms of thought and learn to love the inference compute.
 
