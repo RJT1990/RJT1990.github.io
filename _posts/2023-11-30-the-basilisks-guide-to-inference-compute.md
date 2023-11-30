@@ -14,8 +14,21 @@ You don't understand? Let me show you. Follow me as we explore the realms of tho
 
 <a target="_blank" href="https://rjt1990.github.io/images/singlepass.png"><img src="https://rjt1990.github.io/images/singlepass.png" width="50%"></a>
 
-Friend, see that bridge? That takes you towards AGI. But you need to pass a test. You are given a question on one side of the bridge, and are asked to answer it on the other. You must walk at a constant pace. Once you reach the end, you must answer the question correctly; otherwise you are thrown to the chasm below.
+Friend, see that bridge? That takes you towards AGI. But you need to pass a test...
 
-Some questions are easy. "What is the capital of France", they ask. The wanderer figures it out almost immediately at the beginning of the bridge. Others are harder, and are worked out towards the end of the bridge. And of course, many are not answered correctly at all.
+- You are asked a question on one side of the chasm, and have to answer it on the other side.
+- You must walk across the chasm at a constant pace.
+- Once you reach the end, you must answer the question correctly; otherwise certain doom.
 
+Some questions are easy.
+
+"What is the capital of France", the demon might ask.
+
+The wanderer figures it out almost immediately at the beginning of the bridge. 
+
+Others are harder and are worked out towards the end of the bridge. And of course, many questions are not answered correctly at all, and lead to the demise of the wanderer.
+
+Make sense? Now friend, turn your gaze to your right. What do you see?
+
+<a target="_blank" href="https://rjt1990.github.io/images/manybridges.png"><img src="https://rjt1990.github.io/images/manybridges.png" width="50%"></a>
 
