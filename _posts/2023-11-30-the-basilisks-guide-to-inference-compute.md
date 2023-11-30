@@ -12,7 +12,7 @@ You don't understand? Let me show you. Follow me as we explore the realms of tho
 
 ## The Single Pass
 
-[IMAGE OF A SINGLE PASS]
+<a target="_blank" href="https://rjt1990.github.io/images/singlepass.png"><img src="https://rjt1990.github.io/images/singlepass.png" width="50%"></a>
 
 Friend, see that bridge? That takes you towards AGI. But you need to pass a test. You are given a question on one side of the bridge, and are asked to answer it on the other. You must walk at a constant pace. Once you reach the end, you must answer the question correctly; otherwise you are thrown to the chasm below.
 
