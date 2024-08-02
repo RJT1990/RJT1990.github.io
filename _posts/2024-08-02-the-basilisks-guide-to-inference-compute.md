@@ -41,7 +41,7 @@ Many people on Twitter state definitively that “LLMs can’t verify”. The wo
 
 To see this, you can do a simple example.
 
-Take a LLaMA-1 70B model and sample GSM8k train trajectories to train an ORM. The LLaMA-1 70B model will be our policy. Then train an [orm](https://arxiv.org/pdf/2211.14275) on these trajectories with different base models: LLaMA-1, LLaMA-2, LLaMA-3. Then evaluate by sampling from the policy and re-ranking with the three ORM models at various levels of pass@k.
+Take a LLaMA-1 70B model and sample GSM8k train trajectories to train an [outcome reward model (ORM)](https://arxiv.org/pdf/2211.14275). The LLaMA-1 70B model will be our policy. Then train an ORM on these trajectories with different base models: LLaMA-1, LLaMA-2, LLaMA-3. Then evaluate by sampling from the policy and re-ranking with the three ORM models at various levels of pass@k.
 
 If you plot the pass@k on a single graph, you’ll see the same policy doing much better with reward models trained on more recent base models.
 
