@@ -37,7 +37,7 @@ The problem for AGI is then is to find a sufficiently general reward function - 
 
 It would be great if LLMs could verify their own solutions, as this would help us make progress towards a general reward function.
 
-Many people on Twitter state definitively that “LLMs can’t verify”. The word they are missing is “yet”. In fact, self-reward is one of the ideas that has strong potential for results as we continue to scale.
+Many people on Twitter state definitively that “LLMs can’t verify”. The word they are missing is “yet”. Self-reward has strong potential for results as we continue to scale.
 
 To see this, you can do a simple example.
 
