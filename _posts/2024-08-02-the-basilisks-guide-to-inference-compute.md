@@ -23,9 +23,9 @@ We could imagine collecting a training corpus up until 1905, and then trying to 
 **Problem:**
 - How to get dense feedback on LLM trajectories?
 
-Nathan asked me about the benefits of PRM. I see this through the lens of an older idea which is [MCPE](http://incompleteideas.net/book/first/ebook/node51.html). Using Monte Carlo rollouts, and a reward function, we can learn to assign dense values at each point in a trajectory - instead of using human annotations.
+Nathan asked me about the benefits of PRM. I see this through the lens of an older idea which is [MCPE](http://incompleteideas.net/book/first/ebook/node51.html). Using Monte Carlo rollouts, and a reward function, we can learn to assign dense feedback at each point in a trajectory, instead of using human annotations.
 
-MCTS is a particular instantiation of this idea. It's still underappreciated how the main motivation behind the idea was to learn a value function - given how hard it was to build human-crafted evaluation functions for Go. But it's easy to evaluate if someone has won the game (the reward function). Combined a search tree, we then have a basis for obtaining dense feedback.
+MCTS is a particular instantiation of this idea. It's underappreciated how the original motivation behind MCTS was to learn a value function - given how hard it was to build human-crafted evaluation functions for Go. But in games like Go, it is easy to evaluate if someone has won the game (the reward function). Combining Monte Carlo rollouts with a search tree gives us the basis for obtaining dense feedback.
 
 Variants of this idea were published recently, see [SORM](https://arxiv.org/abs/2402.10963) and [MATH-shepherd](https://arxiv.org/abs/2312.08935).
 
@@ -33,7 +33,7 @@ The problem for AGI is then is to find a sufficiently general reward function.
 
 ## Self-Reward
 
-It would be great if language models could verify their own solutions, as this would solve the generality problem mentioned above.
+It would be great if LLMs could verify their own solutions, as this would solve the generality problem mentioned above.
 
 I see many people claiming that “LLMs can’t verify” their solutions on Twitter. The word they are missing is “yet”, and in fact, in many cases self-reward works for the current generation of models.
 
