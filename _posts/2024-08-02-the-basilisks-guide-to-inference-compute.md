@@ -39,7 +39,7 @@ It would be great if LLMs could verify their own solutions, as this would help u
 
 Many people on Twitter state definitively that “LLMs can’t verify”. The word they are missing is “yet”. Self-reward has strong potential for results as we continue to scale.
 
-To see this, you can do a simple example.
+To see this, you can do a simple experiment with open models.
 
 Take a LLaMA-1 70B model and sample GSM8k train trajectories to train an [outcome reward model (ORM)](https://arxiv.org/pdf/2211.14275). The LLaMA-1 70B model will be our policy. Then train an ORM on these trajectories with different base models: LLaMA-1, LLaMA-2, LLaMA-3. Then evaluate by sampling from the policy for GSM8k and re-rank with the three ORM models at various levels of pass@k.
 
