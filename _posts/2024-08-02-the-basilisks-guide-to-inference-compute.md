@@ -2,7 +2,7 @@
 
 I had a great time talking to Nathan Lambert about my recent work. I touched upon several ideas and thought it might be useful to expand on them in more detail here.
 
-## LLM Creativity
+## Benchmarking LLM Creativity as Rediscovery
 
 **Problem:**
 - How to make LLMs creative? 
