@@ -2,7 +2,7 @@
 
 I had a great time talking to Nathan Lambert about my recent work. I touched upon several ideas and thought it might be useful to expand on them in more detail here.
 
-## The 1905 Project
+## LLM Creativity
 
 **Problem:**
 - How to make LLMs creative? 
@@ -14,7 +14,7 @@ So here is an idea. We take a known breakthrough in the past and create a traini
 
 For example, [Einstein famously published four papers in 1905](https://en.wikipedia.org/wiki/Annus_mirabilis_papers) explaining the photoelectric effect, Brownian motion, special relativity and mass-energy equivariance. 
 
-We could imagine collecting a training corpus up until 1905, and then trying to rediscover these breakthroughs. If we succeeded, we would havegood evidence that LLMs can be as creative as the most creative human. We could then try to use the same method for the present day and use it for brand new discoveries.
+We could imagine collecting a training corpus up until 1905, and then trying to rediscover these breakthroughs. If we succeeded, we would have evidence that LLMs can be as creative as the most creative human. We could then try to use the same method for the present day and use it for brand new discoveries.
 
 (* The downside to this instantiation is that most useful tokens were published online after 1905! But we could imagine doing a similar experiment with more recent breakthroughs)
 
@@ -31,7 +31,7 @@ Variants of this idea were published recently, see [SORM](https://arxiv.org/abs/
 
 The problem for AGI is then is to find a sufficiently general reward function.
 
-## Self-Verify, Self-Reward
+## Self-Reward
 
 It would be great if language models could verify their own solutions, as this would solve the generality problem mentioned above.
 
