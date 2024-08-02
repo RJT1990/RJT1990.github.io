@@ -15,7 +15,7 @@ For example, [Einstein famously published four papers in 1905](https://en.wikipe
 
 We could imaging pre-training a model on a training corpus up until 1905, and then trying to rediscover these breakthroughs through inference compute. If we succeeded, we would have evidence that LLMs can be as creative as the most creative human. We could then use the same method for the present day and make new discoveries.
 
-(* The downside to this instantiation is that most useful tokens were published online after 1905! But we could imagine a similar setup with more recent breakthroughs)
+(* The downside to this instantiation is that most useful tokens were published after 1905! But we could imagine a similar setup with more recent breakthroughs)
 
 ## Monte Carlo Policy Evaluation (MCPE)
 
@@ -24,7 +24,7 @@ We could imaging pre-training a model on a training corpus up until 1905, and th
 
 Nathan asked me about the benefits of [PRM](https://arxiv.org/pdf/2211.14275). I see this through the lens of an older idea which is [MCPE](http://incompleteideas.net/book/first/ebook/node51.html). Using Monte Carlo rollouts, and a reward function, we can learn to assign dense feedback at each point in a trajectory, instead of using human annotations.
 
-MCTS is a particular instantiation of this idea. It's underappreciated how the original motivation behind MCTS was to learn a value function - given how hard it was to build human-crafted evaluation functions for Go. But in games like Go, it is easy to evaluate if someone has won the game (the reward function). Combining Monte Carlo rollouts with a search tree and a reward function gives us the basis for obtaining dense feedback.
+MCTS is a particular instantiation of this idea. It's underappreciated how the original motivation behind MCTS was to learn a value function - given how hard it was to build hand-crafted evaluation functions for Go. But in games like Go, it is easy to evaluate if someone has won the game (the reward function). So combining Monte Carlo rollouts with a search tree and a reward function gives us the basis for obtaining dense feedback.
 
 Variants of this idea were published recently, see [SORM](https://arxiv.org/abs/2402.10963) and [MATH-shepherd](https://arxiv.org/abs/2312.08935).
 
